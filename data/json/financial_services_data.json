@@ -84,6 +84,14 @@
             "id": "wd:Q4856327"
         },
         {
+            "label": "Fractional financing",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5477535"
+        },
+        {
             "label": "funding",
             "description": "act of providing resources",
             "distance_to_root": 1,
@@ -122,6 +130,22 @@
             "number_of_instances": 0,
             "image_url": "",
             "id": "wd:Q21489890"
+        },
+        {
+            "label": "timeshare",
+            "description": "property with a particular form of ownership or use rights",
+            "distance_to_root": 2,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q696937"
+        },
+        {
+            "label": "Fractional ownership",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3407602"
         },
         {
             "label": "pension",
@@ -620,60 +644,76 @@
             "id": "wd:Q96107484"
         },
         {
-            "label": "usage lend",
+            "label": "digital currency exchanger",
+            "description": "business that allows customers to trade digital currencies for other assets, such as conventional fiat money or other digital currencies",
+            "distance_to_root": 2,
+            "number_of_instances": 9,
+            "image_url": "",
+            "id": "wd:Q3511068"
+        },
+        {
+            "label": "private loan",
+            "description": "loan where a borrower borrows money from one or a few lenders",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q13922887"
+        },
+        {
+            "label": "pfandbrief",
+            "description": "",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q13994919"
+        },
+        {
+            "label": "complex financial product",
             "description": "",
             "distance_to_root": 2,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q1976220"
+            "id": "wd:Q14917730"
         },
         {
-            "label": "charter",
+            "label": "stock future",
+            "description": "",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q16068686"
+        },
+        {
+            "label": "fixed-rate loan",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q18029220"
+        },
+        {
+            "label": "strip bond",
+            "description": "",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q26701418"
+        },
+        {
+            "label": "BharatQR",
+            "description": "Payment interface in India.",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q48728987"
+        },
+        {
+            "label": "banking product",
             "description": "",
             "distance_to_root": 2,
-            "number_of_instances": 0,
+            "number_of_instances": 2,
             "image_url": "",
-            "id": "wd:Q2712246"
-        },
-        {
-            "label": "housing rental",
-            "description": "",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q4315279"
-        },
-        {
-            "label": "Lease purchase contract",
-            "description": "",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q6510289"
-        },
-        {
-            "label": "Pet rental",
-            "description": "",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7171581"
-        },
-        {
-            "label": "vehicle rental",
-            "description": "rental system of any vehicle (bicycle, car)",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q24455304"
-        },
-        {
-            "label": "residential rental in Belgium",
-            "description": "",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q56683049"
+            "id": "wd:Q63368583"
         },
         {
             "label": "derivative",
@@ -948,110 +988,6 @@
             "id": "wd:Q3151423"
         },
         {
-            "label": "personal loan",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q4385034"
-        },
-        {
-            "label": "Composite",
-            "description": "combination of equities or indexes intended to measure the overall market performance over time",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5156731"
-        },
-        {
-            "label": "exotic derivative",
-            "description": "",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5420721"
-        },
-        {
-            "label": "Individual retirement account",
-            "description": "IRA",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q6025330"
-        },
-        {
-            "label": "Online wallet",
-            "description": "",
-            "distance_to_root": 2,
-            "number_of_instances": 2,
-            "image_url": "",
-            "id": "wd:Q7094135"
-        },
-        {
-            "label": "Roth IRA",
-            "description": "Individual retirement account",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7370386"
-        },
-        {
-            "label": "Installment credit",
-            "description": "",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q8193794"
-        },
-        {
-            "label": "money order",
-            "description": "payment order for a pre-specified amount of money",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q11776449"
-        },
-        {
-            "label": "finance lease",
-            "description": "type of lease",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q12586715"
-        },
-        {
-            "label": "money transfer",
-            "description": "the moving of wealth from one place or owner to another",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q13377609"
-        },
-        {
-            "label": "private loan",
-            "description": "loan where a borrower borrows money from one or a few lenders",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q13922887"
-        },
-        {
-            "label": "pfandbrief",
-            "description": "",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q13994919"
-        },
-        {
-            "label": "digital currency exchanger",
-            "description": "business that allows customers to trade digital currencies for other assets, such as conventional fiat money or other digital currencies",
-            "distance_to_root": 2,
-            "number_of_instances": 8,
-            "image_url": "",
-            "id": "wd:Q3511068"
-        },
-        {
             "label": "public-private partnership",
             "description": "government service or private business venture which is funded and operated through a partnership of government and one or more private sector companies",
             "distance_to_root": 2,
@@ -1196,316 +1132,60 @@
             "id": "wd:Q79379979"
         },
         {
-            "label": "cheque",
-            "description": "method of payment",
-            "distance_to_root": 3,
-            "number_of_instances": 1,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sample%20cheque.jpeg?width=900",
-            "id": "wd:Q80042"
-        },
-        {
-            "label": "Mefo bills",
-            "description": "promissory note used for a system of deferred payment to finance the German 1930s rearmament",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q520987"
-        },
-        {
-            "label": "legal tender",
-            "description": "medium of payment allowed by law or recognized by a legal system to be valid for meeting a financial obligation",
-            "distance_to_root": 3,
-            "number_of_instances": 16,
-            "image_url": "",
-            "id": "wd:Q1643989"
-        },
-        {
-            "label": "Electronic funds transfer",
-            "description": "transfer my money hold me dahabshiil to my edahab service of somtel network in somaliland 252659105875 Faisal hassan rabah",
-            "distance_to_root": 3,
-            "number_of_instances": 1,
-            "image_url": "",
-            "id": "wd:Q2914495"
-        },
-        {
-            "label": "National Electronic Fund Transfer",
-            "description": "Electronic funds transfer system",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q19894569"
-        },
-        {
-            "label": "instant payment",
+            "label": "usage lend",
             "description": "",
-            "distance_to_root": 3,
+            "distance_to_root": 2,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q56280739"
+            "id": "wd:Q1976220"
         },
         {
-            "label": "Aircraft lease",
+            "label": "charter",
             "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 1,
-            "image_url": "",
-            "id": "wd:Q153476"
-        },
-        {
-            "label": "operating lease",
-            "description": "financial product",
-            "distance_to_root": 3,
+            "distance_to_root": 2,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q375738"
+            "id": "wd:Q2712246"
         },
         {
-            "label": "vehicle leasing",
-            "description": "type of leasing",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2040992"
-        },
-        {
-            "label": "share",
-            "description": "single unit of ownership in a corporation, mutual fund, or any other organization",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q11692"
-        },
-        {
-            "label": "Reverse convertible securities",
+            "label": "housing rental",
             "description": "",
-            "distance_to_root": 3,
+            "distance_to_root": 2,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q245849"
+            "id": "wd:Q4315279"
         },
         {
-            "label": "Abzinsungspapier",
-            "description": "German term: a type of interest security",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q336674"
-        },
-        {
-            "label": "securities to the bearer",
+            "label": "Lease purchase contract",
             "description": "",
-            "distance_to_root": 3,
+            "distance_to_root": 2,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q878039"
+            "id": "wd:Q6510289"
         },
         {
-            "label": "collateralized debt obligation",
-            "description": "financial product",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1108930"
-        },
-        {
-            "label": "stock",
-            "description": "all of the shares into which ownership of the corporation is divided",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1196314"
-        },
-        {
-            "label": "Genussschein",
-            "description": "german security",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Scripophily%20HEINKEL.jpg?width=900",
-            "id": "wd:Q1502709"
-        },
-        {
-            "label": "depositary receipt",
-            "description": "type of security",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1619777"
-        },
-        {
-            "label": "Collateralized mortgage obligation",
+            "label": "Pet rental",
             "description": "",
-            "distance_to_root": 3,
+            "distance_to_root": 2,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q5146002"
+            "id": "wd:Q7171581"
         },
         {
-            "label": "Equity-Linked Note",
-            "description": "financial instrument",
-            "distance_to_root": 3,
+            "label": "vehicle rental",
+            "description": "rental system of any vehicle (bicycle, car)",
+            "distance_to_root": 2,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q5384655"
+            "id": "wd:Q24455304"
         },
         {
-            "label": "Differential Voting Right",
+            "label": "residential rental in Belgium",
             "description": "",
-            "distance_to_root": 3,
+            "distance_to_root": 2,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q25100500"
-        },
-        {
-            "label": "bond",
-            "description": "instrument of indebtedness",
-            "distance_to_root": 3,
-            "number_of_instances": 1,
-            "image_url": "",
-            "id": "wd:Q11693"
-        },
-        {
-            "label": "central government debt",
-            "description": "debt owed by a central government",
-            "distance_to_root": 3,
-            "number_of_instances": 10,
-            "image_url": "",
-            "id": "wd:Q12695"
-        },
-        {
-            "label": "credit",
-            "description": "loan",
-            "distance_to_root": 3,
-            "number_of_instances": 1,
-            "image_url": "",
-            "id": "wd:Q182076"
-        },
-        {
-            "label": "Soft loan",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q205205"
-        },
-        {
-            "label": "student loan",
-            "description": "loans given to students for education-related expenses",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q462058"
-        },
-        {
-            "label": "peer-to-peer lending",
-            "description": "practice of lending money to unrelated individuals without going through a traditional financial intermediary",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q592614"
-        },
-        {
-            "label": "commodate",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1580844"
-        },
-        {
-            "label": "mezzanine capital",
-            "description": "any subordinated debt or preferred equity instrument that represents a claim on a company's assets which is senior only to that of the common shares",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1755898"
-        },
-        {
-            "label": "PIK loan",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1969070"
-        },
-        {
-            "label": "government-backed loan",
-            "description": "loans subsidized by governments",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5588653"
-        },
-        {
-            "label": "stated income loan",
-            "description": "mortgage where borrowers state their income",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7603922"
-        },
-        {
-            "label": "Term loan",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7702559"
-        },
-        {
-            "label": "consumer loan",
-            "description": "non collateralized loan",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q11969528"
-        },
-        {
-            "label": "non-bank loan",
-            "description": "loan provided by an entity other than a bank",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q13629000"
-        },
-        {
-            "label": "fixed-rate loan",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q18029220"
-        },
-        {
-            "label": "preferential loan",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q18431185"
-        },
-        {
-            "label": "VeniVidiVici Student Lending",
-            "description": "A student loan/lending system used in Estonia",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q25505492"
-        },
-        {
-            "label": "floating rate loan",
-            "description": "refers to a loan with a floating interest rate.",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q56489736"
-        },
-        {
-            "label": "fixed interest rate loan",
-            "description": "loan where the interest rate doesn't fluctuate during the fixed rate period of the loan",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q65230090"
+            "id": "wd:Q56683049"
         },
         {
             "label": "futures contract",
@@ -1604,6 +1284,14 @@
             "id": "wd:Q1439309"
         },
         {
+            "label": "exotic derivative",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5420721"
+        },
+        {
             "label": "STIRT",
             "description": "type of financial products",
             "distance_to_root": 4,
@@ -1634,6 +1322,270 @@
             "number_of_instances": 7,
             "image_url": "",
             "id": "wd:Q64623553"
+        },
+        {
+            "label": "bond",
+            "description": "instrument of indebtedness",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q11693"
+        },
+        {
+            "label": "central government debt",
+            "description": "debt owed by a central government",
+            "distance_to_root": 3,
+            "number_of_instances": 10,
+            "image_url": "",
+            "id": "wd:Q12695"
+        },
+        {
+            "label": "credit",
+            "description": "loan",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q182076"
+        },
+        {
+            "label": "Soft loan",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q205205"
+        },
+        {
+            "label": "student loan",
+            "description": "loans given to students for education-related expenses",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q462058"
+        },
+        {
+            "label": "peer-to-peer lending",
+            "description": "practice of lending money to unrelated individuals without going through a traditional financial intermediary",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q592614"
+        },
+        {
+            "label": "commodate",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1580844"
+        },
+        {
+            "label": "mezzanine capital",
+            "description": "any subordinated debt or preferred equity instrument that represents a claim on a company's assets which is senior only to that of the common shares",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1755898"
+        },
+        {
+            "label": "PIK loan",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1969070"
+        },
+        {
+            "label": "personal loan",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4385034"
+        },
+        {
+            "label": "government-backed loan",
+            "description": "loans subsidized by governments",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5588653"
+        },
+        {
+            "label": "stated income loan",
+            "description": "mortgage where borrowers state their income",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7603922"
+        },
+        {
+            "label": "Term loan",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7702559"
+        },
+        {
+            "label": "consumer loan",
+            "description": "non collateralized loan",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q11969528"
+        },
+        {
+            "label": "non-bank loan",
+            "description": "loan provided by an entity other than a bank",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q13629000"
+        },
+        {
+            "label": "preferential loan",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q18431185"
+        },
+        {
+            "label": "VeniVidiVici Student Lending",
+            "description": "A student loan/lending system used in Estonia",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q25505492"
+        },
+        {
+            "label": "floating rate loan",
+            "description": "refers to a loan with a floating interest rate.",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q56489736"
+        },
+        {
+            "label": "fixed interest rate loan",
+            "description": "loan where the interest rate doesn't fluctuate during the fixed rate period of the loan",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q65230090"
+        },
+        {
+            "label": "cheque",
+            "description": "method of payment",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sample%20cheque.jpeg?width=900",
+            "id": "wd:Q80042"
+        },
+        {
+            "label": "Mefo bills",
+            "description": "promissory note used for a system of deferred payment to finance the German 1930s rearmament",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q520987"
+        },
+        {
+            "label": "legal tender",
+            "description": "medium of payment allowed by law or recognized by a legal system to be valid for meeting a financial obligation",
+            "distance_to_root": 3,
+            "number_of_instances": 16,
+            "image_url": "",
+            "id": "wd:Q1643989"
+        },
+        {
+            "label": "share",
+            "description": "single unit of ownership in a corporation, mutual fund, or any other organization",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q11692"
+        },
+        {
+            "label": "Reverse convertible securities",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q245849"
+        },
+        {
+            "label": "Abzinsungspapier",
+            "description": "German term: a type of interest security",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q336674"
+        },
+        {
+            "label": "securities to the bearer",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q878039"
+        },
+        {
+            "label": "collateralized debt obligation",
+            "description": "financial product",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1108930"
+        },
+        {
+            "label": "stock",
+            "description": "all of the shares into which ownership of the corporation is divided",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1196314"
+        },
+        {
+            "label": "Genussschein",
+            "description": "german security",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Scripophily%20HEINKEL.jpg?width=900",
+            "id": "wd:Q1502709"
+        },
+        {
+            "label": "depositary receipt",
+            "description": "type of security",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1619777"
+        },
+        {
+            "label": "Collateralized mortgage obligation",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5146002"
+        },
+        {
+            "label": "Equity-Linked Note",
+            "description": "financial instrument",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5384655"
+        },
+        {
+            "label": "Differential Voting Right",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q25100500"
         },
         {
             "label": "single-payer health care",
@@ -1732,6 +1684,62 @@
             "id": "wd:Q5035802"
         },
         {
+            "label": "Electronic funds transfer",
+            "description": "transfer my money hold me dahabshiil to my edahab service of somtel network in somaliland 252659105875 Faisal hassan rabah",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q2914495"
+        },
+        {
+            "label": "National Electronic Fund Transfer",
+            "description": "Electronic funds transfer system",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q19894569"
+        },
+        {
+            "label": "instant payment",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q56280739"
+        },
+        {
+            "label": "Aircraft lease",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q153476"
+        },
+        {
+            "label": "operating lease",
+            "description": "financial product",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q375738"
+        },
+        {
+            "label": "vehicle leasing",
+            "description": "type of leasing",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2040992"
+        },
+        {
+            "label": "finance lease",
+            "description": "type of lease",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q12586715"
+        },
+        {
             "label": "defined contribution plan",
             "description": "type of retirement plan",
             "distance_to_root": 4,
@@ -1818,454 +1826,6 @@
             "number_of_instances": 0,
             "image_url": "",
             "id": "wd:Q63456770"
-        },
-        {
-            "label": "money",
-            "description": "object or record accepted as payment",
-            "distance_to_root": 4,
-            "number_of_instances": 6,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Euro%20coins%20and%20banknotes.jpg?width=900",
-            "id": "wd:Q1368"
-        },
-        {
-            "label": "commodity money",
-            "description": "money with value derived from composition from a commodity (such as silver or gold coins)",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1637036"
-        },
-        {
-            "label": "Financial reinsurance",
-            "description": "form of reinsurance which is focused more on capital management than on risk transfer",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5449737"
-        },
-        {
-            "label": "Collateralized loan obligation",
-            "description": "",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1108914"
-        },
-        {
-            "label": "post-dated cheque",
-            "description": "cheque with a future date",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q334922"
-        },
-        {
-            "label": "blank cheque",
-            "description": "cheque that has no numerical value entered, but is already signed",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q881662"
-        },
-        {
-            "label": "cashier's check",
-            "description": "cheque from the direct funds of a financial institution",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1040723"
-        },
-        {
-            "label": "certified check",
-            "description": "bank-verified check",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2971994"
-        },
-        {
-            "label": "banker's draft",
-            "description": "",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2971998"
-        },
-        {
-            "label": "antedated cheque",
-            "description": "cheque dated in the past",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q4771127"
-        },
-        {
-            "label": "remotely created cheque",
-            "description": "form of cheque authorized by nontraditional means",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q22908255"
-        },
-        {
-            "label": "pay for performance",
-            "description": "movement in health insurance",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7156607"
-        },
-        {
-            "label": "Health maintenance organization",
-            "description": "",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q20035455"
-        },
-        {
-            "label": "trade credit insurance",
-            "description": "insurance",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1384703"
-        },
-        {
-            "label": "A share",
-            "description": "class of company share",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q277928"
-        },
-        {
-            "label": "H share",
-            "description": "",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q422027"
-        },
-        {
-            "label": "A-share",
-            "description": "Terminology of the Chinese stock markets",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q836113"
-        },
-        {
-            "label": "treasury stock",
-            "description": "stock which is bought back by the issuing company",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1516464"
-        },
-        {
-            "label": "growth stock",
-            "description": "stock of a company whose revenues and earnings are expected to increase at a faster rate than the average company within the same industry",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1746791"
-        },
-        {
-            "label": "penny stock",
-            "description": "a type of stock usually sold frequently and at very low prices",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1939224"
-        },
-        {
-            "label": "case bond",
-            "description": "investment in a legal claim",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5048328"
-        },
-        {
-            "label": "currency swap",
-            "description": "foreign-exchange agreement between two institutions to exchange aspects of a loan in one currency for equivalent aspects of an equal in net present value loan in another currency",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q515371"
-        },
-        {
-            "label": "Interest rate option",
-            "description": "products of the financial sector",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q205225"
-        },
-        {
-            "label": "lookback option",
-            "description": "finance: type of exotic option with path dependence",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1286721"
-        },
-        {
-            "label": "call option",
-            "description": "financial instrument",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1508707"
-        },
-        {
-            "label": "put option",
-            "description": "financial instrument",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1939618"
-        },
-        {
-            "label": "floor",
-            "description": "option",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2245732"
-        },
-        {
-            "label": "Ascot",
-            "description": "Asset Swapped Convertible Option Transaction",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q4804025"
-        },
-        {
-            "label": "Zwischenschein",
-            "description": "German term: a temporary version / certificate of a share",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q245043"
-        },
-        {
-            "label": "registered share",
-            "description": "",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q455261"
-        },
-        {
-            "label": "Bearer instrument",
-            "description": "",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q569375"
-        },
-        {
-            "label": "preferred stock",
-            "description": "type of stock which may have any combination of features not possessed by common stock",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q622588"
-        },
-        {
-            "label": "common stock",
-            "description": "form of corporate equity ownership, a type of security",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1081659"
-        },
-        {
-            "label": "golden share",
-            "description": "nominal share which is able to outvote all other shares in certain specified circumstances",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1523234"
-        },
-        {
-            "label": "ex dividend",
-            "description": "type of stock sale",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2187047"
-        },
-        {
-            "label": "No-par stock",
-            "description": "",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2360924"
-        },
-        {
-            "label": "action de pr\u00e9f\u00e9rence",
-            "description": "type of stock in France",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2823672"
-        },
-        {
-            "label": "B share",
-            "description": "\"class\" of common or preferred stock that typically has strengthened voting rights or other benefits",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q4073859"
-        },
-        {
-            "label": "property stocks",
-            "description": "",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q19914241"
-        },
-        {
-            "label": "supervoting stock",
-            "description": "class of stock",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q60790241"
-        },
-        {
-            "label": "Federal Perkins Loan",
-            "description": "",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5440328"
-        },
-        {
-            "label": "PLUS Loan",
-            "description": "",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7119681"
-        },
-        {
-            "label": "private student loan",
-            "description": "",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7246255"
-        },
-        {
-            "label": "Stafford Loan",
-            "description": "",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7596641"
-        },
-        {
-            "label": "student loans in the United States",
-            "description": "loans incurred to pay for higher education",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7627863"
-        },
-        {
-            "label": "private liability insurance",
-            "description": "liability insurance",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q895683"
-        },
-        {
-            "label": "Directors and officers liability insurance",
-            "description": "liability insurance",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1151223"
-        },
-        {
-            "label": "hunting liability insurance",
-            "description": "",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1678290"
-        },
-        {
-            "label": "animal holder's liability insurance",
-            "description": "",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2432223"
-        },
-        {
-            "label": "Wet lease",
-            "description": "type of aircraft leasing",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q45405722"
-        },
-        {
-            "label": "tontine",
-            "description": "form of investment in which shares devolve to remaining participants upon a participant's death",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q576645"
-        },
-        {
-            "label": "variable universal life insurance",
-            "description": "a type of life insurance that builds a cash value",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7915743"
-        },
-        {
-            "label": "whole life insurance",
-            "description": "life insurance policy which is guaranteed to remain in force for the insured's entire lifetime, provided required premiums are paid, or to the maturity date",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7997554"
-        },
-        {
-            "label": "Branch 23 Life Insurance",
-            "description": "",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q19926562"
-        },
-        {
-            "label": "E-mini S&P",
-            "description": "",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5321525"
-        },
-        {
-            "label": "stock future",
-            "description": "",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q16068686"
         },
         {
             "label": "Fixed rate bond",
@@ -2388,20 +1948,180 @@
             "id": "wd:Q71859675"
         },
         {
-            "label": "visitor health insurance",
-            "description": "",
-            "distance_to_root": 4,
+            "label": "Total return swap",
+            "description": "financial contract",
+            "distance_to_root": 5,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q17119412"
+            "id": "wd:Q140279"
         },
         {
-            "label": "travel cancellation insurance",
+            "label": "Credit default swap",
+            "description": "financial swap agreement in case of default",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q624028"
+        },
+        {
+            "label": "PAUG",
+            "description": "form of Derivatives",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7118288"
+        },
+        {
+            "label": "private liability insurance",
+            "description": "liability insurance",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q895683"
+        },
+        {
+            "label": "Directors and officers liability insurance",
+            "description": "liability insurance",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1151223"
+        },
+        {
+            "label": "hunting liability insurance",
             "description": "",
             "distance_to_root": 4,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q20664516"
+            "id": "wd:Q1678290"
+        },
+        {
+            "label": "animal holder's liability insurance",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2432223"
+        },
+        {
+            "label": "tontine",
+            "description": "form of investment in which shares devolve to remaining participants upon a participant's death",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q576645"
+        },
+        {
+            "label": "variable universal life insurance",
+            "description": "a type of life insurance that builds a cash value",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7915743"
+        },
+        {
+            "label": "whole life insurance",
+            "description": "life insurance policy which is guaranteed to remain in force for the insured's entire lifetime, provided required premiums are paid, or to the maturity date",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7997554"
+        },
+        {
+            "label": "Branch 23 Life Insurance",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q19926562"
+        },
+        {
+            "label": "Financial reinsurance",
+            "description": "form of reinsurance which is focused more on capital management than on risk transfer",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5449737"
+        },
+        {
+            "label": "currency swap",
+            "description": "foreign-exchange agreement between two institutions to exchange aspects of a loan in one currency for equivalent aspects of an equal in net present value loan in another currency",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q515371"
+        },
+        {
+            "label": "American depositary receipt",
+            "description": "security representing ownership of an underlying number of shares of a foreign company",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q463881"
+        },
+        {
+            "label": "European depository receipt",
+            "description": "security representing ownership of an underlying number of shares of a foreign company",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1376513"
+        },
+        {
+            "label": "Global depository receipt",
+            "description": "security representing ownership of an underlying number of shares of a foreign company",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1531599"
+        },
+        {
+            "label": "Indian Depository Receipt",
+            "description": "type of depositary receipt",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6020238"
+        },
+        {
+            "label": "Luxembourg Depositary Receipt",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6706226"
+        },
+        {
+            "label": "Taiwan Depositary Receipt",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q13164376"
+        },
+        {
+            "label": "Hong Kong Depositary Receipt",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q17032424"
+        },
+        {
+            "label": "Collateralized loan obligation",
+            "description": "",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1108914"
+        },
+        {
+            "label": "interest rate swap",
+            "description": "linear interest rate derivative involving exchange of interest rates between two parties",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q205258"
         },
         {
             "label": "agricultural credit",
@@ -2492,6 +2212,14 @@
             "id": "wd:Q3453856"
         },
         {
+            "label": "Installment credit",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q8193794"
+        },
+        {
             "label": "investment loan",
             "description": "",
             "distance_to_root": 4,
@@ -2508,60 +2236,52 @@
             "id": "wd:Q67896945"
         },
         {
-            "label": "International Motor Insurance Card System",
+            "label": "A share",
+            "description": "class of company share",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q277928"
+        },
+        {
+            "label": "H share",
             "description": "",
             "distance_to_root": 4,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q1544797"
+            "id": "wd:Q422027"
         },
         {
-            "label": "Comprehensive Cover",
-            "description": "Type of insurance for cars",
+            "label": "A-share",
+            "description": "Terminology of the Chinese stock markets",
             "distance_to_root": 4,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q1735021"
+            "id": "wd:Q836113"
         },
         {
-            "label": "third party insurance",
-            "description": "subconcept of Motor vehicle insurance (scot/3250)",
+            "label": "treasury stock",
+            "description": "stock which is bought back by the issuing company",
             "distance_to_root": 4,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q93423431"
+            "id": "wd:Q1516464"
         },
         {
-            "label": "Total return swap",
-            "description": "financial contract",
-            "distance_to_root": 5,
+            "label": "growth stock",
+            "description": "stock of a company whose revenues and earnings are expected to increase at a faster rate than the average company within the same industry",
+            "distance_to_root": 4,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q140279"
+            "id": "wd:Q1746791"
         },
         {
-            "label": "Credit default swap",
-            "description": "financial swap agreement in case of default",
-            "distance_to_root": 5,
+            "label": "penny stock",
+            "description": "a type of stock usually sold frequently and at very low prices",
+            "distance_to_root": 4,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q624028"
-        },
-        {
-            "label": "PAUG",
-            "description": "form of Derivatives",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7118288"
-        },
-        {
-            "label": "interest rate swap",
-            "description": "linear interest rate derivative involving exchange of interest rates between two parties",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q205258"
+            "id": "wd:Q1939224"
         },
         {
             "label": "health insurance cooperative",
@@ -2596,6 +2316,14 @@
             "id": "wd:Q17076813"
         },
         {
+            "label": "visitor health insurance",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q17119412"
+        },
+        {
             "label": "Employee Health Insurance",
             "description": "",
             "distance_to_root": 4,
@@ -2612,60 +2340,220 @@
             "id": "wd:Q28455190"
         },
         {
-            "label": "American depositary receipt",
-            "description": "security representing ownership of an underlying number of shares of a foreign company",
+            "label": "Wet lease",
+            "description": "type of aircraft leasing",
             "distance_to_root": 4,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q463881"
+            "id": "wd:Q45405722"
         },
         {
-            "label": "European depository receipt",
-            "description": "security representing ownership of an underlying number of shares of a foreign company",
+            "label": "post-dated cheque",
+            "description": "cheque with a future date",
             "distance_to_root": 4,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q1376513"
+            "id": "wd:Q334922"
         },
         {
-            "label": "Global depository receipt",
-            "description": "security representing ownership of an underlying number of shares of a foreign company",
+            "label": "blank cheque",
+            "description": "cheque that has no numerical value entered, but is already signed",
             "distance_to_root": 4,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q1531599"
+            "id": "wd:Q881662"
         },
         {
-            "label": "Indian Depository Receipt",
-            "description": "type of depositary receipt",
+            "label": "cashier's check",
+            "description": "cheque from the direct funds of a financial institution",
             "distance_to_root": 4,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q6020238"
+            "id": "wd:Q1040723"
         },
         {
-            "label": "Luxembourg Depositary Receipt",
+            "label": "certified check",
+            "description": "bank-verified check",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2971994"
+        },
+        {
+            "label": "banker's draft",
             "description": "",
             "distance_to_root": 4,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q6706226"
+            "id": "wd:Q2971998"
         },
         {
-            "label": "Taiwan Depositary Receipt",
+            "label": "antedated cheque",
+            "description": "cheque dated in the past",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4771127"
+        },
+        {
+            "label": "remotely created cheque",
+            "description": "form of cheque authorized by nontraditional means",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q22908255"
+        },
+        {
+            "label": "E-mini S&P",
+            "description": "",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5321525"
+        },
+        {
+            "label": "International Motor Insurance Card System",
             "description": "",
             "distance_to_root": 4,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q13164376"
+            "id": "wd:Q1544797"
         },
         {
-            "label": "Hong Kong Depositary Receipt",
+            "label": "Comprehensive Cover",
+            "description": "Type of insurance for cars",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1735021"
+        },
+        {
+            "label": "third party insurance",
+            "description": "subconcept of Motor vehicle insurance (scot/3250)",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q93423431"
+        },
+        {
+            "label": "pay for performance",
+            "description": "movement in health insurance",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7156607"
+        },
+        {
+            "label": "Health maintenance organization",
+            "description": "",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q20035455"
+        },
+        {
+            "label": "Federal Perkins Loan",
             "description": "",
             "distance_to_root": 4,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q17032424"
+            "id": "wd:Q5440328"
+        },
+        {
+            "label": "PLUS Loan",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7119681"
+        },
+        {
+            "label": "private student loan",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7246255"
+        },
+        {
+            "label": "Stafford Loan",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7596641"
+        },
+        {
+            "label": "student loans in the United States",
+            "description": "loans incurred to pay for higher education",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7627863"
+        },
+        {
+            "label": "Interest rate option",
+            "description": "products of the financial sector",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q205225"
+        },
+        {
+            "label": "lookback option",
+            "description": "finance: type of exotic option with path dependence",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1286721"
+        },
+        {
+            "label": "call option",
+            "description": "financial instrument",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1508707"
+        },
+        {
+            "label": "put option",
+            "description": "financial instrument",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1939618"
+        },
+        {
+            "label": "floor",
+            "description": "option",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2245732"
+        },
+        {
+            "label": "Ascot",
+            "description": "Asset Swapped Convertible Option Transaction",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4804025"
+        },
+        {
+            "label": "trade credit insurance",
+            "description": "insurance",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1384703"
+        },
+        {
+            "label": "case bond",
+            "description": "investment in a legal claim",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5048328"
         },
         {
             "label": "internal debt",
@@ -2684,36 +2572,124 @@
             "id": "wd:Q3024796"
         },
         {
-            "label": "flexible spending account",
-            "description": "one of a number of tax-advantaged financial accounts, resulting in payroll tax savings",
-            "distance_to_root": 5,
+            "label": "travel cancellation insurance",
+            "description": "",
+            "distance_to_root": 4,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q5458993"
+            "id": "wd:Q20664516"
         },
         {
-            "label": "Health Reimbursement Account",
-            "description": "",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5690639"
+            "label": "money",
+            "description": "object or record accepted as payment",
+            "distance_to_root": 4,
+            "number_of_instances": 6,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Euro%20coins%20and%20banknotes.jpg?width=900",
+            "id": "wd:Q1368"
         },
         {
-            "label": "health savings account",
-            "description": "",
-            "distance_to_root": 5,
+            "label": "commodity money",
+            "description": "money with value derived from composition from a commodity (such as silver or gold coins)",
+            "distance_to_root": 4,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q5691144"
+            "id": "wd:Q1637036"
         },
         {
-            "label": "strip bond",
-            "description": "",
-            "distance_to_root": 5,
+            "label": "Zwischenschein",
+            "description": "German term: a temporary version / certificate of a share",
+            "distance_to_root": 4,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q26701418"
+            "id": "wd:Q245043"
+        },
+        {
+            "label": "registered share",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q455261"
+        },
+        {
+            "label": "Bearer instrument",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q569375"
+        },
+        {
+            "label": "preferred stock",
+            "description": "type of stock which may have any combination of features not possessed by common stock",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q622588"
+        },
+        {
+            "label": "common stock",
+            "description": "form of corporate equity ownership, a type of security",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1081659"
+        },
+        {
+            "label": "golden share",
+            "description": "nominal share which is able to outvote all other shares in certain specified circumstances",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1523234"
+        },
+        {
+            "label": "ex dividend",
+            "description": "type of stock sale",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2187047"
+        },
+        {
+            "label": "No-par stock",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2360924"
+        },
+        {
+            "label": "action de pr\u00e9f\u00e9rence",
+            "description": "type of stock in France",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2823672"
+        },
+        {
+            "label": "B share",
+            "description": "\"class\" of common or preferred stock that typically has strengthened voting rights or other benefits",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4073859"
+        },
+        {
+            "label": "property stocks",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q19914241"
+        },
+        {
+            "label": "supervoting stock",
+            "description": "class of stock",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q60790241"
         },
         {
             "label": "ACMI",
@@ -2724,14 +2700,6 @@
             "id": "wd:Q47294054"
         },
         {
-            "label": "Thrift Savings Plan",
-            "description": "",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7798131"
-        },
-        {
             "label": "Consol",
             "description": "type of perpetual bond",
             "distance_to_root": 5,
@@ -2740,20 +2708,28 @@
             "id": "wd:Q13417159"
         },
         {
+            "label": "currency swap agreement",
+            "description": "",
+            "distance_to_root": 6,
+            "number_of_instances": 6,
+            "image_url": "",
+            "id": "wd:Q39233713"
+        },
+        {
+            "label": "traveler's cheque",
+            "description": "",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CzekPodr%C3%B3%C5%BCniczy%202000z%C5%82otych%20obverse.jpg?width=900",
+            "id": "wd:Q1061429"
+        },
+        {
             "label": "Long-term care insurance in Germany",
             "description": "",
             "distance_to_root": 5,
             "number_of_instances": 0,
             "image_url": "",
             "id": "wd:Q2084219"
-        },
-        {
-            "label": "contract for difference",
-            "description": "contract stipulating that the seller will pay to the buyer the difference between the current value of an asset and its value at contract time",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1129769"
         },
         {
             "label": "forced bonds",
@@ -2772,52 +2748,68 @@
             "id": "wd:Q2659806"
         },
         {
-            "label": "binary option",
-            "description": "The Financial Exotic option",
-            "distance_to_root": 6,
+            "label": "fixed-rate mortgage",
+            "description": "financial product",
+            "distance_to_root": 5,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q549269"
+            "id": "wd:Q567383"
         },
         {
-            "label": "Asian option",
+            "label": "endowment mortgage",
             "description": "",
-            "distance_to_root": 6,
+            "distance_to_root": 5,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q728255"
+            "id": "wd:Q2160980"
         },
         {
-            "label": "Barrier option",
+            "label": "linear mortgage loan",
             "description": "",
-            "distance_to_root": 6,
+            "distance_to_root": 5,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q808919"
+            "id": "wd:Q2426363"
         },
         {
-            "label": "Cliquet",
+            "label": "interest-only loan",
             "description": "",
-            "distance_to_root": 6,
+            "distance_to_root": 5,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q1101825"
+            "id": "wd:Q2914802"
         },
         {
-            "label": "Chooser option",
+            "label": "FHA insured loan",
             "description": "",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5425519"
+        },
+        {
+            "label": "repayment mortgage",
+            "description": "",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7313932"
+        },
+        {
+            "label": "VA loan",
+            "description": "",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7906577"
+        },
+        {
+            "label": "Quality and Outcomes Framework",
+            "description": "aspect of the British healthcare system",
             "distance_to_root": 6,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q5104779"
-        },
-        {
-            "label": "mountain range",
-            "description": "exotic option originally marketed by Soci\u00e9t\u00e9 G\u00e9n\u00e9rale in 1998",
-            "distance_to_root": 6,
-            "number_of_instances": 1,
-            "image_url": "",
-            "id": "wd:Q6925544"
+            "id": "wd:Q7268769"
         },
         {
             "label": "Canada Pension Plan",
@@ -2874,6 +2866,118 @@
             "number_of_instances": 0,
             "image_url": "",
             "id": "wd:Q91040909"
+        },
+        {
+            "label": "binary option",
+            "description": "The Financial Exotic option",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q549269"
+        },
+        {
+            "label": "Asian option",
+            "description": "",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q728255"
+        },
+        {
+            "label": "Barrier option",
+            "description": "",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q808919"
+        },
+        {
+            "label": "Cliquet",
+            "description": "",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1101825"
+        },
+        {
+            "label": "Chooser option",
+            "description": "",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5104779"
+        },
+        {
+            "label": "mountain range",
+            "description": "exotic option originally marketed by Soci\u00e9t\u00e9 G\u00e9n\u00e9rale in 1998",
+            "distance_to_root": 6,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q6925544"
+        },
+        {
+            "label": "Individually purchased health insurance in the United States",
+            "description": "",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6025367"
+        },
+        {
+            "label": "Medigap",
+            "description": "supplemental health insurance that pays for costs not covered by Medicare or private health insurance",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6806864"
+        },
+        {
+            "label": "Children's Health Insurance Program",
+            "description": "health insurance program for families administered by the United States",
+            "distance_to_root": 5,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q7603105"
+        },
+        {
+            "label": "guarantee",
+            "description": "type of bank loan with payment guarantee",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2328086"
+        },
+        {
+            "label": "contract for difference",
+            "description": "contract stipulating that the seller will pay to the buyer the difference between the current value of an asset and its value at contract time",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1129769"
+        },
+        {
+            "label": "flexible spending account",
+            "description": "one of a number of tax-advantaged financial accounts, resulting in payroll tax savings",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5458993"
+        },
+        {
+            "label": "Health Reimbursement Account",
+            "description": "",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5690639"
+        },
+        {
+            "label": "health savings account",
+            "description": "",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5691144"
         },
         {
             "label": "currency",
@@ -3068,116 +3172,12 @@
             "id": "wd:Q82544345"
         },
         {
-            "label": "fixed-rate mortgage",
-            "description": "financial product",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q567383"
-        },
-        {
-            "label": "endowment mortgage",
+            "label": "Thrift Savings Plan",
             "description": "",
             "distance_to_root": 5,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q2160980"
-        },
-        {
-            "label": "linear mortgage loan",
-            "description": "",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2426363"
-        },
-        {
-            "label": "interest-only loan",
-            "description": "",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2914802"
-        },
-        {
-            "label": "FHA insured loan",
-            "description": "",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5425519"
-        },
-        {
-            "label": "repayment mortgage",
-            "description": "",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7313932"
-        },
-        {
-            "label": "VA loan",
-            "description": "",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7906577"
-        },
-        {
-            "label": "Individually purchased health insurance in the United States",
-            "description": "",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q6025367"
-        },
-        {
-            "label": "Medigap",
-            "description": "supplemental health insurance that pays for costs not covered by Medicare or private health insurance",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q6806864"
-        },
-        {
-            "label": "Children's Health Insurance Program",
-            "description": "health insurance program for families administered by the United States",
-            "distance_to_root": 5,
-            "number_of_instances": 1,
-            "image_url": "",
-            "id": "wd:Q7603105"
-        },
-        {
-            "label": "currency swap agreement",
-            "description": "",
-            "distance_to_root": 6,
-            "number_of_instances": 6,
-            "image_url": "",
-            "id": "wd:Q39233713"
-        },
-        {
-            "label": "guarantee",
-            "description": "type of bank loan with payment guarantee",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2328086"
-        },
-        {
-            "label": "traveler's cheque",
-            "description": "",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CzekPodr%C3%B3%C5%BCniczy%202000z%C5%82otych%20obverse.jpg?width=900",
-            "id": "wd:Q1061429"
-        },
-        {
-            "label": "Quality and Outcomes Framework",
-            "description": "aspect of the British healthcare system",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7268769"
+            "id": "wd:Q7798131"
         },
         {
             "label": "Spade money",
@@ -3196,140 +3196,140 @@
             "id": "wd:Q2060600"
         },
         {
+            "label": "state treasure",
+            "description": "",
+            "distance_to_root": 6,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q2325252"
+        },
+        {
+            "label": "Gescal",
+            "description": "Fund in Italian housing",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3761356"
+        },
+        {
+            "label": "open-access fund",
+            "description": "money for covering publishing costs",
+            "distance_to_root": 6,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q29959475"
+        },
+        {
+            "label": "University of Virginia startup funds",
+            "description": "money for companies to get started",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q29959658"
+        },
+        {
+            "label": "Deutsche Mark",
+            "description": "official currency of West Germany and later Germany from 1948 to 2002",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Germania%201%20marco.JPG?width=900",
+            "id": "wd:Q16068"
+        },
+        {
+            "label": "Reichsmark",
+            "description": "German currency until 1948",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reichsmark%20%281933%29.jpg?width=900",
+            "id": "wd:Q155009"
+        },
+        {
+            "label": "East German mark",
+            "description": "currency",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/20-Mark-1975.jpg?width=900",
+            "id": "wd:Q157011"
+        },
+        {
+            "label": "Bosnia and Herzegovina convertible mark",
+            "description": "currency of Bosnia and Herzegovina",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q179620"
+        },
+        {
+            "label": "Finnish markka",
+            "description": "currency of Finland in 1860\u20132002",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Finnish%20Markka%201990.jpg?width=900",
+            "id": "wd:Q203354"
+        },
+        {
+            "label": "German gold mark",
+            "description": "German currency  from 1871-1914",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Preu%C3%9Fen%20Wilhelm%20II%20in%20Uniform%2020%20Mark%20Revers.JPG?width=900",
+            "id": "wd:Q560355"
+        },
+        {
+            "label": "German Papiermark",
+            "description": "German currency from 1914-1923",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/GER-140-Reichsbanknote-100%20Trillion%20Mark%20%281924%29.jpg?width=900",
+            "id": "wd:Q705983"
+        },
+        {
+            "label": "Estonian mark",
+            "description": "former currency of Estonia",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/EST%201000%20Mark%201923%20obv.JPG?width=900",
+            "id": "wd:Q967135"
+        },
+        {
+            "label": "Online shopping rewards",
+            "description": "",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7094125"
+        },
+        {
+            "label": "Chase Ultimate Reward Point",
+            "description": "point in the Chase Ultimate Reward system",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q38074153"
+        },
+        {
+            "label": "award miles",
+            "description": "",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q72417298"
+        },
+        {
+            "label": "Payback Points",
+            "description": "",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q72417724"
+        },
+        {
             "label": "Dowry system in India",
             "description": "dowry system",
             "distance_to_root": 6,
             "number_of_instances": 0,
             "image_url": "",
             "id": "wd:Q17052027"
-        },
-        {
-            "label": "Danish krone",
-            "description": "official currency of Denmark, Greenland and the Faroe Islands",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q25417"
-        },
-        {
-            "label": "Swedish krona",
-            "description": "currency of Sweden",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Femkronan%201976%20fram%20high.jpg?width=900",
-            "id": "wd:Q122922"
-        },
-        {
-            "label": "Estonian kroon",
-            "description": "currency",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/EST-coins-overview.jpg?width=900",
-            "id": "wd:Q129983"
-        },
-        {
-            "label": "Czech koruna",
-            "description": "currency of the Czech Republic",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Czk-%20coins%20and%20banknotes.JPG?width=900",
-            "id": "wd:Q131016"
-        },
-        {
-            "label": "Icelandic kr\u00f3na",
-            "description": "currency of Iceland",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Iceland%20500%20Kronur%20banknote%20of%201928.jpg?width=900",
-            "id": "wd:Q131473"
-        },
-        {
-            "label": "Norwegian krone",
-            "description": "currency of Norway",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Norwegian%20coins%20as%20of%202015.png?width=900",
-            "id": "wd:Q132643"
-        },
-        {
-            "label": "Slovak koruna",
-            "description": "currency of Slovakia, 1993\u20132008",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/1000%20KS%20lic.jpg?width=900",
-            "id": "wd:Q178874"
-        },
-        {
-            "label": "Faroese kr\u00f3na",
-            "description": "currency",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/F%C3%A4r%C3%B6ische%20200-Kronen-Banknote%20Vorderseite.jpg?width=900",
-            "id": "wd:Q191068"
-        },
-        {
-            "label": "Czechoslovak koruna",
-            "description": "currency",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/One%20Czechoslovak%20Crown.png?width=900",
-            "id": "wd:Q622599"
-        },
-        {
-            "label": "Yugoslav krone",
-            "description": "",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2525711"
-        },
-        {
-            "label": "1 rin coin",
-            "description": "",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q28406529"
-        },
-        {
-            "label": "2 sen coin",
-            "description": "",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q60766597"
-        },
-        {
-            "label": "siege money",
-            "description": "form of Notgeld money issued in times of siege, war or invasion",
-            "distance_to_root": 7,
-            "number_of_instances": 2,
-            "image_url": "",
-            "id": "wd:Q454935"
-        },
-        {
-            "label": "Lagergeld",
-            "description": "",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1587237"
-        },
-        {
-            "label": "coin of the United States dollar",
-            "description": "any coin issued by the United States",
-            "distance_to_root": 6,
-            "number_of_instances": 2,
-            "image_url": "",
-            "id": "wd:Q3253199"
-        },
-        {
-            "label": "banknote of the United States dollar",
-            "description": "any banknote of United States currency currently or historically issued",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q16255489"
         },
         {
             "label": "Umayyad fals (currency unit)",
@@ -3354,6 +3354,22 @@
             "number_of_instances": 0,
             "image_url": "",
             "id": "wd:Q66372553"
+        },
+        {
+            "label": "coin",
+            "description": "piece of hard material produced in large quantities to facilitate trade",
+            "distance_to_root": 6,
+            "number_of_instances": 2161,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/One%20Rupee%20East%20India%20Company.JPG?width=900",
+            "id": "wd:Q41207"
+        },
+        {
+            "label": "banknote",
+            "description": "form of physical currency made of paper (or less commonly, polymer)",
+            "distance_to_root": 6,
+            "number_of_instances": 63,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BilleteiNTER%20II.jpg?width=900",
+            "id": "wd:Q47433"
         },
         {
             "label": "Turkish lira",
@@ -3460,14 +3476,6 @@
             "id": "wd:Q4266153"
         },
         {
-            "label": "Greek drachma",
-            "description": "modern currency",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Modern%20Drachma.JPG?width=900",
-            "id": "wd:Q1546443"
-        },
-        {
             "label": "Coin of account",
             "description": "unit of money that does not exist as an actual coin but is used in figuring prices or other amounts of money",
             "distance_to_root": 6,
@@ -3476,20 +3484,108 @@
             "id": "wd:Q354091"
         },
         {
-            "label": "coin",
-            "description": "piece of hard material produced in large quantities to facilitate trade",
+            "label": "Greek drachma",
+            "description": "modern currency",
             "distance_to_root": 6,
-            "number_of_instances": 2161,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/One%20Rupee%20East%20India%20Company.JPG?width=900",
-            "id": "wd:Q41207"
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Modern%20Drachma.JPG?width=900",
+            "id": "wd:Q1546443"
         },
         {
-            "label": "banknote",
-            "description": "form of physical currency made of paper (or less commonly, polymer)",
+            "label": "coin of the United States dollar",
+            "description": "any coin issued by the United States",
             "distance_to_root": 6,
-            "number_of_instances": 63,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BilleteiNTER%20II.jpg?width=900",
-            "id": "wd:Q47433"
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q3253199"
+        },
+        {
+            "label": "banknote of the United States dollar",
+            "description": "any banknote of United States currency currently or historically issued",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q16255489"
+        },
+        {
+            "label": "Danish krone",
+            "description": "official currency of Denmark, Greenland and the Faroe Islands",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q25417"
+        },
+        {
+            "label": "Swedish krona",
+            "description": "currency of Sweden",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Femkronan%201976%20fram%20high.jpg?width=900",
+            "id": "wd:Q122922"
+        },
+        {
+            "label": "Estonian kroon",
+            "description": "currency",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/EST-coins-overview.jpg?width=900",
+            "id": "wd:Q129983"
+        },
+        {
+            "label": "Czech koruna",
+            "description": "currency of the Czech Republic",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Czk-%20coins%20and%20banknotes.JPG?width=900",
+            "id": "wd:Q131016"
+        },
+        {
+            "label": "Icelandic kr\u00f3na",
+            "description": "currency of Iceland",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Iceland%20500%20Kronur%20banknote%20of%201928.jpg?width=900",
+            "id": "wd:Q131473"
+        },
+        {
+            "label": "Norwegian krone",
+            "description": "currency of Norway",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Norwegian%20coins%20as%20of%202015.png?width=900",
+            "id": "wd:Q132643"
+        },
+        {
+            "label": "Slovak koruna",
+            "description": "currency of Slovakia, 1993\u20132008",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/1000%20KS%20lic.jpg?width=900",
+            "id": "wd:Q178874"
+        },
+        {
+            "label": "Faroese kr\u00f3na",
+            "description": "currency",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/F%C3%A4r%C3%B6ische%20200-Kronen-Banknote%20Vorderseite.jpg?width=900",
+            "id": "wd:Q191068"
+        },
+        {
+            "label": "Czechoslovak koruna",
+            "description": "currency",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/One%20Czechoslovak%20Crown.png?width=900",
+            "id": "wd:Q622599"
+        },
+        {
+            "label": "Yugoslav krone",
+            "description": "",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2525711"
         },
         {
             "label": "Djiboutian franc",
@@ -3666,150 +3762,6 @@
             "number_of_instances": 0,
             "image_url": "",
             "id": "wd:Q2616592"
-        },
-        {
-            "label": "Chiang Mai Initiative",
-            "description": "",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q562667"
-        },
-        {
-            "label": "Japan-South Korea currency swap agreements",
-            "description": "",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q11510761"
-        },
-        {
-            "label": "state treasure",
-            "description": "",
-            "distance_to_root": 6,
-            "number_of_instances": 2,
-            "image_url": "",
-            "id": "wd:Q2325252"
-        },
-        {
-            "label": "Gescal",
-            "description": "Fund in Italian housing",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q3761356"
-        },
-        {
-            "label": "open-access fund",
-            "description": "money for covering publishing costs",
-            "distance_to_root": 6,
-            "number_of_instances": 2,
-            "image_url": "",
-            "id": "wd:Q29959475"
-        },
-        {
-            "label": "University of Virginia startup funds",
-            "description": "money for companies to get started",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q29959658"
-        },
-        {
-            "label": "Online shopping rewards",
-            "description": "",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7094125"
-        },
-        {
-            "label": "Chase Ultimate Reward Point",
-            "description": "point in the Chase Ultimate Reward system",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q38074153"
-        },
-        {
-            "label": "award miles",
-            "description": "",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q72417298"
-        },
-        {
-            "label": "Payback Points",
-            "description": "",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q72417724"
-        },
-        {
-            "label": "Deutsche Mark",
-            "description": "official currency of West Germany and later Germany from 1948 to 2002",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Germania%201%20marco.JPG?width=900",
-            "id": "wd:Q16068"
-        },
-        {
-            "label": "Reichsmark",
-            "description": "German currency until 1948",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reichsmark%20%281933%29.jpg?width=900",
-            "id": "wd:Q155009"
-        },
-        {
-            "label": "East German mark",
-            "description": "currency",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/20-Mark-1975.jpg?width=900",
-            "id": "wd:Q157011"
-        },
-        {
-            "label": "Bosnia and Herzegovina convertible mark",
-            "description": "currency of Bosnia and Herzegovina",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q179620"
-        },
-        {
-            "label": "Finnish markka",
-            "description": "currency of Finland in 1860\u20132002",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Finnish%20Markka%201990.jpg?width=900",
-            "id": "wd:Q203354"
-        },
-        {
-            "label": "German gold mark",
-            "description": "German currency  from 1871-1914",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Preu%C3%9Fen%20Wilhelm%20II%20in%20Uniform%2020%20Mark%20Revers.JPG?width=900",
-            "id": "wd:Q560355"
-        },
-        {
-            "label": "German Papiermark",
-            "description": "German currency from 1914-1923",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/GER-140-Reichsbanknote-100%20Trillion%20Mark%20%281924%29.jpg?width=900",
-            "id": "wd:Q705983"
-        },
-        {
-            "label": "Estonian mark",
-            "description": "former currency of Estonia",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/EST%201000%20Mark%201923%20obv.JPG?width=900",
-            "id": "wd:Q967135"
         },
         {
             "label": "dollar",
@@ -4156,300 +4108,52 @@
             "id": "wd:Q93636179"
         },
         {
-            "label": "Tuvaluan dollar",
-            "description": "currency of Tuvalu, pegged at par with the Australian dollar",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tuvalu.JPG?width=900",
-            "id": "wd:Q4406"
-        },
-        {
-            "label": "Fijian dollar",
-            "description": "currency of Fiji",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q4592"
-        },
-        {
-            "label": "Solomon Islands dollar",
-            "description": "currency of the Solomon Islands",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q4597"
-        },
-        {
-            "label": "United States dollar",
-            "description": "currency of the United States of America",
-            "distance_to_root": 7,
-            "number_of_instances": 1,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/USDnotes.png?width=900",
-            "id": "wd:Q4917"
-        },
-        {
-            "label": "Eastern Caribbean dollar",
-            "description": "currency of eight of the nine members of the Organisation of Eastern Caribbean States",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/East%20caribbean%20states%20eccb%205%20dollars%202019.00.00%20b240%20pnl%20ad%20000000%20f.jpg?width=900",
-            "id": "wd:Q26365"
-        },
-        {
-            "label": "Hong Kong dollar",
-            "description": "currency of Hong Kong",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q31015"
-        },
-        {
-            "label": "Zimbabwean dollar",
-            "description": "former currency of Zimbabwe",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zimbabwe%20fourth%20dollar%20-%20%24500%20Obverse%20%282009%29.jpg?width=900",
-            "id": "wd:Q182803"
-        },
-        {
-            "label": "Singapore dollar",
-            "description": "official currency of Singapore",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q190951"
-        },
-        {
-            "label": "Bahamian dollar",
-            "description": "currency of The Bahamas",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q194339"
-        },
-        {
-            "label": "Barbadian dollar",
-            "description": "currency",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbadian%20Money.jpg?width=900",
-            "id": "wd:Q194351"
-        },
-        {
-            "label": "Surinamese dollar",
-            "description": "currency",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SUR002.JPG?width=900",
-            "id": "wd:Q202036"
-        },
-        {
-            "label": "Namibian dollar",
-            "description": "currency",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coins%20NAD%202005.jpg?width=900",
-            "id": "wd:Q202462"
-        },
-        {
-            "label": "Brunei dollar",
-            "description": "official currency for Brunei",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brunei%24.jpg?width=900",
-            "id": "wd:Q206319"
-        },
-        {
-            "label": "New Taiwan dollar",
-            "description": "official currency of Taiwan",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NT%24100%20obverse.jpg?width=900",
-            "id": "wd:Q208526"
-        },
-        {
-            "label": "Jamaican dollar",
-            "description": "currency",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q209792"
-        },
-        {
-            "label": "Bermudian dollar",
-            "description": "currency",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bermudian%20Fifty%20Cent%20Coins.jpg?width=900",
-            "id": "wd:Q210478"
-        },
-        {
-            "label": "Guyanese dollar",
-            "description": "currency used in Guyana",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Img853%20%D0%B0.jpg?width=900",
-            "id": "wd:Q213005"
-        },
-        {
-            "label": "Trinidad and Tobago dollar",
-            "description": "currency",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Trinidad%20and%20Tobago%20Dollar%20Gallery.jpg?width=900",
-            "id": "wd:Q242890"
-        },
-        {
-            "label": "Liberian dollar",
-            "description": "currency",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lib5%24.png?width=900",
-            "id": "wd:Q242988"
-        },
-        {
-            "label": "Australian dollar",
-            "description": "official currency of Australia; also officially used in Kiribati, Nauru, and Tuvalu",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Australian%20%241%20-%20original%20series%20-%20obverse.jpg?width=900",
-            "id": "wd:Q259502"
-        },
-        {
-            "label": "Belize dollar",
-            "description": "currency",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bel%20i.jpg?width=900",
-            "id": "wd:Q275112"
-        },
-        {
-            "label": "Cayman Islands dollar",
-            "description": "currency",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cayman%20Islas%20Moneda%20Anverso.png?width=900",
-            "id": "wd:Q319885"
-        },
-        {
-            "label": "Rhodesian dollar",
-            "description": "currency",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q392858"
-        },
-        {
-            "label": "Cook Islands dollar",
-            "description": "currency of the Cook Islands",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cook%20coins.JPG?width=900",
-            "id": "wd:Q507737"
-        },
-        {
-            "label": "international United States dollar",
-            "description": "hypothetical unit of currency",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q550207"
-        },
-        {
-            "label": "Confederate States dollar",
-            "description": "currency of the Confederate States of America",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CSA-T16-%2450-1862.jpg?width=900",
-            "id": "wd:Q686163"
-        },
-        {
-            "label": "Old Taiwan dollar",
-            "description": "currency",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q718954"
-        },
-        {
-            "label": "British West Indies dollar",
-            "description": "currency of British Guiana and the Eastern Caribbean territories of the British West Indies from 1935 to 1965",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q942092"
-        },
-        {
-            "label": "Kiribati dollar",
-            "description": "currency",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kiribati%20Coins.JPG?width=900",
-            "id": "wd:Q1049963"
-        },
-        {
-            "label": "Canadian dollar",
-            "description": "currency of Canada",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CAD%204%20dollar%20bill.jpg?width=900",
-            "id": "wd:Q1104069"
-        },
-        {
-            "label": "New Zealand dollar",
-            "description": "currency",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1472704"
-        },
-        {
-            "label": "Kiautschou dollar",
-            "description": "currency issued by Germany for use in Kiautschou Bay Concession",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/5Cents1909KiauChau.PNG?width=900",
-            "id": "wd:Q1607372"
-        },
-        {
-            "label": "Nova Scotian dollar",
+            "label": "1 rin coin",
             "description": "",
-            "distance_to_root": 7,
+            "distance_to_root": 6,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q1934986"
+            "id": "wd:Q28406529"
         },
         {
-            "label": "Hawaiian dollar",
-            "description": "currency of Hawaii between 1847 and 1898",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hawaii_1883_One_Dollar.jpg?width=900",
-            "id": "wd:Q2328868"
-        },
-        {
-            "label": "Newfoundland dollar",
+            "label": "2 sen coin",
             "description": "",
-            "distance_to_root": 7,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NFLD%20dollar%20bill.jpg?width=900",
-            "id": "wd:Q2411666"
-        },
-        {
-            "label": "Coins and postage stamps of Sealand",
-            "description": "",
-            "distance_to_root": 7,
+            "distance_to_root": 6,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q4817670"
+            "id": "wd:Q60766597"
         },
         {
-            "label": "Conch Dollar",
+            "label": "Chiang Mai Initiative",
             "description": "",
-            "distance_to_root": 7,
+            "distance_to_root": 6,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q19831166"
+            "id": "wd:Q562667"
+        },
+        {
+            "label": "Japan-South Korea currency swap agreements",
+            "description": "",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q11510761"
+        },
+        {
+            "label": "siege money",
+            "description": "form of Notgeld money issued in times of siege, war or invasion",
+            "distance_to_root": 7,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q454935"
+        },
+        {
+            "label": "Lagergeld",
+            "description": "",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1587237"
         },
         {
             "label": "Barber coinage",
@@ -4600,7 +4304,7 @@
             "description": "coin",
             "distance_to_root": 7,
             "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gulden%2003.png?width=900",
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gulden%2002.png?width=900",
             "id": "wd:Q634512"
         },
         {
@@ -4920,7 +4624,7 @@
             "description": "",
             "distance_to_root": 7,
             "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/25_cent_1955.jpg?width=900",
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/25_cent_1948.jpg?width=900",
             "id": "wd:Q1944376"
         },
         {
@@ -5164,6 +4868,302 @@
             "id": "wd:Q18245915"
         },
         {
+            "label": "Tuvaluan dollar",
+            "description": "currency of Tuvalu, pegged at par with the Australian dollar",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tuvalu.JPG?width=900",
+            "id": "wd:Q4406"
+        },
+        {
+            "label": "Fijian dollar",
+            "description": "currency of Fiji",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4592"
+        },
+        {
+            "label": "Solomon Islands dollar",
+            "description": "currency of the Solomon Islands",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4597"
+        },
+        {
+            "label": "United States dollar",
+            "description": "currency of the United States of America",
+            "distance_to_root": 7,
+            "number_of_instances": 1,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/USDnotes.png?width=900",
+            "id": "wd:Q4917"
+        },
+        {
+            "label": "Eastern Caribbean dollar",
+            "description": "currency of eight of the nine members of the Organisation of Eastern Caribbean States",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/East%20caribbean%20states%20eccb%205%20dollars%202019.00.00%20b240%20pnl%20ad%20000000%20f.jpg?width=900",
+            "id": "wd:Q26365"
+        },
+        {
+            "label": "Hong Kong dollar",
+            "description": "currency of Hong Kong",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q31015"
+        },
+        {
+            "label": "Zimbabwean dollar",
+            "description": "former currency of Zimbabwe",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zimbabwe%20fourth%20dollar%20-%20%24500%20Obverse%20%282009%29.jpg?width=900",
+            "id": "wd:Q182803"
+        },
+        {
+            "label": "Singapore dollar",
+            "description": "official currency of Singapore",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q190951"
+        },
+        {
+            "label": "Bahamian dollar",
+            "description": "currency of The Bahamas",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q194339"
+        },
+        {
+            "label": "Barbadian dollar",
+            "description": "currency",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbadian%20Money.jpg?width=900",
+            "id": "wd:Q194351"
+        },
+        {
+            "label": "Surinamese dollar",
+            "description": "currency",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SUR002.JPG?width=900",
+            "id": "wd:Q202036"
+        },
+        {
+            "label": "Namibian dollar",
+            "description": "currency",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coins%20NAD%202005.jpg?width=900",
+            "id": "wd:Q202462"
+        },
+        {
+            "label": "Brunei dollar",
+            "description": "official currency for Brunei",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brunei%24.jpg?width=900",
+            "id": "wd:Q206319"
+        },
+        {
+            "label": "New Taiwan dollar",
+            "description": "official currency of Taiwan",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NT%24100%20obverse.jpg?width=900",
+            "id": "wd:Q208526"
+        },
+        {
+            "label": "Jamaican dollar",
+            "description": "currency",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q209792"
+        },
+        {
+            "label": "Bermudian dollar",
+            "description": "currency",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bermudian%20Fifty%20Cent%20Coins.jpg?width=900",
+            "id": "wd:Q210478"
+        },
+        {
+            "label": "Guyanese dollar",
+            "description": "currency used in Guyana",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Img853%20%D0%B0.jpg?width=900",
+            "id": "wd:Q213005"
+        },
+        {
+            "label": "Trinidad and Tobago dollar",
+            "description": "currency",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Trinidad%20and%20Tobago%20Dollar%20Gallery.jpg?width=900",
+            "id": "wd:Q242890"
+        },
+        {
+            "label": "Liberian dollar",
+            "description": "currency",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lib5%24.png?width=900",
+            "id": "wd:Q242988"
+        },
+        {
+            "label": "Australian dollar",
+            "description": "official currency of Australia; also officially used in Kiribati, Nauru, and Tuvalu",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Australian%20%241%20-%20original%20series%20-%20obverse.jpg?width=900",
+            "id": "wd:Q259502"
+        },
+        {
+            "label": "Belize dollar",
+            "description": "currency",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bel%20i.jpg?width=900",
+            "id": "wd:Q275112"
+        },
+        {
+            "label": "Cayman Islands dollar",
+            "description": "currency",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cayman%20Islas%20Moneda%20Anverso.png?width=900",
+            "id": "wd:Q319885"
+        },
+        {
+            "label": "Rhodesian dollar",
+            "description": "currency",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q392858"
+        },
+        {
+            "label": "Cook Islands dollar",
+            "description": "currency of the Cook Islands",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cook%20coins.JPG?width=900",
+            "id": "wd:Q507737"
+        },
+        {
+            "label": "international United States dollar",
+            "description": "hypothetical unit of currency",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q550207"
+        },
+        {
+            "label": "Confederate States dollar",
+            "description": "currency of the Confederate States of America",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CSA-T16-%2450-1862.jpg?width=900",
+            "id": "wd:Q686163"
+        },
+        {
+            "label": "Old Taiwan dollar",
+            "description": "currency",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q718954"
+        },
+        {
+            "label": "British West Indies dollar",
+            "description": "currency of British Guiana and the Eastern Caribbean territories of the British West Indies from 1935 to 1965",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q942092"
+        },
+        {
+            "label": "Kiribati dollar",
+            "description": "currency",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kiribati%20Coins.JPG?width=900",
+            "id": "wd:Q1049963"
+        },
+        {
+            "label": "Canadian dollar",
+            "description": "currency of Canada",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CAD%204%20dollar%20bill.jpg?width=900",
+            "id": "wd:Q1104069"
+        },
+        {
+            "label": "New Zealand dollar",
+            "description": "currency",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1472704"
+        },
+        {
+            "label": "Kiautschou dollar",
+            "description": "currency issued by Germany for use in Kiautschou Bay Concession",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/5Cents1909KiauChau.PNG?width=900",
+            "id": "wd:Q1607372"
+        },
+        {
+            "label": "Nova Scotian dollar",
+            "description": "",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1934986"
+        },
+        {
+            "label": "Hawaiian dollar",
+            "description": "currency of Hawaii between 1847 and 1898",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hawaii_1883_One_Dollar.jpg?width=900",
+            "id": "wd:Q2328868"
+        },
+        {
+            "label": "Newfoundland dollar",
+            "description": "",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NFLD%20dollar%20bill.jpg?width=900",
+            "id": "wd:Q2411666"
+        },
+        {
+            "label": "Coins and postage stamps of Sealand",
+            "description": "",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4817670"
+        },
+        {
+            "label": "Conch Dollar",
+            "description": "",
+            "distance_to_root": 7,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q19831166"
+        },
+        {
             "label": "Novo Cruzeiro",
             "description": "Brazilian currency from 1967 to 1970",
             "distance_to_root": 7,
@@ -5242,358 +5242,6 @@
             "number_of_instances": 0,
             "image_url": "",
             "id": "wd:Q50232001"
-        },
-        {
-            "label": "Neugroschen",
-            "description": "",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7001768"
-        },
-        {
-            "label": "1 euro coin",
-            "description": "euro coin",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Euro%201%20coin.gif?width=900",
-            "id": "wd:Q684722"
-        },
-        {
-            "label": "Canadian Gold Maple Leaf",
-            "description": "gold bullion coin of Canada",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canadian%20Gold%20Maple%20Leaf%20coin%201%20oz%20reverse.png?width=900",
-            "id": "wd:Q119457"
-        },
-        {
-            "label": "American Buffalo",
-            "description": "Gold bullion coin of the United States",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Buffalo%20%2450%20Reverse.png?width=900",
-            "id": "wd:Q463624"
-        },
-        {
-            "label": "American Gold Eagle",
-            "description": "American legal tender gold bullion",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Liberty%20%2450%20Reverse.png?width=900",
-            "id": "wd:Q464731"
-        },
-        {
-            "label": "American Platinum Eagle",
-            "description": "Official platinum bullion coin of the United States",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Platinum%20Obverse.png?width=900",
-            "id": "wd:Q466393"
-        },
-        {
-            "label": "American Silver Eagle",
-            "description": "silver bullion coin of the United States",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Liberty%20%241%20Reverse.png?width=900",
-            "id": "wd:Q475664"
-        },
-        {
-            "label": "Australian Silver Kookaburra",
-            "description": "Australian silver bullion coin",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/1%20oz%20Kookaburra%202017%20reverse.png?width=900",
-            "id": "wd:Q652606"
-        },
-        {
-            "label": "Britannia",
-            "description": "bullion coin",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q918033"
-        },
-        {
-            "label": "Krugerrand",
-            "description": "South African coin",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/1%20oz%20Krugerrand%202017%20Wertseite.png?width=900",
-            "id": "wd:Q1057164"
-        },
-        {
-            "label": "Australian Gold Nugget",
-            "description": "Australian gold bullion coin",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kangaroo_Gold_Coin_2017_reverse.png?width=900",
-            "id": "wd:Q1412326"
-        },
-        {
-            "label": "Platinum Koala",
-            "description": "",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1449508"
-        },
-        {
-            "label": "Australian Silver Kangaroo",
-            "description": "",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1795383"
-        },
-        {
-            "label": "America the Beautiful Silver Bullion Coins",
-            "description": "Silver bullion coin of the United States",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q4742821"
-        },
-        {
-            "label": "Chinese Panda coins",
-            "description": "Chinese bullion coin",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5100585"
-        },
-        {
-            "label": "\u00e9cu d'or of Charles IV (Holy Roman Empire) Antwerp? after 1355",
-            "description": "",
-            "distance_to_root": 8,
-            "number_of_instances": 1,
-            "image_url": "",
-            "id": "wd:Q69423649"
-        },
-        {
-            "label": "koban",
-            "description": "",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q43940"
-        },
-        {
-            "label": "sultani",
-            "description": "Ottoman gold coin",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Altun%202.jpg?width=900",
-            "id": "wd:Q188416"
-        },
-        {
-            "label": "solidus",
-            "description": "gold coin issued in the Late Roman Empire",
-            "distance_to_root": 8,
-            "number_of_instances": 9,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Solidus%20Basiliscus-RIC%201003.jpg?width=900",
-            "id": "wd:Q231455"
-        },
-        {
-            "label": "Augustalis",
-            "description": "gold coin",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Augustale.jpg?width=900",
-            "id": "wd:Q352512"
-        },
-        {
-            "label": "Friedrich d'or",
-            "description": "Prussian gold coin (pistole) nominally worth 5 silver Prussian Reichsthalers",
-            "distance_to_root": 9,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/M%C3%BCnze%20Gold%20-%20Friedrich%20II%20-%20Preussen%201774.jpg?width=900",
-            "id": "wd:Q455052"
-        },
-        {
-            "label": "Aureus",
-            "description": "Ancient Roman gold coin",
-            "distance_to_root": 8,
-            "number_of_instances": 40,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aureus%20Septimius%20Severus-193-leg%20XIIII%20GMV.jpg?width=900",
-            "id": "wd:Q476078"
-        },
-        {
-            "label": "sovereign",
-            "description": "gold coin of the United Kingdom, with a nominal value of one pound sterling",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/1959%20Elizabeth%20II%20sovereign%20reverse.jpg?width=900",
-            "id": "wd:Q584496"
-        },
-        {
-            "label": "Pistole",
-            "description": "coin",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q644463"
-        },
-        {
-            "label": "bezant",
-            "description": "generic medieval western european name for eastern gold coins",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q649847"
-        },
-        {
-            "label": "Vienna Philharmonic",
-            "description": "bullion coin",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/1%20oz%20Vienna%20Philharmonic%202017%20reverse.png?width=900",
-            "id": "wd:Q698495"
-        },
-        {
-            "label": "Napoleon",
-            "description": "colloquial term for a former French gold coin",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Napoleon%20I%2020%20Francs%2094224.jpg?width=900",
-            "id": "wd:Q733369"
-        },
-        {
-            "label": "guinea",
-            "description": "coin of approximately one quarter ounce of gold that was minted in Great Britain between 1663 and 1814",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Guinea%20641642.jpg?width=900",
-            "id": "wd:Q918094"
-        },
-        {
-            "label": "Nomisma",
-            "description": "ancient Greek word for money",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Histamenon%20nomisma-Micael%20V-sb1776.jpg?width=900",
-            "id": "wd:Q1198478"
-        },
-        {
-            "label": "fanam",
-            "description": "",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indischer%20Fanam%2011-12%20Jhdt.jpg?width=900",
-            "id": "wd:Q1395460"
-        },
-        {
-            "label": "Tremissis",
-            "description": "",
-            "distance_to_root": 8,
-            "number_of_instances": 17,
-            "image_url": "",
-            "id": "wd:Q1449918"
-        },
-        {
-            "label": "Ichibuban",
-            "description": "",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2090145"
-        },
-        {
-            "label": "\u014cban",
-            "description": "",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2670280"
-        },
-        {
-            "label": "20 Francs Marianne",
-            "description": "franz\u00f6sische Goldm\u00fcnze",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q3560164"
-        },
-        {
-            "label": "demy",
-            "description": "Scottish coin",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q3705402"
-        },
-        {
-            "label": "Quarter Eagle",
-            "description": "coin issued in the united states",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q4029753"
-        },
-        {
-            "label": "Double eagle",
-            "description": "Gold coin",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q4155843"
-        },
-        {
-            "label": "Gold dollar",
-            "description": "gold dollar coin of the United States depicting the goddess Liberty, minted from 1849 to 1889",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q4193486"
-        },
-        {
-            "label": "half guinea",
-            "description": "gold coin of the Kingdom of England and later of Great Britain",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5641801"
-        },
-        {
-            "label": "Jacobus",
-            "description": "",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q6119848"
-        },
-        {
-            "label": "Jamestown 400th Anniversary gold five dollar coin",
-            "description": "",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q6146183"
-        },
-        {
-            "label": "Half sovereign",
-            "description": "English and British gold coin",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q12059382"
-        },
-        {
-            "label": "Louisiana Purchase Exposition dollar",
-            "description": "United States commemorative coin",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q17067811"
-        },
-        {
-            "label": "1894-S Barber dime",
-            "description": "Rare variety of the United States dime",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q4556791"
         },
         {
             "label": "Kennedy half dollar",
@@ -5708,6 +5356,14 @@
             "id": "wd:Q5456252"
         },
         {
+            "label": "Jamestown 400th Anniversary gold five dollar coin",
+            "description": "",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6146183"
+        },
+        {
             "label": "Jamestown 400th Anniversary silver dollar",
             "description": "",
             "distance_to_root": 8,
@@ -5746,6 +5402,14 @@
             "number_of_instances": 0,
             "image_url": "",
             "id": "wd:Q16861991"
+        },
+        {
+            "label": "Louisiana Purchase Exposition dollar",
+            "description": "United States commemorative coin",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q17067811"
         },
         {
             "label": "California Diamond Jubilee half dollar",
@@ -5836,12 +5500,12 @@
             "id": "wd:Q65090326"
         },
         {
-            "label": "Voyageur dollar",
+            "label": "Neugroschen",
             "description": "",
             "distance_to_root": 8,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q7942487"
+            "id": "wd:Q7001768"
         },
         {
             "label": "Silver center cent",
@@ -5858,14 +5522,6 @@
             "number_of_instances": 0,
             "image_url": "",
             "id": "wd:Q63618091"
-        },
-        {
-            "label": "Two Sicilies ducat",
-            "description": "currency of the Kingdom of the Two Sicilies between 1816 and 1860",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q4362333"
         },
         {
             "label": "Vereinsthaler",
@@ -5892,116 +5548,124 @@
             "id": "wd:Q30910983"
         },
         {
-            "label": "Silbergroschen",
+            "label": "Two Sicilies ducat",
+            "description": "currency of the Kingdom of the Two Sicilies between 1816 and 1860",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4362333"
+        },
+        {
+            "label": "Canadian Gold Maple Leaf",
+            "description": "gold bullion coin of Canada",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canadian%20Gold%20Maple%20Leaf%20coin%201%20oz%20reverse.png?width=900",
+            "id": "wd:Q119457"
+        },
+        {
+            "label": "American Buffalo",
+            "description": "Gold bullion coin of the United States",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Buffalo%20%2450%20Reverse.png?width=900",
+            "id": "wd:Q463624"
+        },
+        {
+            "label": "American Gold Eagle",
+            "description": "American legal tender gold bullion",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Liberty%20%2450%20Reverse.png?width=900",
+            "id": "wd:Q464731"
+        },
+        {
+            "label": "American Platinum Eagle",
+            "description": "Official platinum bullion coin of the United States",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Platinum%20Obverse.png?width=900",
+            "id": "wd:Q466393"
+        },
+        {
+            "label": "American Silver Eagle",
+            "description": "silver bullion coin of the United States",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Liberty%20%241%20Reverse.png?width=900",
+            "id": "wd:Q475664"
+        },
+        {
+            "label": "Australian Silver Kookaburra",
+            "description": "Australian silver bullion coin",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/1%20oz%20Kookaburra%202017%20reverse.png?width=900",
+            "id": "wd:Q652606"
+        },
+        {
+            "label": "Britannia",
+            "description": "bullion coin",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q918033"
+        },
+        {
+            "label": "Krugerrand",
+            "description": "South African coin",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/1%20oz%20Krugerrand%202017%20Wertseite.png?width=900",
+            "id": "wd:Q1057164"
+        },
+        {
+            "label": "Australian Gold Nugget",
+            "description": "Australian gold bullion coin",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kangaroo_Gold_Coin_2017_reverse.png?width=900",
+            "id": "wd:Q1412326"
+        },
+        {
+            "label": "Platinum Koala",
             "description": "",
             "distance_to_root": 8,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q328950"
+            "id": "wd:Q1449508"
         },
         {
-            "label": "Neapolitan piastra",
+            "label": "Australian Silver Kangaroo",
             "description": "",
             "distance_to_root": 8,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q337954"
+            "id": "wd:Q1795383"
         },
         {
-            "label": "Siliqua",
-            "description": "",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Siliqua%20Jovianus.jpg?width=900",
-            "id": "wd:Q535476"
-        },
-        {
-            "label": "Argenteus",
-            "description": "",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Argentei%201198-1200%2020060708.jpg?width=900",
-            "id": "wd:Q645246"
-        },
-        {
-            "label": "mameitagin",
-            "description": "",
+            "label": "America the Beautiful Silver Bullion Coins",
+            "description": "Silver bullion coin of the United States",
             "distance_to_root": 8,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q1309931"
+            "id": "wd:Q4742821"
         },
         {
-            "label": "ort",
-            "description": "",
+            "label": "Chinese Panda coins",
+            "description": "Chinese bullion coin",
             "distance_to_root": 8,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q2427559"
+            "id": "wd:Q5100585"
         },
         {
-            "label": "Boy Scouts of America Silver Dollar Centennial Commemorative Coin",
-            "description": "",
+            "label": "1894-S Barber dime",
+            "description": "Rare variety of the United States dime",
             "distance_to_root": 8,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q4952126"
-        },
-        {
-            "label": "double florin",
-            "description": "British silver coin",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5300032"
-        },
-        {
-            "label": "ch\u014dgin",
-            "description": "",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q8014870"
-        },
-        {
-            "label": "Ichibugin",
-            "description": "",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q11352449"
-        },
-        {
-            "label": "Spanish dollar",
-            "description": "former coin of the Spanish Empire",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q15039722"
-        },
-        {
-            "label": "Lafayette dollar",
-            "description": "silver coin issued as part of the United States' participation in the Paris World's Fair of 1900",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q16998969"
-        },
-        {
-            "label": "English shilling",
-            "description": "silver coin of the Kingdom of England",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q25182621"
-        },
-        {
-            "label": "indio",
-            "description": "silver coin minted by the Portuguese government as a currency to support trade with India",
-            "distance_to_root": 8,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q25222765"
+            "id": "wd:Q4556791"
         },
         {
             "label": "Portuguese euro coins",
@@ -6180,6 +5844,14 @@
             "id": "wd:Q632605"
         },
         {
+            "label": "1 euro coin",
+            "description": "euro coin",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Euro%201%20coin.gif?width=900",
+            "id": "wd:Q684722"
+        },
+        {
             "label": "Lithuania and the euro",
             "description": "adoption of the euro by Lithuania",
             "distance_to_root": 8,
@@ -6236,100 +5908,332 @@
             "id": "wd:Q2320950"
         },
         {
-            "label": "Madras fanam",
+            "label": "Silbergroschen",
             "description": "",
-            "distance_to_root": 9,
+            "distance_to_root": 8,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q3543447"
+            "id": "wd:Q328950"
         },
         {
-            "label": "Travancore fanam",
-            "description": "currency of Travancore",
-            "distance_to_root": 9,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q23940476"
-        },
-        {
-            "label": "Saint-Gaudens double eagle",
-            "description": "US $20 coin",
-            "distance_to_root": 9,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/1912_double_eagle_rev.jpg?width=900",
-            "id": "wd:Q930649"
-        },
-        {
-            "label": "1933 double eagle",
+            "label": "Neapolitan piastra",
             "description": "",
-            "distance_to_root": 9,
+            "distance_to_root": 8,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q3037465"
+            "id": "wd:Q337954"
         },
         {
-            "label": "Liberty Head double eagle",
-            "description": "US $20 pattern coin",
-            "distance_to_root": 9,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q17067417"
-        },
-        {
-            "label": "1\u20bd",
+            "label": "Siliqua",
             "description": "",
-            "distance_to_root": 9,
+            "distance_to_root": 8,
             "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q28747673"
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Siliqua%20Jovianus.jpg?width=900",
+            "id": "wd:Q535476"
         },
         {
-            "label": "\u20ac2 commemorative coins",
-            "description": "Wikimedia list article",
-            "distance_to_root": 9,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q209401"
-        },
-        {
-            "label": "Indian Head quarter eagle",
+            "label": "Argenteus",
             "description": "",
-            "distance_to_root": 9,
+            "distance_to_root": 8,
             "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q89612655"
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Argentei%201198-1200%2020060708.jpg?width=900",
+            "id": "wd:Q645246"
         },
         {
-            "label": "Chinese Silver Panda",
-            "description": "Chinese silver bullion coin",
-            "distance_to_root": 9,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q3644173"
-        },
-        {
-            "label": "Chinese Gold Panda",
-            "description": "Chinese gold bullion coin",
-            "distance_to_root": 9,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5100469"
-        },
-        {
-            "label": "Aureus RIC I Tiberius 29",
+            "label": "mameitagin",
             "description": "",
-            "distance_to_root": 9,
-            "number_of_instances": 3,
-            "image_url": "",
-            "id": "wd:Q28038924"
-        },
-        {
-            "label": "San Francisco\u2013Oakland Bay Bridge half dollar",
-            "description": "1936 commemorative coin",
-            "distance_to_root": 9,
+            "distance_to_root": 8,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q28075088"
+            "id": "wd:Q1309931"
+        },
+        {
+            "label": "fanam",
+            "description": "",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indischer%20Fanam%2011-12%20Jhdt.jpg?width=900",
+            "id": "wd:Q1395460"
+        },
+        {
+            "label": "ort",
+            "description": "",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2427559"
+        },
+        {
+            "label": "Boy Scouts of America Silver Dollar Centennial Commemorative Coin",
+            "description": "",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4952126"
+        },
+        {
+            "label": "double florin",
+            "description": "British silver coin",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5300032"
+        },
+        {
+            "label": "ch\u014dgin",
+            "description": "",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q8014870"
+        },
+        {
+            "label": "Ichibugin",
+            "description": "",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q11352449"
+        },
+        {
+            "label": "Spanish dollar",
+            "description": "former coin of the Spanish Empire",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q15039722"
+        },
+        {
+            "label": "Lafayette dollar",
+            "description": "silver coin issued as part of the United States' participation in the Paris World's Fair of 1900",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q16998969"
+        },
+        {
+            "label": "English shilling",
+            "description": "silver coin of the Kingdom of England",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q25182621"
+        },
+        {
+            "label": "indio",
+            "description": "silver coin minted by the Portuguese government as a currency to support trade with India",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q25222765"
+        },
+        {
+            "label": "\u00e9cu d'or of Charles IV (Holy Roman Empire) Antwerp? after 1355",
+            "description": "",
+            "distance_to_root": 8,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q69423649"
+        },
+        {
+            "label": "Voyageur dollar",
+            "description": "",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7942487"
+        },
+        {
+            "label": "koban",
+            "description": "",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q43940"
+        },
+        {
+            "label": "sultani",
+            "description": "Ottoman gold coin",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Altun%202.jpg?width=900",
+            "id": "wd:Q188416"
+        },
+        {
+            "label": "solidus",
+            "description": "gold coin issued in the Late Roman Empire",
+            "distance_to_root": 8,
+            "number_of_instances": 9,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Solidus%20Basiliscus-RIC%201003.jpg?width=900",
+            "id": "wd:Q231455"
+        },
+        {
+            "label": "Augustalis",
+            "description": "gold coin",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Augustale.jpg?width=900",
+            "id": "wd:Q352512"
+        },
+        {
+            "label": "Friedrich d'or",
+            "description": "Prussian gold coin (pistole) nominally worth 5 silver Prussian Reichsthalers",
+            "distance_to_root": 9,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/M%C3%BCnze%20Gold%20-%20Friedrich%20II%20-%20Preussen%201774.jpg?width=900",
+            "id": "wd:Q455052"
+        },
+        {
+            "label": "Aureus",
+            "description": "Ancient Roman gold coin",
+            "distance_to_root": 8,
+            "number_of_instances": 40,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aureus%20Septimius%20Severus-193-leg%20XIIII%20GMV.jpg?width=900",
+            "id": "wd:Q476078"
+        },
+        {
+            "label": "sovereign",
+            "description": "gold coin of the United Kingdom, with a nominal value of one pound sterling",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/1959%20Elizabeth%20II%20sovereign%20reverse.jpg?width=900",
+            "id": "wd:Q584496"
+        },
+        {
+            "label": "Pistole",
+            "description": "coin",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q644463"
+        },
+        {
+            "label": "bezant",
+            "description": "generic medieval western european name for eastern gold coins",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q649847"
+        },
+        {
+            "label": "Vienna Philharmonic",
+            "description": "bullion coin",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/1%20oz%20Vienna%20Philharmonic%202017%20reverse.png?width=900",
+            "id": "wd:Q698495"
+        },
+        {
+            "label": "Napoleon",
+            "description": "colloquial term for a former French gold coin",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Napoleon%20I%2020%20Francs%2094224.jpg?width=900",
+            "id": "wd:Q733369"
+        },
+        {
+            "label": "guinea",
+            "description": "coin of approximately one quarter ounce of gold that was minted in Great Britain between 1663 and 1814",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Guinea%20641642.jpg?width=900",
+            "id": "wd:Q918094"
+        },
+        {
+            "label": "Nomisma",
+            "description": "ancient Greek word for money",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Histamenon%20nomisma-Micael%20V-sb1776.jpg?width=900",
+            "id": "wd:Q1198478"
+        },
+        {
+            "label": "Tremissis",
+            "description": "",
+            "distance_to_root": 8,
+            "number_of_instances": 17,
+            "image_url": "",
+            "id": "wd:Q1449918"
+        },
+        {
+            "label": "Ichibuban",
+            "description": "",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2090145"
+        },
+        {
+            "label": "\u014cban",
+            "description": "",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2670280"
+        },
+        {
+            "label": "20 Francs Marianne",
+            "description": "franz\u00f6sische Goldm\u00fcnze",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3560164"
+        },
+        {
+            "label": "demy",
+            "description": "Scottish coin",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3705402"
+        },
+        {
+            "label": "Quarter Eagle",
+            "description": "coin issued in the united states",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4029753"
+        },
+        {
+            "label": "Double eagle",
+            "description": "Gold coin",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4155843"
+        },
+        {
+            "label": "Gold dollar",
+            "description": "gold dollar coin of the United States depicting the goddess Liberty, minted from 1849 to 1889",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4193486"
+        },
+        {
+            "label": "half guinea",
+            "description": "gold coin of the Kingdom of England and later of Great Britain",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5641801"
+        },
+        {
+            "label": "Jacobus",
+            "description": "",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6119848"
+        },
+        {
+            "label": "Half sovereign",
+            "description": "English and British gold coin",
+            "distance_to_root": 8,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q12059382"
         },
         {
             "label": "denarius of L. Censorinus",
@@ -6388,6 +6292,62 @@
             "id": "wd:Q50315713"
         },
         {
+            "label": "Madras fanam",
+            "description": "",
+            "distance_to_root": 9,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3543447"
+        },
+        {
+            "label": "Travancore fanam",
+            "description": "currency of Travancore",
+            "distance_to_root": 9,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q23940476"
+        },
+        {
+            "label": "San Francisco\u2013Oakland Bay Bridge half dollar",
+            "description": "1936 commemorative coin",
+            "distance_to_root": 9,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q28075088"
+        },
+        {
+            "label": "Chinese Silver Panda",
+            "description": "Chinese silver bullion coin",
+            "distance_to_root": 9,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3644173"
+        },
+        {
+            "label": "Chinese Gold Panda",
+            "description": "Chinese gold bullion coin",
+            "distance_to_root": 9,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5100469"
+        },
+        {
+            "label": "Euro gold and silver commemorative coins",
+            "description": "gold and silver issues of the euro commemorative coins in Ireland",
+            "distance_to_root": 10,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2797995"
+        },
+        {
+            "label": "\u20ac2 commemorative coins",
+            "description": "Wikimedia list article",
+            "distance_to_root": 9,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q209401"
+        },
+        {
             "label": "Euro gold and silver commemorative coins",
             "description": "gold and silver issues of the euro commemorative coins",
             "distance_to_root": 9,
@@ -6412,12 +6372,52 @@
             "id": "wd:Q50332042"
         },
         {
-            "label": "Euro gold and silver commemorative coins",
-            "description": "gold and silver issues of the euro commemorative coins in Ireland",
-            "distance_to_root": 10,
+            "label": "Saint-Gaudens double eagle",
+            "description": "US $20 coin",
+            "distance_to_root": 9,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/1912_double_eagle_rev.jpg?width=900",
+            "id": "wd:Q930649"
+        },
+        {
+            "label": "1933 double eagle",
+            "description": "",
+            "distance_to_root": 9,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q2797995"
+            "id": "wd:Q3037465"
+        },
+        {
+            "label": "Liberty Head double eagle",
+            "description": "US $20 pattern coin",
+            "distance_to_root": 9,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q17067417"
+        },
+        {
+            "label": "Indian Head quarter eagle",
+            "description": "",
+            "distance_to_root": 9,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q89612655"
+        },
+        {
+            "label": "Aureus RIC I Tiberius 29",
+            "description": "",
+            "distance_to_root": 9,
+            "number_of_instances": 3,
+            "image_url": "",
+            "id": "wd:Q28038924"
+        },
+        {
+            "label": "1\u20bd",
+            "description": "",
+            "distance_to_root": 9,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q28747673"
         },
         {
             "label": "Euro gold and silver commemorative coins",
@@ -6648,6 +6648,10 @@
         {
             "parent": "wd:Q837171",
             "child": "wd:Q4856327"
+        },
+        {
+            "parent": "wd:Q837171",
+            "child": "wd:Q5477535"
         },
         {
             "parent": "wd:Q837171",
@@ -6950,6 +6954,14 @@
             "child": "wd:Q3511068"
         },
         {
+            "parent": "wd:Q5477535",
+            "child": "wd:Q696937"
+        },
+        {
+            "parent": "wd:Q5477535",
+            "child": "wd:Q3407602"
+        },
+        {
             "parent": "wd:Q6055890",
             "child": "wd:Q221096"
         },
@@ -7020,6 +7032,42 @@
         {
             "parent": "wd:Q6055890",
             "child": "wd:Q79379979"
+        },
+        {
+            "parent": "wd:Q15809678",
+            "child": "wd:Q13922887"
+        },
+        {
+            "parent": "wd:Q15809678",
+            "child": "wd:Q13994919"
+        },
+        {
+            "parent": "wd:Q15809678",
+            "child": "wd:Q14917730"
+        },
+        {
+            "parent": "wd:Q15809678",
+            "child": "wd:Q16068686"
+        },
+        {
+            "parent": "wd:Q15809678",
+            "child": "wd:Q18029220"
+        },
+        {
+            "parent": "wd:Q15809678",
+            "child": "wd:Q19927873"
+        },
+        {
+            "parent": "wd:Q15809678",
+            "child": "wd:Q26701418"
+        },
+        {
+            "parent": "wd:Q15809678",
+            "child": "wd:Q48728987"
+        },
+        {
+            "parent": "wd:Q15809678",
+            "child": "wd:Q63368583"
         },
         {
             "parent": "wd:Q15809678",
@@ -7164,58 +7212,6 @@
         {
             "parent": "wd:Q15809678",
             "child": "wd:Q3151423"
-        },
-        {
-            "parent": "wd:Q15809678",
-            "child": "wd:Q4385034"
-        },
-        {
-            "parent": "wd:Q15809678",
-            "child": "wd:Q5156731"
-        },
-        {
-            "parent": "wd:Q15809678",
-            "child": "wd:Q5420721"
-        },
-        {
-            "parent": "wd:Q15809678",
-            "child": "wd:Q6025330"
-        },
-        {
-            "parent": "wd:Q15809678",
-            "child": "wd:Q7094135"
-        },
-        {
-            "parent": "wd:Q15809678",
-            "child": "wd:Q7370386"
-        },
-        {
-            "parent": "wd:Q15809678",
-            "child": "wd:Q8193794"
-        },
-        {
-            "parent": "wd:Q15809678",
-            "child": "wd:Q10259814"
-        },
-        {
-            "parent": "wd:Q15809678",
-            "child": "wd:Q11776449"
-        },
-        {
-            "parent": "wd:Q15809678",
-            "child": "wd:Q12586715"
-        },
-        {
-            "parent": "wd:Q15809678",
-            "child": "wd:Q13377609"
-        },
-        {
-            "parent": "wd:Q15809678",
-            "child": "wd:Q13922887"
-        },
-        {
-            "parent": "wd:Q15809678",
-            "child": "wd:Q13994919"
         },
         {
             "parent": "wd:Q156223",
@@ -7730,10 +7726,6 @@
             "child": "wd:Q7906577"
         },
         {
-            "parent": "wd:Q5420721",
-            "child": "wd:Q584207"
-        },
-        {
             "parent": "wd:Q221096",
             "child": "wd:Q1564474"
         },
@@ -7742,152 +7734,76 @@
             "child": "wd:Q64623553"
         },
         {
-            "parent": "wd:Q80042",
-            "child": "wd:Q292874"
+            "parent": "wd:Q183984",
+            "child": "wd:Q5321525"
         },
         {
-            "parent": "wd:Q80042",
-            "child": "wd:Q334922"
+            "parent": "wd:Q183984",
+            "child": "wd:Q16068686"
         },
         {
-            "parent": "wd:Q80042",
-            "child": "wd:Q881662"
+            "parent": "wd:Q187860",
+            "child": "wd:Q205225"
         },
         {
-            "parent": "wd:Q80042",
-            "child": "wd:Q1040723"
+            "parent": "wd:Q187860",
+            "child": "wd:Q584207"
         },
         {
-            "parent": "wd:Q80042",
-            "child": "wd:Q2971994"
+            "parent": "wd:Q187860",
+            "child": "wd:Q1286721"
         },
         {
-            "parent": "wd:Q80042",
-            "child": "wd:Q2971998"
+            "parent": "wd:Q187860",
+            "child": "wd:Q1508707"
         },
         {
-            "parent": "wd:Q80042",
-            "child": "wd:Q4771127"
+            "parent": "wd:Q187860",
+            "child": "wd:Q1939618"
         },
         {
-            "parent": "wd:Q80042",
-            "child": "wd:Q22908255"
+            "parent": "wd:Q187860",
+            "child": "wd:Q2245732"
         },
         {
-            "parent": "wd:Q1643989",
-            "child": "wd:Q1368"
+            "parent": "wd:Q187860",
+            "child": "wd:Q4804025"
         },
         {
-            "parent": "wd:Q1643989",
-            "child": "wd:Q1637036"
+            "parent": "wd:Q205180",
+            "child": "wd:Q205258"
         },
         {
-            "parent": "wd:Q153476",
-            "child": "wd:Q45405722"
+            "parent": "wd:Q205180",
+            "child": "wd:Q515371"
         },
         {
-            "parent": "wd:Q11692",
-            "child": "wd:Q245043"
+            "parent": "wd:Q691313",
+            "child": "wd:Q140279"
         },
         {
-            "parent": "wd:Q11692",
-            "child": "wd:Q455261"
+            "parent": "wd:Q691313",
+            "child": "wd:Q624028"
         },
         {
-            "parent": "wd:Q11692",
-            "child": "wd:Q569375"
+            "parent": "wd:Q691313",
+            "child": "wd:Q1139416"
         },
         {
-            "parent": "wd:Q11692",
-            "child": "wd:Q622588"
+            "parent": "wd:Q691313",
+            "child": "wd:Q7118288"
         },
         {
-            "parent": "wd:Q11692",
-            "child": "wd:Q1081659"
+            "parent": "wd:Q1136583",
+            "child": "wd:Q515371"
         },
         {
-            "parent": "wd:Q11692",
-            "child": "wd:Q1523234"
+            "parent": "wd:Q1232971",
+            "child": "wd:Q5048328"
         },
         {
-            "parent": "wd:Q11692",
-            "child": "wd:Q2187047"
-        },
-        {
-            "parent": "wd:Q11692",
-            "child": "wd:Q2360924"
-        },
-        {
-            "parent": "wd:Q11692",
-            "child": "wd:Q2823672"
-        },
-        {
-            "parent": "wd:Q11692",
-            "child": "wd:Q4073859"
-        },
-        {
-            "parent": "wd:Q11692",
-            "child": "wd:Q19914241"
-        },
-        {
-            "parent": "wd:Q11692",
-            "child": "wd:Q60790241"
-        },
-        {
-            "parent": "wd:Q1108930",
-            "child": "wd:Q1108914"
-        },
-        {
-            "parent": "wd:Q1196314",
-            "child": "wd:Q277928"
-        },
-        {
-            "parent": "wd:Q1196314",
-            "child": "wd:Q422027"
-        },
-        {
-            "parent": "wd:Q1196314",
-            "child": "wd:Q836113"
-        },
-        {
-            "parent": "wd:Q1196314",
-            "child": "wd:Q1516464"
-        },
-        {
-            "parent": "wd:Q1196314",
-            "child": "wd:Q1746791"
-        },
-        {
-            "parent": "wd:Q1196314",
-            "child": "wd:Q1939224"
-        },
-        {
-            "parent": "wd:Q1619777",
-            "child": "wd:Q463881"
-        },
-        {
-            "parent": "wd:Q1619777",
-            "child": "wd:Q1376513"
-        },
-        {
-            "parent": "wd:Q1619777",
-            "child": "wd:Q1531599"
-        },
-        {
-            "parent": "wd:Q1619777",
-            "child": "wd:Q6020238"
-        },
-        {
-            "parent": "wd:Q1619777",
-            "child": "wd:Q6706226"
-        },
-        {
-            "parent": "wd:Q1619777",
-            "child": "wd:Q13164376"
-        },
-        {
-            "parent": "wd:Q1619777",
-            "child": "wd:Q17032424"
+            "parent": "wd:Q5420721",
+            "child": "wd:Q584207"
         },
         {
             "parent": "wd:Q11693",
@@ -8078,72 +7994,148 @@
             "child": "wd:Q7627863"
         },
         {
-            "parent": "wd:Q183984",
-            "child": "wd:Q5321525"
+            "parent": "wd:Q80042",
+            "child": "wd:Q292874"
         },
         {
-            "parent": "wd:Q183984",
-            "child": "wd:Q16068686"
+            "parent": "wd:Q80042",
+            "child": "wd:Q334922"
         },
         {
-            "parent": "wd:Q187860",
-            "child": "wd:Q205225"
+            "parent": "wd:Q80042",
+            "child": "wd:Q881662"
         },
         {
-            "parent": "wd:Q187860",
-            "child": "wd:Q584207"
+            "parent": "wd:Q80042",
+            "child": "wd:Q1040723"
         },
         {
-            "parent": "wd:Q187860",
-            "child": "wd:Q1286721"
+            "parent": "wd:Q80042",
+            "child": "wd:Q2971994"
         },
         {
-            "parent": "wd:Q187860",
-            "child": "wd:Q1508707"
+            "parent": "wd:Q80042",
+            "child": "wd:Q2971998"
         },
         {
-            "parent": "wd:Q187860",
-            "child": "wd:Q1939618"
+            "parent": "wd:Q80042",
+            "child": "wd:Q4771127"
         },
         {
-            "parent": "wd:Q187860",
-            "child": "wd:Q2245732"
+            "parent": "wd:Q80042",
+            "child": "wd:Q22908255"
         },
         {
-            "parent": "wd:Q187860",
-            "child": "wd:Q4804025"
+            "parent": "wd:Q1643989",
+            "child": "wd:Q1368"
         },
         {
-            "parent": "wd:Q205180",
-            "child": "wd:Q205258"
+            "parent": "wd:Q1643989",
+            "child": "wd:Q1637036"
         },
         {
-            "parent": "wd:Q205180",
-            "child": "wd:Q515371"
+            "parent": "wd:Q11692",
+            "child": "wd:Q245043"
         },
         {
-            "parent": "wd:Q691313",
-            "child": "wd:Q140279"
+            "parent": "wd:Q11692",
+            "child": "wd:Q455261"
         },
         {
-            "parent": "wd:Q691313",
-            "child": "wd:Q624028"
+            "parent": "wd:Q11692",
+            "child": "wd:Q569375"
         },
         {
-            "parent": "wd:Q691313",
-            "child": "wd:Q1139416"
+            "parent": "wd:Q11692",
+            "child": "wd:Q622588"
         },
         {
-            "parent": "wd:Q691313",
-            "child": "wd:Q7118288"
+            "parent": "wd:Q11692",
+            "child": "wd:Q1081659"
         },
         {
-            "parent": "wd:Q1136583",
-            "child": "wd:Q515371"
+            "parent": "wd:Q11692",
+            "child": "wd:Q1523234"
         },
         {
-            "parent": "wd:Q1232971",
-            "child": "wd:Q5048328"
+            "parent": "wd:Q11692",
+            "child": "wd:Q2187047"
+        },
+        {
+            "parent": "wd:Q11692",
+            "child": "wd:Q2360924"
+        },
+        {
+            "parent": "wd:Q11692",
+            "child": "wd:Q2823672"
+        },
+        {
+            "parent": "wd:Q11692",
+            "child": "wd:Q4073859"
+        },
+        {
+            "parent": "wd:Q11692",
+            "child": "wd:Q19914241"
+        },
+        {
+            "parent": "wd:Q11692",
+            "child": "wd:Q60790241"
+        },
+        {
+            "parent": "wd:Q1108930",
+            "child": "wd:Q1108914"
+        },
+        {
+            "parent": "wd:Q1196314",
+            "child": "wd:Q277928"
+        },
+        {
+            "parent": "wd:Q1196314",
+            "child": "wd:Q422027"
+        },
+        {
+            "parent": "wd:Q1196314",
+            "child": "wd:Q836113"
+        },
+        {
+            "parent": "wd:Q1196314",
+            "child": "wd:Q1516464"
+        },
+        {
+            "parent": "wd:Q1196314",
+            "child": "wd:Q1746791"
+        },
+        {
+            "parent": "wd:Q1196314",
+            "child": "wd:Q1939224"
+        },
+        {
+            "parent": "wd:Q1619777",
+            "child": "wd:Q463881"
+        },
+        {
+            "parent": "wd:Q1619777",
+            "child": "wd:Q1376513"
+        },
+        {
+            "parent": "wd:Q1619777",
+            "child": "wd:Q1531599"
+        },
+        {
+            "parent": "wd:Q1619777",
+            "child": "wd:Q6020238"
+        },
+        {
+            "parent": "wd:Q1619777",
+            "child": "wd:Q6706226"
+        },
+        {
+            "parent": "wd:Q1619777",
+            "child": "wd:Q13164376"
+        },
+        {
+            "parent": "wd:Q1619777",
+            "child": "wd:Q17032424"
         },
         {
             "parent": "wd:Q1416012",
@@ -8168,6 +8160,10 @@
         {
             "parent": "wd:Q5164623",
             "child": "wd:Q5691144"
+        },
+        {
+            "parent": "wd:Q153476",
+            "child": "wd:Q45405722"
         },
         {
             "parent": "wd:Q1956505",
@@ -8200,6 +8196,58 @@
         {
             "parent": "wd:Q7551299",
             "child": "wd:Q91040909"
+        },
+        {
+            "parent": "wd:Q507494",
+            "child": "wd:Q26701418"
+        },
+        {
+            "parent": "wd:Q2324820",
+            "child": "wd:Q231580"
+        },
+        {
+            "parent": "wd:Q2324820",
+            "child": "wd:Q2659806"
+        },
+        {
+            "parent": "wd:Q3268992",
+            "child": "wd:Q13417159"
+        },
+        {
+            "parent": "wd:Q140279",
+            "child": "wd:Q1129769"
+        },
+        {
+            "parent": "wd:Q515371",
+            "child": "wd:Q39233713"
+        },
+        {
+            "parent": "wd:Q1787056",
+            "child": "wd:Q2328086"
+        },
+        {
+            "parent": "wd:Q5691099",
+            "child": "wd:Q6025367"
+        },
+        {
+            "parent": "wd:Q5691099",
+            "child": "wd:Q6806864"
+        },
+        {
+            "parent": "wd:Q5691099",
+            "child": "wd:Q7603105"
+        },
+        {
+            "parent": "wd:Q45405722",
+            "child": "wd:Q47294054"
+        },
+        {
+            "parent": "wd:Q2971998",
+            "child": "wd:Q1061429"
+        },
+        {
+            "parent": "wd:Q7156607",
+            "child": "wd:Q7268769"
         },
         {
             "parent": "wd:Q1368",
@@ -8306,56 +8354,12 @@
             "child": "wd:Q2060600"
         },
         {
-            "parent": "wd:Q2971998",
-            "child": "wd:Q1061429"
+            "parent": "wd:Q39233713",
+            "child": "wd:Q562667"
         },
         {
-            "parent": "wd:Q7156607",
-            "child": "wd:Q7268769"
-        },
-        {
-            "parent": "wd:Q515371",
-            "child": "wd:Q39233713"
-        },
-        {
-            "parent": "wd:Q45405722",
-            "child": "wd:Q47294054"
-        },
-        {
-            "parent": "wd:Q507494",
-            "child": "wd:Q26701418"
-        },
-        {
-            "parent": "wd:Q2324820",
-            "child": "wd:Q231580"
-        },
-        {
-            "parent": "wd:Q2324820",
-            "child": "wd:Q2659806"
-        },
-        {
-            "parent": "wd:Q3268992",
-            "child": "wd:Q13417159"
-        },
-        {
-            "parent": "wd:Q1787056",
-            "child": "wd:Q2328086"
-        },
-        {
-            "parent": "wd:Q140279",
-            "child": "wd:Q1129769"
-        },
-        {
-            "parent": "wd:Q5691099",
-            "child": "wd:Q6025367"
-        },
-        {
-            "parent": "wd:Q5691099",
-            "child": "wd:Q6806864"
-        },
-        {
-            "parent": "wd:Q5691099",
-            "child": "wd:Q7603105"
+            "parent": "wd:Q39233713",
+            "child": "wd:Q11510761"
         },
         {
             "parent": "wd:Q8142",
@@ -8834,18 +8838,6 @@
             "child": "wd:Q72417724"
         },
         {
-            "parent": "wd:Q39233713",
-            "child": "wd:Q562667"
-        },
-        {
-            "parent": "wd:Q39233713",
-            "child": "wd:Q11510761"
-        },
-        {
-            "parent": "wd:Q25417",
-            "child": "wd:Q191068"
-        },
-        {
             "parent": "wd:Q41207",
             "child": "wd:Q11602"
         },
@@ -9168,6 +9160,10 @@
         {
             "parent": "wd:Q41207",
             "child": "wd:Q3032560"
+        },
+        {
+            "parent": "wd:Q25417",
+            "child": "wd:Q191068"
         },
         {
             "parent": "wd:Q14083",
@@ -9962,46 +9958,6 @@
             "child": "wd:Q50332042"
         },
         {
-            "parent": "wd:Q5100585",
-            "child": "wd:Q3644173"
-        },
-        {
-            "parent": "wd:Q5100585",
-            "child": "wd:Q5100469"
-        },
-        {
-            "parent": "wd:Q476078",
-            "child": "wd:Q28038924"
-        },
-        {
-            "parent": "wd:Q644463",
-            "child": "wd:Q455052"
-        },
-        {
-            "parent": "wd:Q1395460",
-            "child": "wd:Q3543447"
-        },
-        {
-            "parent": "wd:Q1395460",
-            "child": "wd:Q23940476"
-        },
-        {
-            "parent": "wd:Q4029753",
-            "child": "wd:Q89612655"
-        },
-        {
-            "parent": "wd:Q4155843",
-            "child": "wd:Q930649"
-        },
-        {
-            "parent": "wd:Q4155843",
-            "child": "wd:Q3037465"
-        },
-        {
-            "parent": "wd:Q4155843",
-            "child": "wd:Q17067417"
-        },
-        {
             "parent": "wd:Q4343747",
             "child": "wd:Q28747673"
         },
@@ -10022,8 +9978,48 @@
             "child": "wd:Q384724"
         },
         {
+            "parent": "wd:Q5100585",
+            "child": "wd:Q3644173"
+        },
+        {
+            "parent": "wd:Q5100585",
+            "child": "wd:Q5100469"
+        },
+        {
             "parent": "wd:Q1981571",
             "child": "wd:Q209401"
+        },
+        {
+            "parent": "wd:Q1395460",
+            "child": "wd:Q3543447"
+        },
+        {
+            "parent": "wd:Q1395460",
+            "child": "wd:Q23940476"
+        },
+        {
+            "parent": "wd:Q476078",
+            "child": "wd:Q28038924"
+        },
+        {
+            "parent": "wd:Q644463",
+            "child": "wd:Q455052"
+        },
+        {
+            "parent": "wd:Q4029753",
+            "child": "wd:Q89612655"
+        },
+        {
+            "parent": "wd:Q4155843",
+            "child": "wd:Q930649"
+        },
+        {
+            "parent": "wd:Q4155843",
+            "child": "wd:Q3037465"
+        },
+        {
+            "parent": "wd:Q4155843",
+            "child": "wd:Q17067417"
         },
         {
             "parent": "wd:Q384724",

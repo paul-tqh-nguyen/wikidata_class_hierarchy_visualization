@@ -140,6 +140,46 @@
             "id": "wd:Q18556247"
         },
         {
+            "label": "Prinzmetal's angina",
+            "description": "cardiac chest pain at rest that occurs in cycles",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1469637"
+        },
+        {
+            "label": "ischemic myocardial contracture",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1450078"
+        },
+        {
+            "label": "silent myocardial ischemia",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q16644072"
+        },
+        {
+            "label": "myocardial reperfusion injury",
+            "description": "damage to the myocardium resulting from restoration of blood flow to ischemic areas of the heart",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q54971821"
+        },
+        {
+            "label": "coronary restenosis",
+            "description": "Human disease",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q18556246"
+        },
+        {
             "label": "myocardial stunning",
             "description": "state when some section of the myocardium (corresponding to area of a major coronary occlusion) shows a form of contractile abnormality",
             "distance_to_root": 2,
@@ -316,30 +356,6 @@
             "id": "wd:Q95861371"
         },
         {
-            "label": "ischemic myocardial contracture",
-            "description": "",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1450078"
-        },
-        {
-            "label": "silent myocardial ischemia",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q16644072"
-        },
-        {
-            "label": "myocardial reperfusion injury",
-            "description": "damage to the myocardium resulting from restoration of blood flow to ischemic areas of the heart",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q54971821"
-        },
-        {
             "label": "coronary occlusion",
             "description": "partial or complete obstruction of blood flow in a coronary artery",
             "distance_to_root": 2,
@@ -370,14 +386,6 @@
             "number_of_instances": 0,
             "image_url": "",
             "id": "wd:Q16966202"
-        },
-        {
-            "label": "coronary restenosis",
-            "description": "Human disease",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q18556246"
         },
         {
             "label": "anomalous left coronary artery from the pulmonary artery",
@@ -428,12 +436,44 @@
             "id": "wd:Q55788901"
         },
         {
-            "label": "Prinzmetal's angina",
-            "description": "cardiac chest pain at rest that occurs in cycles",
-            "distance_to_root": 2,
+            "label": "subendocardial infarction acute myocardial infarction",
+            "description": "Human disease",
+            "distance_to_root": 3,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q1469637"
+            "id": "wd:Q18553826"
+        },
+        {
+            "label": "acute inferoposterior infarction",
+            "description": "Human disease",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q18553908"
+        },
+        {
+            "label": "acute inferolateral myocardial infarction",
+            "description": "Human disease",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q18553909"
+        },
+        {
+            "label": "acute anterolateral myocardial infarction",
+            "description": "Human disease",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q18553910"
+        },
+        {
+            "label": "strictly posterior acute myocardial infarction",
+            "description": "Human disease",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q18558121"
         },
         {
             "label": "coronary artery intramyocardial course",
@@ -482,46 +522,6 @@
             "number_of_instances": 0,
             "image_url": "",
             "id": "wd:Q55789359"
-        },
-        {
-            "label": "subendocardial infarction acute myocardial infarction",
-            "description": "Human disease",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q18553826"
-        },
-        {
-            "label": "acute inferoposterior infarction",
-            "description": "Human disease",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q18553908"
-        },
-        {
-            "label": "acute inferolateral myocardial infarction",
-            "description": "Human disease",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q18553909"
-        },
-        {
-            "label": "acute anterolateral myocardial infarction",
-            "description": "Human disease",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q18553910"
-        },
-        {
-            "label": "strictly posterior acute myocardial infarction",
-            "description": "Human disease",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q18558121"
         },
         {
             "label": "chronic total occlusion  of coronary artery",

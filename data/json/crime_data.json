@@ -1260,6 +1260,14 @@
             "id": "wd:Q17152709"
         },
         {
+            "label": "copycat suicide",
+            "description": "emulation of another suicide",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1047483"
+        },
+        {
             "label": "snuff film",
             "description": "film genre that depicts murder for the express purpose of distribution and entertainment or financial exploitation",
             "distance_to_root": 2,
@@ -1484,6 +1492,38 @@
             "id": "wd:Q85229074"
         },
         {
+            "label": "Turkish coup d'\u00e9tat",
+            "description": "Wikimedia disambiguation page",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1935121"
+        },
+        {
+            "label": "self-coup",
+            "description": "coup d'\u00e9tat in which an incumbent state leader unlawfully assumes extraordinary powers",
+            "distance_to_root": 2,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q4460509"
+        },
+        {
+            "label": "white coup",
+            "description": "coup d'\u00e9tat by partially or fully legal means",
+            "distance_to_root": 2,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q10290435"
+        },
+        {
+            "label": "military coup",
+            "description": "coup d'\u00e9tat establishing a military dictatorship",
+            "distance_to_root": 2,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q10290447"
+        },
+        {
             "label": "cyberstalking",
             "description": "use of the Internet or other electronic means to stalk or harass an individual, a group, or an organization",
             "distance_to_root": 2,
@@ -1500,156 +1540,12 @@
             "id": "wd:Q80571249"
         },
         {
-            "label": "signals intelligence",
-            "description": "intelligence-gathering by interception of signals",
-            "distance_to_root": 2,
-            "number_of_instances": 4,
-            "image_url": "",
-            "id": "wd:Q836610"
-        },
-        {
-            "label": "cyber spying",
-            "description": "act of obtaining secrets and information using methods on the Internet, networks or individual computers",
-            "distance_to_root": 2,
-            "number_of_instances": 3,
-            "image_url": "",
-            "id": "wd:Q1039245"
-        },
-        {
-            "label": "industrial espionage",
-            "description": "form of espionage",
-            "distance_to_root": 2,
-            "number_of_instances": 1,
-            "image_url": "",
-            "id": "wd:Q1160650"
-        },
-        {
-            "label": "human intelligence",
-            "description": "intelligence gathered by means interpersonal contact",
+            "label": "formicophilia",
+            "description": "form of zoophilia",
             "distance_to_root": 2,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q1538117"
-        },
-        {
-            "label": "Kompromat",
-            "description": "Russian short word for \"compromising material\"",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaveladze%201%20Exhibits%20redacted.pdf?width=900",
-            "id": "wd:Q1569550"
-        },
-        {
-            "label": "Dutch espionage during World War II",
-            "description": "",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2112749"
-        },
-        {
-            "label": "military intelligence",
-            "description": "gathering and assessment of strategic, tactical, and policy information",
-            "distance_to_root": 2,
-            "number_of_instances": 7,
-            "image_url": "",
-            "id": "wd:Q4168000"
-        },
-        {
-            "label": "financial intelligence",
-            "description": "intelligence assessment of accounting and financial transactions",
-            "distance_to_root": 2,
-            "number_of_instances": 1,
-            "image_url": "",
-            "id": "wd:Q5449606"
-        },
-        {
-            "label": "National Communications Centre",
-            "description": "intelligence-gathering agency of the Republic of South Africa by interception of signals",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q6971717"
-        },
-        {
-            "label": "nuclear espionage",
-            "description": "espionage related to the creation of nuclear weapons",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q16821366"
-        },
-        {
-            "label": "espionage crime in the People's Republic of China",
-            "description": "",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q17031450"
-        },
-        {
-            "label": "attempted murder",
-            "description": "crime of attempt in various jurisdictions",
-            "distance_to_root": 2,
-            "number_of_instances": 56,
-            "image_url": "",
-            "id": "wd:Q4818169"
-        },
-        {
-            "label": "failed terrorism plot",
-            "description": "terrorist plots that has either been foiled or uncovered by authorities or failed through mistakes",
-            "distance_to_root": 2,
-            "number_of_instances": 14,
-            "image_url": "",
-            "id": "wd:Q5429679"
-        },
-        {
-            "label": "attempted arson",
-            "description": "occurs if a criminal has an intent to commit arson and takes a substantial step toward completing the it",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q24327443"
-        },
-        {
-            "label": "fallido el golpe de estadp del 23F de 1981",
-            "description": "unsuccessful attempt to depose a government",
-            "distance_to_root": 2,
-            "number_of_instances": 101,
-            "image_url": "",
-            "id": "wd:Q25906438"
-        },
-        {
-            "label": "failed attack",
-            "description": "",
-            "distance_to_root": 2,
-            "number_of_instances": 20,
-            "image_url": "",
-            "id": "wd:Q28945444"
-        },
-        {
-            "label": "attempted kidnapping",
-            "description": "occurs if a criminal has an intent to commit a kidnapping and takes a substantial step toward completing it",
-            "distance_to_root": 2,
-            "number_of_instances": 3,
-            "image_url": "",
-            "id": "wd:Q30344536"
-        },
-        {
-            "label": "attempted rape",
-            "description": "occurs if a criminal has an intent to commit rape and takes a substantial step toward completing it",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q52237215"
-        },
-        {
-            "label": "attempted robbery",
-            "description": "occurs if a criminal has an intent to commit a robbery and takes a substantial step toward completing the it",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q93453476"
+            "id": "wd:Q1276313"
         },
         {
             "label": "death march",
@@ -1812,238 +1708,6 @@
             "id": "wd:Q62470235"
         },
         {
-            "label": "Medical torture",
-            "description": "",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q257222"
-        },
-        {
-            "label": "chinese water torture",
-            "description": "alleged method of torture by dripping water onto the scalp",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chinesische%20Wasserfolter%20-%20Gedenkst%C3%A4tte%20Berlin-Hohensch%C3%B6nhausen.jpg?width=900",
-            "id": "wd:Q513072"
-        },
-        {
-            "label": "dismemberment",
-            "description": "capital punishment",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q661297"
-        },
-        {
-            "label": "breaking wheel",
-            "description": "torture device used for capital punishment",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/17XX%20Richtrad%20anagoria.JPG?width=900",
-            "id": "wd:Q692003"
-        },
-        {
-            "label": "basanos",
-            "description": "",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q809774"
-        },
-        {
-            "label": "slow slicing",
-            "description": "torture and execution used in China abolished in 1905",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lingchi%20%28cropped%29.jpg?width=900",
-            "id": "wd:Q1049098"
-        },
-        {
-            "label": "flaying",
-            "description": "method of slow and painful execution in which skin is removed from the body",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fr%20Camilo%20Martirio%20de%20San%20bartolom%C3%A9%20Museo%20del%20Prado.jpg?width=900",
-            "id": "wd:Q1145315"
-        },
-        {
-            "label": "Water torture",
-            "description": "Wikimedia disambiguation page",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1415850"
-        },
-        {
-            "label": "Strappado",
-            "description": "type of torture",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Strappado%20by%20Jacques%20Callot%20%28cropped%29.jpg?width=900",
-            "id": "wd:Q1545625"
-        },
-        {
-            "label": "force-feeding",
-            "description": "practice of feeding a human or other animal against their will",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2296926"
-        },
-        {
-            "label": "water cure",
-            "description": "form of torture",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2604851"
-        },
-        {
-            "label": "psychological torture",
-            "description": "",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q4117084"
-        },
-        {
-            "label": "music in psychological operations",
-            "description": "",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q4385380"
-        },
-        {
-            "label": "Denailing",
-            "description": "method of torture",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5256564"
-        },
-        {
-            "label": "parrilla",
-            "description": "method of torture",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7139793"
-        },
-        {
-            "label": "Pharmacological torture",
-            "description": "",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7180791"
-        },
-        {
-            "label": "Rat torture",
-            "description": "torture involving rats",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7295415"
-        },
-        {
-            "label": "Stress position",
-            "description": "Position that puts the human body in a great amount of pain",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7623449"
-        },
-        {
-            "label": "torture murder",
-            "description": "murder where death was preceded by the torture of the victim, often involving a harsher sentence in many jurisdictions",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7827372"
-        },
-        {
-            "label": "Torture by proxy",
-            "description": "",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q20433366"
-        },
-        {
-            "label": "water torture",
-            "description": "use of water to torture someone",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q28351510"
-        },
-        {
-            "label": "pizzo",
-            "description": "benefit received from someone under coersion",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2541324"
-        },
-        {
-            "label": "emotional blackmail",
-            "description": "",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5373782"
-        },
-        {
-            "label": "internet fraud",
-            "description": "a type of fraud or deception which makes use of the Internet to defraud victims",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1668020"
-        },
-        {
-            "label": "hacking",
-            "description": "solving of technical work that requires deep understanding, especially of a computer system",
-            "distance_to_root": 2,
-            "number_of_instances": 1,
-            "image_url": "",
-            "id": "wd:Q2144405"
-        },
-        {
-            "label": "computer crime in Canada",
-            "description": "",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5157536"
-        },
-        {
-            "label": "email hacking",
-            "description": "unauthorized access to, or manipulation of, an email account or email correspondence",
-            "distance_to_root": 2,
-            "number_of_instances": 2,
-            "image_url": "",
-            "id": "wd:Q5368817"
-        },
-        {
-            "label": "scam baiting",
-            "description": "internet vigilantism tactic",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7429858"
-        },
-        {
-            "label": "technical support scam",
-            "description": "type of fraud and confidence trick",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q16738649"
-        },
-        {
             "label": "arms trafficking",
             "description": "illegal trafficking or smuggling of contraband weapons or ammunition",
             "distance_to_root": 2,
@@ -2052,44 +1716,20 @@
             "id": "wd:Q2431020"
         },
         {
-            "label": "Turkish coup d'\u00e9tat",
-            "description": "Wikimedia disambiguation page",
+            "label": "collaborationism",
+            "description": "cooperation with the enemy against one's country of citizenship in wartime",
+            "distance_to_root": 2,
+            "number_of_instances": 12,
+            "image_url": "",
+            "id": "wd:Q156744"
+        },
+        {
+            "label": "Treason in Japan",
+            "description": "",
             "distance_to_root": 2,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q1935121"
-        },
-        {
-            "label": "self-coup",
-            "description": "When a nation's leader unlawfully assumes extraordinary powers not granted under normal circumstances.",
-            "distance_to_root": 2,
-            "number_of_instances": 2,
-            "image_url": "",
-            "id": "wd:Q4460509"
-        },
-        {
-            "label": "white coup",
-            "description": "coup d'\u00e9tat by partially or fully legal means",
-            "distance_to_root": 2,
-            "number_of_instances": 2,
-            "image_url": "",
-            "id": "wd:Q10290435"
-        },
-        {
-            "label": "military coup",
-            "description": "coup d'\u00e9tat establishing a military dictatorship",
-            "distance_to_root": 2,
-            "number_of_instances": 2,
-            "image_url": "",
-            "id": "wd:Q10290447"
-        },
-        {
-            "label": "copycat suicide",
-            "description": "emulation of another suicide",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1047483"
+            "id": "wd:Q57552238"
         },
         {
             "label": "credit card fraud",
@@ -2218,6 +1858,14 @@
             "number_of_instances": 0,
             "image_url": "",
             "id": "wd:Q1649915"
+        },
+        {
+            "label": "internet fraud",
+            "description": "a type of fraud or deception which makes use of the Internet to defraud victims",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1668020"
         },
         {
             "label": "heraldric fraud",
@@ -2580,36 +2228,580 @@
             "id": "wd:Q77195507"
         },
         {
-            "label": "collaborationism",
-            "description": "cooperation with the enemy against one's country of citizenship in wartime",
+            "label": "Kompromat",
+            "description": "Russian short word for \"compromising material\"",
             "distance_to_root": 2,
-            "number_of_instances": 12,
-            "image_url": "",
-            "id": "wd:Q156744"
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaveladze%201%20Exhibits%20redacted.pdf?width=900",
+            "id": "wd:Q1569550"
         },
         {
-            "label": "Treason in Japan",
+            "label": "pizzo",
+            "description": "benefit received from someone under coersion",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2541324"
+        },
+        {
+            "label": "emotional blackmail",
             "description": "",
             "distance_to_root": 2,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q57552238"
+            "id": "wd:Q5373782"
         },
         {
-            "label": "formicophilia",
-            "description": "form of zoophilia",
+            "label": "hacking",
+            "description": "solving of technical work that requires deep understanding, especially of a computer system",
+            "distance_to_root": 2,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q2144405"
+        },
+        {
+            "label": "computer crime in Canada",
+            "description": "",
             "distance_to_root": 2,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q1276313"
+            "id": "wd:Q5157536"
         },
         {
-            "label": "Israeli targeted killings",
+            "label": "email hacking",
+            "description": "unauthorized access to, or manipulation of, an email account or email correspondence",
+            "distance_to_root": 2,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q5368817"
+        },
+        {
+            "label": "scam baiting",
+            "description": "internet vigilantism tactic",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7429858"
+        },
+        {
+            "label": "technical support scam",
+            "description": "type of fraud and confidence trick",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q16738649"
+        },
+        {
+            "label": "signals intelligence",
+            "description": "intelligence-gathering by interception of signals",
+            "distance_to_root": 2,
+            "number_of_instances": 4,
+            "image_url": "",
+            "id": "wd:Q836610"
+        },
+        {
+            "label": "cyber spying",
+            "description": "act of obtaining secrets and information using methods on the Internet, networks or individual computers",
+            "distance_to_root": 2,
+            "number_of_instances": 3,
+            "image_url": "",
+            "id": "wd:Q1039245"
+        },
+        {
+            "label": "industrial espionage",
+            "description": "form of espionage",
+            "distance_to_root": 2,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q1160650"
+        },
+        {
+            "label": "human intelligence",
+            "description": "intelligence gathered by means interpersonal contact",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1538117"
+        },
+        {
+            "label": "Dutch espionage during World War II",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2112749"
+        },
+        {
+            "label": "military intelligence",
+            "description": "gathering and assessment of strategic, tactical, and policy information",
+            "distance_to_root": 2,
+            "number_of_instances": 7,
+            "image_url": "",
+            "id": "wd:Q4168000"
+        },
+        {
+            "label": "financial intelligence",
+            "description": "intelligence assessment of accounting and financial transactions",
+            "distance_to_root": 2,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q5449606"
+        },
+        {
+            "label": "National Communications Centre",
+            "description": "intelligence-gathering agency of the Republic of South Africa by interception of signals",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6971717"
+        },
+        {
+            "label": "nuclear espionage",
+            "description": "espionage related to the creation of nuclear weapons",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q16821366"
+        },
+        {
+            "label": "espionage crime in the People's Republic of China",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q17031450"
+        },
+        {
+            "label": "attempted murder",
+            "description": "crime of attempt in various jurisdictions",
+            "distance_to_root": 2,
+            "number_of_instances": 56,
+            "image_url": "",
+            "id": "wd:Q4818169"
+        },
+        {
+            "label": "failed terrorism plot",
+            "description": "terrorist plots that has either been foiled or uncovered by authorities or failed through mistakes",
+            "distance_to_root": 2,
+            "number_of_instances": 15,
+            "image_url": "",
+            "id": "wd:Q5429679"
+        },
+        {
+            "label": "attempted arson",
+            "description": "occurs if a criminal has an intent to commit arson and takes a substantial step toward completing the it",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q24327443"
+        },
+        {
+            "label": "attempted coup d'\u00e9tat",
+            "description": "unsuccessful attempt to depose a government",
+            "distance_to_root": 2,
+            "number_of_instances": 101,
+            "image_url": "",
+            "id": "wd:Q25906438"
+        },
+        {
+            "label": "failed attack",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 20,
+            "image_url": "",
+            "id": "wd:Q28945444"
+        },
+        {
+            "label": "attempted kidnapping",
+            "description": "occurs if a criminal has an intent to commit a kidnapping and takes a substantial step toward completing it",
+            "distance_to_root": 2,
+            "number_of_instances": 3,
+            "image_url": "",
+            "id": "wd:Q30344536"
+        },
+        {
+            "label": "attempted rape",
+            "description": "occurs if a criminal has an intent to commit rape and takes a substantial step toward completing it",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q52237215"
+        },
+        {
+            "label": "attempted robbery",
+            "description": "occurs if a criminal has an intent to commit a robbery and takes a substantial step toward completing the it",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q93453476"
+        },
+        {
+            "label": "Medical torture",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q257222"
+        },
+        {
+            "label": "chinese water torture",
+            "description": "alleged method of torture by dripping water onto the scalp",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chinesische%20Wasserfolter%20-%20Gedenkst%C3%A4tte%20Berlin-Hohensch%C3%B6nhausen.jpg?width=900",
+            "id": "wd:Q513072"
+        },
+        {
+            "label": "dismemberment",
+            "description": "capital punishment",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q661297"
+        },
+        {
+            "label": "breaking wheel",
+            "description": "torture device used for capital punishment",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/17XX%20Richtrad%20anagoria.JPG?width=900",
+            "id": "wd:Q692003"
+        },
+        {
+            "label": "basanos",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q809774"
+        },
+        {
+            "label": "slow slicing",
+            "description": "torture and execution used in China abolished in 1905",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lingchi%20%28cropped%29.jpg?width=900",
+            "id": "wd:Q1049098"
+        },
+        {
+            "label": "flaying",
+            "description": "method of slow and painful execution in which skin is removed from the body",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fr%20Camilo%20Martirio%20de%20San%20bartolom%C3%A9%20Museo%20del%20Prado.jpg?width=900",
+            "id": "wd:Q1145315"
+        },
+        {
+            "label": "Water torture",
+            "description": "Wikimedia disambiguation page",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1415850"
+        },
+        {
+            "label": "Strappado",
+            "description": "type of torture",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Strappado%20by%20Jacques%20Callot%20%28cropped%29.jpg?width=900",
+            "id": "wd:Q1545625"
+        },
+        {
+            "label": "force-feeding",
+            "description": "practice of feeding a human or other animal against their will",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2296926"
+        },
+        {
+            "label": "water cure",
+            "description": "form of torture",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2604851"
+        },
+        {
+            "label": "psychological torture",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4117084"
+        },
+        {
+            "label": "music in psychological operations",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4385380"
+        },
+        {
+            "label": "Denailing",
+            "description": "method of torture",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5256564"
+        },
+        {
+            "label": "parrilla",
+            "description": "method of torture",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7139793"
+        },
+        {
+            "label": "Pharmacological torture",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7180791"
+        },
+        {
+            "label": "Rat torture",
+            "description": "torture involving rats",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7295415"
+        },
+        {
+            "label": "Stress position",
+            "description": "Position that puts the human body in a great amount of pain",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7623449"
+        },
+        {
+            "label": "torture murder",
+            "description": "murder where death was preceded by the torture of the victim, often involving a harsher sentence in many jurisdictions",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7827372"
+        },
+        {
+            "label": "Torture by proxy",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q20433366"
+        },
+        {
+            "label": "water torture",
+            "description": "use of water to torture someone",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q28351510"
+        },
+        {
+            "label": "obstruction of free exercise of religious beliefs involving an attempt to kill and use of a dangerous weapon and resulting in bodily injury",
+            "description": "hate crime",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q63758372"
+        },
+        {
+            "label": "hate crimes involving an attempt to kill",
+            "description": "hate crime",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q63758405"
+        },
+        {
+            "label": "obstruction of free exercise of religious beliefs involving an attempt to kill and use of a dangerous weapon, and resulting in bodily injury to public safety officers",
+            "description": "crime",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q63758427"
+        },
+        {
+            "label": "obstruction of free exercise of religious beliefs involving an attempt to kill and use of a dangerous weapon and resulting in bodily injury",
+            "description": "crime",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q85229357"
+        },
+        {
+            "label": "obstruction of free exercise of religious beliefs involving an attempt to kill and use of a dangerous weapon, and resulting in bodily injury to a public safety officer",
+            "description": "crime",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q85230011"
+        },
+        {
+            "label": "assassination attempt",
+            "description": "occurs if a criminal has an intent to commit a assassination and takes a substantial step toward completing the it",
+            "distance_to_root": 3,
+            "number_of_instances": 11,
+            "image_url": "",
+            "id": "wd:Q88178910"
+        },
+        {
+            "label": "War Crimes of the Red Army",
             "description": "",
             "distance_to_root": 3,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q135162"
+            "id": "wd:Q834416"
+        },
+        {
+            "label": "clothing scam company",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5135576"
+        },
+        {
+            "label": "war crimes of the Wehrmacht",
+            "description": "crimes carried out by the German armed forces during World War II",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polish%20hostages%20preparing%20by%20Nazi%20Germans%20for%20mass%20execution%201940.jpg?width=900",
+            "id": "wd:Q680121"
+        },
+        {
+            "label": "German war crimes against Soviet civilians",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3002635"
+        },
+        {
+            "label": "German war crimes during the Battle of Moscow",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5551877"
+        },
+        {
+            "label": "assassination",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q51159756"
+        },
+        {
+            "label": "deliberate  poisoning",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q51159762"
+        },
+        {
+            "label": "skimming",
+            "description": "illegal acquisition and copying of payment card details",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q11703939"
+        },
+        {
+            "label": "camfecting",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5026509"
+        },
+        {
+            "label": "DIY biology",
+            "description": "biotechnological social movement",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BackyardAqauponics%40BAU.jpg?width=900",
+            "id": "wd:Q5205179"
+        },
+        {
+            "label": "phone hacking",
+            "description": "Malicious Hacking & White Hacking",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7187193"
+        },
+        {
+            "label": "ethical hacking",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q56669895"
+        },
+        {
+            "label": "genocide",
+            "description": "systematic destruction of all or a significant part of a racial, ethnic, religious or national group",
+            "distance_to_root": 3,
+            "number_of_instances": 38,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Srebrenica%20massacre%20memorial%20gravestones%202009%201.jpg?width=900",
+            "id": "wd:Q41397"
+        },
+        {
+            "label": "pogrom",
+            "description": "violent riot aimed at massacre or persecution of an ethnic or religious group",
+            "distance_to_root": 3,
+            "number_of_instances": 50,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/VICTIMS%20OF%20IASI%20POGROM.jpg?width=900",
+            "id": "wd:Q177716"
+        },
+        {
+            "label": "mass killings under Communist regimes",
+            "description": "organized communist killing of large numbers of non-combatants",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q2235125"
+        },
+        {
+            "label": "politicide",
+            "description": "deliberate physical destruction or elimination of a group whose members share the main characteristic of belonging to a political movement",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2369404"
+        },
+        {
+            "label": "assassination campaign",
+            "description": "series of assassinations carried out to achieve a larger political goal",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4808499"
+        },
+        {
+            "label": "mass shooting",
+            "description": "incident involving multiple victims of gun violence and typically where some victims are killed",
+            "distance_to_root": 3,
+            "number_of_instances": 172,
+            "image_url": "",
+            "id": "wd:Q21480300"
+        },
+        {
+            "label": "spree killing",
+            "description": "killing at two or more locations with almost no time break between murders",
+            "distance_to_root": 3,
+            "number_of_instances": 3,
+            "image_url": "",
+            "id": "wd:Q66975460"
         },
         {
             "label": "insider trading",
@@ -2620,28 +2812,52 @@
             "id": "wd:Q854623"
         },
         {
-            "label": "Misclassification of employees as independent contractors",
+            "label": "embezzlement",
+            "description": "theft of assets entrusted to another person by the person that the assets were entrusted to",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q157833"
+        },
+        {
+            "label": "rip deal",
             "description": "",
             "distance_to_root": 3,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q1444528"
+            "id": "wd:Q2533601"
         },
         {
-            "label": "smuggling of firearms into Mexico",
+            "label": "Ultra",
+            "description": "Designation adopted by British for military intelligence from broken enemy codes",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/EnigmaMachine%20Warzawa.jpg?width=900",
+            "id": "wd:Q825712"
+        },
+        {
+            "label": "communications intelligence",
             "description": "",
             "distance_to_root": 3,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q7546628"
+            "id": "wd:Q1406999"
         },
         {
-            "label": "windowdressing",
-            "description": "practice of making a financial portfolio or corporate balance sheet seem while being appraised by a potential investor to have better returns than it truly had over most of the time it existed",
+            "label": "electronic signals intelligence",
+            "description": "non-communications signals intelligence gathering",
             "distance_to_root": 3,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q2583762"
+            "id": "wd:Q17542926"
+        },
+        {
+            "label": "magnicide",
+            "description": "assassination of a major political figure",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q9026907"
         },
         {
             "label": "Clickjacking",
@@ -2748,412 +2964,12 @@
             "id": "wd:Q96460525"
         },
         {
-            "label": "war crimes of the Wehrmacht",
-            "description": "crimes carried out by the German armed forces during World War II",
-            "distance_to_root": 3,
-            "number_of_instances": 1,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polish%20hostages%20preparing%20by%20Nazi%20Germans%20for%20mass%20execution%201940.jpg?width=900",
-            "id": "wd:Q680121"
-        },
-        {
-            "label": "German war crimes against Soviet civilians",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q3002635"
-        },
-        {
-            "label": "German war crimes during the Battle of Moscow",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5551877"
-        },
-        {
-            "label": "LOVEINT",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q15073372"
-        },
-        {
-            "label": "waterboarding",
-            "description": "drowning simulating torture method",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Waterboarding-Demonstration-30-05-2008-Island-a.jpg?width=900",
-            "id": "wd:Q2552748"
-        },
-        {
-            "label": "money laundering",
-            "description": "process of transforming profits of crime and corruption into ostensibly legitimate assets",
-            "distance_to_root": 3,
-            "number_of_instances": 1,
-            "image_url": "",
-            "id": "wd:Q151900"
-        },
-        {
-            "label": "child laundering",
-            "description": "scheme whereby intercountry adoptions are effected by illegal and fraudulent means",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2985081"
-        },
-        {
-            "label": "War Crimes of the Red Army",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q834416"
-        },
-        {
-            "label": "high-yield investment program",
-            "description": "Investment scam",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1102146"
-        },
-        {
-            "label": "1992 Venezuelan coup d'\u00e9tat attempts",
-            "description": "Venezuelan coup attempts of 1992",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q8868"
-        },
-        {
-            "label": "genocide",
-            "description": "systematic destruction of all or a significant part of a racial, ethnic, religious or national group",
-            "distance_to_root": 3,
-            "number_of_instances": 38,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Srebrenica%20massacre%20memorial%20gravestones%202009%201.jpg?width=900",
-            "id": "wd:Q41397"
-        },
-        {
-            "label": "pogrom",
-            "description": "violent riot aimed at massacre or persecution of an ethnic or religious group",
-            "distance_to_root": 3,
-            "number_of_instances": 50,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/VICTIMS%20OF%20IASI%20POGROM.jpg?width=900",
-            "id": "wd:Q177716"
-        },
-        {
-            "label": "mass killings under Communist regimes",
-            "description": "organized communist killing of large numbers of non-combatants",
-            "distance_to_root": 3,
-            "number_of_instances": 1,
-            "image_url": "",
-            "id": "wd:Q2235125"
-        },
-        {
-            "label": "politicide",
-            "description": "deliberate physical destruction or elimination of a group whose members share the main characteristic of belonging to a political movement",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2369404"
-        },
-        {
-            "label": "assassination campaign",
-            "description": "series of assassinations carried out to achieve a larger political goal",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q4808499"
-        },
-        {
-            "label": "mass shooting",
-            "description": "incident involving multiple victims of gun violence and typically where some victims are killed",
-            "distance_to_root": 3,
-            "number_of_instances": 172,
-            "image_url": "",
-            "id": "wd:Q21480300"
-        },
-        {
-            "label": "spree killing",
-            "description": "killing at two or more locations with almost no time break between murders",
-            "distance_to_root": 3,
-            "number_of_instances": 3,
-            "image_url": "",
-            "id": "wd:Q66975460"
-        },
-        {
-            "label": "phishing",
-            "description": "act of attempting to acquire (sensitive) information by posing as a trustworthy entity",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Phish.jpg?width=900",
-            "id": "wd:Q135005"
-        },
-        {
-            "label": "DNS hijacking",
-            "description": "practice of subverting the resolution of Domain Name System queries",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1154669"
-        },
-        {
-            "label": "Counterfeit medicines online",
-            "description": "substandard, spurious, falsified, falsely-labelled and counterfeit medical products marketed via Internet",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5176967"
-        },
-        {
-            "label": "rogue security software",
-            "description": "type of malware",
-            "distance_to_root": 3,
-            "number_of_instances": 1,
-            "image_url": "",
-            "id": "wd:Q2429834"
-        },
-        {
-            "label": "war crimes in Manchukuo",
-            "description": "war crimes committed during the rule of the Empire of Japan in northeast China",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7968599"
-        },
-        {
-            "label": "second-degree murder",
-            "description": "category of murder in United States laws",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q96049557"
-        },
-        {
-            "label": "Ultra",
-            "description": "Designation adopted by British for military intelligence from broken enemy codes",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/EnigmaMachine%20Warzawa.jpg?width=900",
-            "id": "wd:Q825712"
-        },
-        {
-            "label": "communications intelligence",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1406999"
-        },
-        {
-            "label": "electronic signals intelligence",
-            "description": "non-communications signals intelligence gathering",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q17542926"
-        },
-        {
-            "label": "Illegal drug trade in Colombia",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q3034076"
-        },
-        {
-            "label": "illegal drug trade in Venezuela",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5998942"
-        },
-        {
-            "label": "narcotrafico",
-            "description": "Spanish term for illegal drug trade",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q6965698"
-        },
-        {
-            "label": "county lines drug trafficking",
-            "description": "trafficking of drugs into British rural areas, often involving child slavery",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q60746521"
-        },
-        {
-            "label": "ethnic cleansing",
-            "description": "systematic removal of a certain ethnic or religious group",
-            "distance_to_root": 4,
-            "number_of_instances": 15,
-            "image_url": "",
-            "id": "wd:Q154278"
-        },
-        {
-            "label": "genocidal massacre",
-            "description": "incidents with a genocidal component but which are committed on a smaller scale when compared to genocides",
-            "distance_to_root": 4,
-            "number_of_instances": 1,
-            "image_url": "",
-            "id": "wd:Q5533440"
-        },
-        {
-            "label": "school massacre",
-            "description": "",
-            "distance_to_root": 4,
-            "number_of_instances": 4,
-            "image_url": "",
-            "id": "wd:Q21175615"
-        },
-        {
-            "label": "camfecting",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5026509"
-        },
-        {
-            "label": "DIY biology",
-            "description": "biotechnological social movement",
-            "distance_to_root": 3,
-            "number_of_instances": 1,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BackyardAqauponics%40BAU.jpg?width=900",
-            "id": "wd:Q5205179"
-        },
-        {
-            "label": "phone hacking",
-            "description": "Malicious Hacking & White Hacking",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7187193"
-        },
-        {
-            "label": "ethical hacking",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q56669895"
-        },
-        {
-            "label": "embezzlement",
-            "description": "theft of assets entrusted to another person by the person that the assets were entrusted to",
-            "distance_to_root": 3,
-            "number_of_instances": 1,
-            "image_url": "",
-            "id": "wd:Q157833"
-        },
-        {
-            "label": "rip deal",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2533601"
-        },
-        {
             "label": "wardrobing",
             "description": "fraud practice of purchasing an item, using it, and then returning it to the store for a refund",
             "distance_to_root": 3,
             "number_of_instances": 0,
             "image_url": "",
             "id": "wd:Q7969199"
-        },
-        {
-            "label": "Microcap stock fraud",
-            "description": "a form of securities fraud involving stocks of microcap companies",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1224413"
-        },
-        {
-            "label": "benefit fraud in the United Kingdom",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q833674"
-        },
-        {
-            "label": "disability fraud",
-            "description": "receipt of payment(s) intended for the disabled from a government agency or private insurance company by one who should not be receiving them",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5281194"
-        },
-        {
-            "label": "contract killing",
-            "description": "form of murder, homicide",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q17197559"
-        },
-        {
-            "label": "mock execution",
-            "description": "form of psychological torture",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1754722"
-        },
-        {
-            "label": "obstruction of free exercise of religious beliefs involving an attempt to kill and use of a dangerous weapon and resulting in bodily injury",
-            "description": "hate crime",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q63758372"
-        },
-        {
-            "label": "hate crimes involving an attempt to kill",
-            "description": "hate crime",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q63758405"
-        },
-        {
-            "label": "obstruction of free exercise of religious beliefs involving an attempt to kill and use of a dangerous weapon, and resulting in bodily injury to public safety officers",
-            "description": "crime",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q63758427"
-        },
-        {
-            "label": "obstruction of free exercise of religious beliefs involving an attempt to kill and use of a dangerous weapon and resulting in bodily injury",
-            "description": "crime",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q85229357"
-        },
-        {
-            "label": "obstruction of free exercise of religious beliefs involving an attempt to kill and use of a dangerous weapon, and resulting in bodily injury to a public safety officer",
-            "description": "crime",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q85230011"
-        },
-        {
-            "label": "assassination attempt",
-            "description": "occurs if a criminal has an intent to commit a assassination and takes a substantial step toward completing the it",
-            "distance_to_root": 3,
-            "number_of_instances": 11,
-            "image_url": "",
-            "id": "wd:Q88178910"
         },
         {
             "label": "cooping",
@@ -3196,100 +3012,44 @@
             "id": "wd:Q56632154"
         },
         {
-            "label": "collaboration with the Axis Powers during World War II",
+            "label": "LOVEINT",
             "description": "",
             "distance_to_root": 3,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q1342294"
+            "id": "wd:Q15073372"
         },
         {
-            "label": "vishing",
-            "description": "form of criminal phone fraud, using social engineering over the telephone system to gain access to private personal and financial information for the purpose of financial reward",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q172380"
-        },
-        {
-            "label": "false answer supervision",
-            "description": "overbilling of telephone calls by faking call time that did not occur, particularly on VoIP calls",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1394885"
-        },
-        {
-            "label": "health care fraud",
-            "description": "defrauding of an insurer or government health care program for false or unnecessary health care costs",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5690836"
-        },
-        {
-            "label": "health insurance fraud",
+            "label": "Misclassification of employees as independent contractors",
             "description": "",
-            "distance_to_root": 4,
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1444528"
+        },
+        {
+            "label": "money laundering",
+            "description": "process of transforming profits of crime and corruption into ostensibly legitimate assets",
+            "distance_to_root": 3,
             "number_of_instances": 1,
             "image_url": "",
-            "id": "wd:Q24869073"
+            "id": "wd:Q151900"
         },
         {
-            "label": "magnicide",
-            "description": "assassination of a major political figure",
+            "label": "child laundering",
+            "description": "scheme whereby intercountry adoptions are effected by illegal and fraudulent means",
             "distance_to_root": 3,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q9026907"
+            "id": "wd:Q2985081"
         },
         {
-            "label": "assassination",
-            "description": "",
+            "label": "Microcap stock fraud",
+            "description": "a form of securities fraud involving stocks of microcap companies",
             "distance_to_root": 3,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q51159756"
-        },
-        {
-            "label": "skimming",
-            "description": "illegal acquisition and copying of payment card details",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q11703939"
-        },
-        {
-            "label": "honest services fraud",
-            "description": "crime in the United States",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5893287"
-        },
-        {
-            "label": "geospatial intelligence",
-            "description": "exploitation and analysis of geospatial imagery and information",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q2944004"
-        },
-        {
-            "label": "deliberate  poisoning",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q51159762"
-        },
-        {
-            "label": "clothing scam company",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5135576"
+            "id": "wd:Q1224413"
         },
         {
             "label": "check kiting",
@@ -3300,12 +3060,28 @@
             "id": "wd:Q2232246"
         },
         {
-            "label": "Serial murders in Essonne",
-            "description": "series of murders in France",
+            "label": "1992 Venezuelan coup d'\u00e9tat attempts",
+            "description": "Venezuelan coup attempts of 1992",
             "distance_to_root": 3,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q18763761"
+            "id": "wd:Q8868"
+        },
+        {
+            "label": "mock execution",
+            "description": "form of psychological torture",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1754722"
+        },
+        {
+            "label": "rogue security software",
+            "description": "type of malware",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q2429834"
         },
         {
             "label": "Reichsleiter Rosenberg Taskforce",
@@ -3324,12 +3100,236 @@
             "id": "wd:Q47459317"
         },
         {
+            "label": "benefit fraud in the United Kingdom",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q833674"
+        },
+        {
+            "label": "disability fraud",
+            "description": "receipt of payment(s) intended for the disabled from a government agency or private insurance company by one who should not be receiving them",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5281194"
+        },
+        {
+            "label": "windowdressing",
+            "description": "practice of making a financial portfolio or corporate balance sheet seem while being appraised by a potential investor to have better returns than it truly had over most of the time it existed",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2583762"
+        },
+        {
+            "label": "honest services fraud",
+            "description": "crime in the United States",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5893287"
+        },
+        {
+            "label": "contract killing",
+            "description": "form of murder, homicide",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q17197559"
+        },
+        {
+            "label": "high-yield investment program",
+            "description": "Investment scam",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1102146"
+        },
+        {
+            "label": "Illegal drug trade in Colombia",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3034076"
+        },
+        {
+            "label": "illegal drug trade in Venezuela",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5998942"
+        },
+        {
+            "label": "narcotrafico",
+            "description": "Spanish term for illegal drug trade",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6965698"
+        },
+        {
+            "label": "county lines drug trafficking",
+            "description": "trafficking of drugs into British rural areas, often involving child slavery",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q60746521"
+        },
+        {
+            "label": "ethnic cleansing",
+            "description": "systematic removal of a certain ethnic or religious group",
+            "distance_to_root": 4,
+            "number_of_instances": 16,
+            "image_url": "",
+            "id": "wd:Q154278"
+        },
+        {
+            "label": "genocidal massacre",
+            "description": "incidents with a genocidal component but which are committed on a smaller scale when compared to genocides",
+            "distance_to_root": 4,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q5533440"
+        },
+        {
+            "label": "school massacre",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 4,
+            "image_url": "",
+            "id": "wd:Q21175615"
+        },
+        {
+            "label": "collaboration with the Axis Powers during World War II",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1342294"
+        },
+        {
+            "label": "Israeli targeted killings",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q135162"
+        },
+        {
+            "label": "war crimes in Manchukuo",
+            "description": "war crimes committed during the rule of the Empire of Japan in northeast China",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7968599"
+        },
+        {
+            "label": "smuggling of firearms into Mexico",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7546628"
+        },
+        {
+            "label": "waterboarding",
+            "description": "drowning simulating torture method",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Waterboarding-Demonstration-30-05-2008-Island-a.jpg?width=900",
+            "id": "wd:Q2552748"
+        },
+        {
+            "label": "phishing",
+            "description": "act of attempting to acquire (sensitive) information by posing as a trustworthy entity",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Phish.jpg?width=900",
+            "id": "wd:Q135005"
+        },
+        {
+            "label": "DNS hijacking",
+            "description": "practice of subverting the resolution of Domain Name System queries",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1154669"
+        },
+        {
+            "label": "Counterfeit medicines online",
+            "description": "substandard, spurious, falsified, falsely-labelled and counterfeit medical products marketed via Internet",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5176967"
+        },
+        {
+            "label": "geospatial intelligence",
+            "description": "exploitation and analysis of geospatial imagery and information",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2944004"
+        },
+        {
+            "label": "Serial murders in Essonne",
+            "description": "series of murders in France",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q18763761"
+        },
+        {
+            "label": "health care fraud",
+            "description": "defrauding of an insurer or government health care program for false or unnecessary health care costs",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5690836"
+        },
+        {
+            "label": "health insurance fraud",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q24869073"
+        },
+        {
+            "label": "second-degree murder",
+            "description": "category of murder in United States laws",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q96049557"
+        },
+        {
             "label": "Leblouh",
             "description": "force-feeding of women in Mauritania",
             "distance_to_root": 3,
             "number_of_instances": 0,
             "image_url": "",
             "id": "wd:Q4492615"
+        },
+        {
+            "label": "vishing",
+            "description": "form of criminal phone fraud, using social engineering over the telephone system to gain access to private personal and financial information for the purpose of financial reward",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q172380"
+        },
+        {
+            "label": "false answer supervision",
+            "description": "overbilling of telephone calls by faking call time that did not occur, particularly on VoIP calls",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1394885"
         },
         {
             "label": "ethnocide",
@@ -3388,110 +3388,6 @@
             "id": "wd:Q17029088"
         },
         {
-            "label": "malingering",
-            "description": "faking illness for financial or similar personal gain",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q488231"
-        },
-        {
-            "label": "drug fraud",
-            "description": "type of fraud in which drugs, legal or illegal, are cut or altered in such a way that either diminishes their value or causes adverse health consequences",
-            "distance_to_root": 4,
-            "number_of_instances": 1,
-            "image_url": "",
-            "id": "wd:Q3332645"
-        },
-        {
-            "label": "pharmaceutical fraud",
-            "description": "activities that result in false claims to insurers or state programs for financial gain to a pharmaceutical company",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7180750"
-        },
-        {
-            "label": "regicide",
-            "description": "intentional killing of a monarch",
-            "distance_to_root": 4,
-            "number_of_instances": 3,
-            "image_url": "",
-            "id": "wd:Q1475448"
-        },
-        {
-            "label": "structuring",
-            "description": "redesigning of a large transaction as multiple small transactions to avoid scrutiny",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q381442"
-        },
-        {
-            "label": "handling stolen goods",
-            "description": "statutory offence in England and Wales and Northern Ireland",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q708433"
-        },
-        {
-            "label": "gold laundering",
-            "description": "melting and recasting of gold to hide its origin",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q17018082"
-        },
-        {
-            "label": "Defalcation",
-            "description": "misappropriation of funds by an entrusted  person",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5251066"
-        },
-        {
-            "label": "skimming",
-            "description": "illegal transfer of funds from casinos to outside personnel without official documentation",
-            "distance_to_root": 4,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7535284"
-        },
-        {
-            "label": "patent medicine",
-            "description": "product that is promoted and sold as a medical cure, which may not have any medical value",
-            "distance_to_root": 5,
-            "number_of_instances": 5,
-            "image_url": "",
-            "id": "wd:Q3480271"
-        },
-        {
-            "label": "radioactive quackery",
-            "description": "",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q7281229"
-        },
-        {
-            "label": "Cheating at the Paralympic Games",
-            "description": "Scandals affected the Paralympic Games",
-            "distance_to_root": 6,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q5088951"
-        },
-        {
-            "label": "Medicare fraud",
-            "description": "claiming of Medicare health care reimbursement to which the claimant is not entitled",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q6806650"
-        },
-        {
             "label": "electronic warfare support measures",
             "description": "electronic warfare activity and equipment to reconnoiter radiated energy sources",
             "distance_to_root": 4,
@@ -3500,12 +3396,12 @@
             "id": "wd:Q1327258"
         },
         {
-            "label": "school shooting",
-            "description": "occurrence in which gun violence takes place at an educational institution",
-            "distance_to_root": 5,
-            "number_of_instances": 51,
+            "label": "pump and dump",
+            "description": "a form of securities fraud that involves artificially inflating the price of an owned microcap stock through false and misleading positive statements, in order to sell the cheaply purchased stock at a higher price",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q473853"
+            "id": "wd:Q3268220"
         },
         {
             "label": "Belarusian collaborationism with the Axis powers",
@@ -3532,20 +3428,68 @@
             "id": "wd:Q15059656"
         },
         {
-            "label": "pump and dump",
-            "description": "a form of securities fraud that involves artificially inflating the price of an owned microcap stock through false and misleading positive statements, in order to sell the cheaply purchased stock at a higher price",
-            "distance_to_root": 4,
+            "label": "Cheating at the Paralympic Games",
+            "description": "Scandals affected the Paralympic Games",
+            "distance_to_root": 6,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q3268220"
+            "id": "wd:Q5088951"
         },
         {
-            "label": "marriage swindler",
-            "description": "romance scammer",
+            "label": "school shooting",
+            "description": "occurrence in which gun violence takes place at an educational institution",
+            "distance_to_root": 5,
+            "number_of_instances": 51,
+            "image_url": "",
+            "id": "wd:Q473853"
+        },
+        {
+            "label": "mass shooting in the United States",
+            "description": "incidents involving multiple victims of firearm-related violence",
+            "distance_to_root": 4,
+            "number_of_instances": 3,
+            "image_url": "",
+            "id": "wd:Q42915628"
+        },
+        {
+            "label": "patent medicine",
+            "description": "product that is promoted and sold as a medical cure, which may not have any medical value",
+            "distance_to_root": 5,
+            "number_of_instances": 5,
+            "image_url": "",
+            "id": "wd:Q3480271"
+        },
+        {
+            "label": "radioactive quackery",
+            "description": "",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7281229"
+        },
+        {
+            "label": "Medicare fraud",
+            "description": "claiming of Medicare health care reimbursement to which the claimant is not entitled",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6806650"
+        },
+        {
+            "label": "Defalcation",
+            "description": "misappropriation of funds by an entrusted  person",
             "distance_to_root": 4,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q26271791"
+            "id": "wd:Q5251066"
+        },
+        {
+            "label": "skimming",
+            "description": "illegal transfer of funds from casinos to outside personnel without official documentation",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7535284"
         },
         {
             "label": "Drive-by Pharming",
@@ -3564,12 +3508,28 @@
             "id": "wd:Q93572932"
         },
         {
-            "label": "mass shooting in the United States",
-            "description": "incidents involving multiple victims of firearm-related violence",
+            "label": "malingering",
+            "description": "faking illness for financial or similar personal gain",
             "distance_to_root": 4,
-            "number_of_instances": 3,
+            "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q42915628"
+            "id": "wd:Q488231"
+        },
+        {
+            "label": "drug fraud",
+            "description": "type of fraud in which drugs, legal or illegal, are cut or altered in such a way that either diminishes their value or causes adverse health consequences",
+            "distance_to_root": 4,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q3332645"
+        },
+        {
+            "label": "pharmaceutical fraud",
+            "description": "activities that result in false claims to insurers or state programs for financial gain to a pharmaceutical company",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7180750"
         },
         {
             "label": "Anti-Jewish pogroms in the Russian Empire",
@@ -3578,6 +3538,46 @@
             "number_of_instances": 0,
             "image_url": "",
             "id": "wd:Q247735"
+        },
+        {
+            "label": "marriage swindler",
+            "description": "romance scammer",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q26271791"
+        },
+        {
+            "label": "structuring",
+            "description": "redesigning of a large transaction as multiple small transactions to avoid scrutiny",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q381442"
+        },
+        {
+            "label": "handling stolen goods",
+            "description": "statutory offence in England and Wales and Northern Ireland",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q708433"
+        },
+        {
+            "label": "gold laundering",
+            "description": "melting and recasting of gold to hide its origin",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q17018082"
+        },
+        {
+            "label": "regicide",
+            "description": "intentional killing of a monarch",
+            "distance_to_root": 4,
+            "number_of_instances": 3,
+            "image_url": "",
+            "id": "wd:Q1475448"
         },
         {
             "label": "self-inflicted wound",
@@ -5058,50 +5058,6 @@
             "child": "wd:Q15073372"
         },
         {
-            "parent": "wd:Q836610",
-            "child": "wd:Q825712"
-        },
-        {
-            "parent": "wd:Q836610",
-            "child": "wd:Q1406999"
-        },
-        {
-            "parent": "wd:Q836610",
-            "child": "wd:Q17542926"
-        },
-        {
-            "parent": "wd:Q4168000",
-            "child": "wd:Q2944004"
-        },
-        {
-            "parent": "wd:Q4818169",
-            "child": "wd:Q63758372"
-        },
-        {
-            "parent": "wd:Q4818169",
-            "child": "wd:Q63758405"
-        },
-        {
-            "parent": "wd:Q4818169",
-            "child": "wd:Q63758427"
-        },
-        {
-            "parent": "wd:Q4818169",
-            "child": "wd:Q85229357"
-        },
-        {
-            "parent": "wd:Q4818169",
-            "child": "wd:Q85230011"
-        },
-        {
-            "parent": "wd:Q4818169",
-            "child": "wd:Q88178910"
-        },
-        {
-            "parent": "wd:Q25906438",
-            "child": "wd:Q8868"
-        },
-        {
             "parent": "wd:Q328376",
             "child": "wd:Q673751"
         },
@@ -5146,48 +5102,12 @@
             "child": "wd:Q47459317"
         },
         {
-            "parent": "wd:Q2296926",
-            "child": "wd:Q4492615"
-        },
-        {
-            "parent": "wd:Q2604851",
-            "child": "wd:Q2552748"
-        },
-        {
-            "parent": "wd:Q4117084",
-            "child": "wd:Q1754722"
-        },
-        {
-            "parent": "wd:Q1668020",
-            "child": "wd:Q135005"
-        },
-        {
-            "parent": "wd:Q1668020",
-            "child": "wd:Q1154669"
-        },
-        {
-            "parent": "wd:Q1668020",
-            "child": "wd:Q5176967"
-        },
-        {
-            "parent": "wd:Q2144405",
-            "child": "wd:Q5026509"
-        },
-        {
-            "parent": "wd:Q2144405",
-            "child": "wd:Q5205179"
-        },
-        {
-            "parent": "wd:Q2144405",
-            "child": "wd:Q7187193"
-        },
-        {
-            "parent": "wd:Q2144405",
-            "child": "wd:Q56669895"
-        },
-        {
             "parent": "wd:Q2431020",
             "child": "wd:Q7546628"
+        },
+        {
+            "parent": "wd:Q156744",
+            "child": "wd:Q1342294"
         },
         {
             "parent": "wd:Q83873",
@@ -5236,6 +5156,18 @@
         {
             "parent": "wd:Q838081",
             "child": "wd:Q24869073"
+        },
+        {
+            "parent": "wd:Q1668020",
+            "child": "wd:Q135005"
+        },
+        {
+            "parent": "wd:Q1668020",
+            "child": "wd:Q1154669"
+        },
+        {
+            "parent": "wd:Q1668020",
+            "child": "wd:Q5176967"
         },
         {
             "parent": "wd:Q2822122",
@@ -5362,36 +5294,80 @@
             "child": "wd:Q2985081"
         },
         {
-            "parent": "wd:Q156744",
-            "child": "wd:Q1342294"
+            "parent": "wd:Q2144405",
+            "child": "wd:Q5026509"
         },
         {
-            "parent": "wd:Q1468920",
-            "child": "wd:Q3480271"
+            "parent": "wd:Q2144405",
+            "child": "wd:Q5205179"
         },
         {
-            "parent": "wd:Q1468920",
-            "child": "wd:Q7281229"
+            "parent": "wd:Q2144405",
+            "child": "wd:Q7187193"
         },
         {
-            "parent": "wd:Q1964861",
-            "child": "wd:Q26271791"
+            "parent": "wd:Q2144405",
+            "child": "wd:Q56669895"
         },
         {
-            "parent": "wd:Q83630749",
-            "child": "wd:Q16738649"
+            "parent": "wd:Q836610",
+            "child": "wd:Q825712"
         },
         {
-            "parent": "wd:Q151900",
-            "child": "wd:Q381442"
+            "parent": "wd:Q836610",
+            "child": "wd:Q1406999"
         },
         {
-            "parent": "wd:Q151900",
-            "child": "wd:Q708433"
+            "parent": "wd:Q836610",
+            "child": "wd:Q17542926"
         },
         {
-            "parent": "wd:Q151900",
-            "child": "wd:Q17018082"
+            "parent": "wd:Q4168000",
+            "child": "wd:Q2944004"
+        },
+        {
+            "parent": "wd:Q4818169",
+            "child": "wd:Q63758372"
+        },
+        {
+            "parent": "wd:Q4818169",
+            "child": "wd:Q63758405"
+        },
+        {
+            "parent": "wd:Q4818169",
+            "child": "wd:Q63758427"
+        },
+        {
+            "parent": "wd:Q4818169",
+            "child": "wd:Q85229357"
+        },
+        {
+            "parent": "wd:Q4818169",
+            "child": "wd:Q85230011"
+        },
+        {
+            "parent": "wd:Q4818169",
+            "child": "wd:Q88178910"
+        },
+        {
+            "parent": "wd:Q25906438",
+            "child": "wd:Q8868"
+        },
+        {
+            "parent": "wd:Q2296926",
+            "child": "wd:Q4492615"
+        },
+        {
+            "parent": "wd:Q2604851",
+            "child": "wd:Q2552748"
+        },
+        {
+            "parent": "wd:Q4117084",
+            "child": "wd:Q1754722"
+        },
+        {
+            "parent": "wd:Q7187193",
+            "child": "wd:Q55632208"
         },
         {
             "parent": "wd:Q41397",
@@ -5434,26 +5410,6 @@
             "child": "wd:Q42915628"
         },
         {
-            "parent": "wd:Q135005",
-            "child": "wd:Q1259334"
-        },
-        {
-            "parent": "wd:Q135005",
-            "child": "wd:Q93572932"
-        },
-        {
-            "parent": "wd:Q17542926",
-            "child": "wd:Q1327258"
-        },
-        {
-            "parent": "wd:Q21175615",
-            "child": "wd:Q473853"
-        },
-        {
-            "parent": "wd:Q7187193",
-            "child": "wd:Q55632208"
-        },
-        {
             "parent": "wd:Q157833",
             "child": "wd:Q5251066"
         },
@@ -5462,12 +5418,52 @@
             "child": "wd:Q7535284"
         },
         {
+            "parent": "wd:Q17542926",
+            "child": "wd:Q1327258"
+        },
+        {
+            "parent": "wd:Q9026907",
+            "child": "wd:Q1475448"
+        },
+        {
+            "parent": "wd:Q1468920",
+            "child": "wd:Q3480271"
+        },
+        {
+            "parent": "wd:Q1468920",
+            "child": "wd:Q7281229"
+        },
+        {
+            "parent": "wd:Q1964861",
+            "child": "wd:Q26271791"
+        },
+        {
+            "parent": "wd:Q83630749",
+            "child": "wd:Q16738649"
+        },
+        {
+            "parent": "wd:Q151900",
+            "child": "wd:Q381442"
+        },
+        {
+            "parent": "wd:Q151900",
+            "child": "wd:Q708433"
+        },
+        {
+            "parent": "wd:Q151900",
+            "child": "wd:Q17018082"
+        },
+        {
             "parent": "wd:Q1224413",
             "child": "wd:Q3268220"
         },
         {
             "parent": "wd:Q5281194",
             "child": "wd:Q5088951"
+        },
+        {
+            "parent": "wd:Q21175615",
+            "child": "wd:Q473853"
         },
         {
             "parent": "wd:Q1342294",
@@ -5480,6 +5476,14 @@
         {
             "parent": "wd:Q1342294",
             "child": "wd:Q15059656"
+        },
+        {
+            "parent": "wd:Q135005",
+            "child": "wd:Q1259334"
+        },
+        {
+            "parent": "wd:Q135005",
+            "child": "wd:Q93572932"
         },
         {
             "parent": "wd:Q5690836",
@@ -5506,8 +5510,16 @@
             "child": "wd:Q6806650"
         },
         {
-            "parent": "wd:Q9026907",
-            "child": "wd:Q1475448"
+            "parent": "wd:Q1327258",
+            "child": "wd:Q3696227"
+        },
+        {
+            "parent": "wd:Q1327258",
+            "child": "wd:Q7289941"
+        },
+        {
+            "parent": "wd:Q444116",
+            "child": "wd:Q579564"
         },
         {
             "parent": "wd:Q488231",
@@ -5520,18 +5532,6 @@
         {
             "parent": "wd:Q488231",
             "child": "wd:Q5281194"
-        },
-        {
-            "parent": "wd:Q1327258",
-            "child": "wd:Q3696227"
-        },
-        {
-            "parent": "wd:Q1327258",
-            "child": "wd:Q7289941"
-        },
-        {
-            "parent": "wd:Q444116",
-            "child": "wd:Q579564"
         }
     ]
 }

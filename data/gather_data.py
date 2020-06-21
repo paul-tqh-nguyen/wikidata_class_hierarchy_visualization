@@ -11,6 +11,7 @@
 ###########
 
 import re
+import os
 import asyncio
 import pyppeteer
 import warnings
@@ -28,7 +29,7 @@ from misc_utilities import *
 # Globals #
 ###########
 
-ROOT_NODE_TO_OUTPUT_JSON_FILE = {
+ROOT_NODE_TO_OUTPUT_JSON_FILE_BASE_NAME = {
     'wd:Q11660': 'ai_data.json',
     'wd:Q844935': 'coronary_artery_disease_data.json',
     'wd:Q83267': 'crime_data.json',
@@ -36,6 +37,7 @@ ROOT_NODE_TO_OUTPUT_JSON_FILE = {
     'wd:Q837171': 'financial_services_data.json',
     'wd:Q216916': 'military_aircraft_data.json',
 }
+OUTPUT_DIR = './json/'
 
 BROWSER_IS_HEADLESS = False
 MAX_NUMBER_OF_NEW_PAGE_ATTEMPTS = 50
@@ -255,9 +257,12 @@ SELECT ?itemLabel ?itemDescription WHERE {{
 
 @debug_on_error
 def gather_data() -> None:
-    for start_node, output_json_file in ROOT_NODE_TO_OUTPUT_JSON_FILE.items():
+    for start_node, output_json_file_base_name in ROOT_NODE_TO_OUTPUT_JSON_FILE_BASE_NAME.items():
         hierarchy = generate_hierarchy(start_node)
         json_data = nx.readwrite.node_link_data(hierarchy, {'source': 'parent', 'target': 'child'})
+        output_json_file = os.path.join(OUTPUT_DIR, output_json_file_base_name)
+        if not os.path.exists(OUTPUT_DIR):
+            os.makedirs(OUTPUT_DIR)
         with open(output_json_file, 'w') as file_handle:
             json.dump(json_data, file_handle, indent=4)
         print(f'Hierarchy data exported to {output_json_file}')

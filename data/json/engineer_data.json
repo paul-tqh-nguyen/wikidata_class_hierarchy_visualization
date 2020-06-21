@@ -660,6 +660,54 @@
             "id": "wd:Q89197231"
         },
         {
+            "label": "engineer of roads and bridges",
+            "description": "position, member of the Corps of Bridges and Roads (France)",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q650012"
+        },
+        {
+            "label": "hardware architect",
+            "description": "profession",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q844143"
+        },
+        {
+            "label": "software architect",
+            "description": "profession",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1548249"
+        },
+        {
+            "label": "software engineer",
+            "description": "practitioner of software engineering",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Margaret%20Hamilton%201989.jpg?width=900",
+            "id": "wd:Q1709010"
+        },
+        {
+            "label": "knowledge engineer",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3141282"
+        },
+        {
+            "label": "mechatronic engineer",
+            "description": "profession",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q57065478"
+        },
+        {
             "label": "sapper",
             "description": "soldier who performs a variety of military engineering duties",
             "distance_to_root": 2,
@@ -684,60 +732,28 @@
             "id": "wd:Q60780847"
         },
         {
-            "label": "astronautical engineer",
-            "description": "occupation",
+            "label": "Master of Engineering",
+            "description": "master's degree awarded for post-graduate study in Engineering",
             "distance_to_root": 2,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q17394262"
+            "id": "wd:Q1907867"
         },
         {
-            "label": "graphics engineer",
-            "description": "profession",
+            "label": "Diplomi-insin\u00f6\u00f6ri",
+            "description": "Finnish degree in engineering corresponding to Master of Science in Engineering",
             "distance_to_root": 2,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q58905236"
+            "id": "wd:Q22693692"
         },
         {
-            "label": "security engineer",
+            "label": "principal software engineer",
             "description": "",
-            "distance_to_root": 2,
+            "distance_to_root": 3,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q65952601"
-        },
-        {
-            "label": "engineer of roads and bridges",
-            "description": "position, member of the Corps of Bridges and Roads (France)",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q650012"
-        },
-        {
-            "label": "patent inventor",
-            "description": "person, or persons in United States patent law, who contribute to the claims of a patentable invention",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q715679"
-        },
-        {
-            "label": "language inventor",
-            "description": "profession",
-            "distance_to_root": 2,
-            "number_of_instances": 1,
-            "image_url": "",
-            "id": "wd:Q1206912"
-        },
-        {
-            "label": "game designer",
-            "description": "person who designs games",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q3630699"
+            "id": "wd:Q55168529"
         },
         {
             "label": "surgical technologist",
@@ -812,68 +828,12 @@
             "id": "wd:Q7226948"
         },
         {
-            "label": "Master of Engineering",
-            "description": "master's degree awarded for post-graduate study in Engineering",
+            "label": "astronautical engineer",
+            "description": "occupation",
             "distance_to_root": 2,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q1907867"
-        },
-        {
-            "label": "Diplomi-insin\u00f6\u00f6ri",
-            "description": "Finnish degree in engineering corresponding to Master of Science in Engineering",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q22693692"
-        },
-        {
-            "label": "hardware architect",
-            "description": "profession",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q844143"
-        },
-        {
-            "label": "software architect",
-            "description": "profession",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q1548249"
-        },
-        {
-            "label": "software engineer",
-            "description": "practitioner of software engineering",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Margaret%20Hamilton%201989.jpg?width=900",
-            "id": "wd:Q1709010"
-        },
-        {
-            "label": "knowledge engineer",
-            "description": "",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q3141282"
-        },
-        {
-            "label": "mechatronic engineer",
-            "description": "profession",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q57065478"
-        },
-        {
-            "label": "Maxwellians",
-            "description": "19th century group of electrical engineers",
-            "distance_to_root": 2,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q22964769"
+            "id": "wd:Q17394262"
         },
         {
             "label": "design engineer",
@@ -892,12 +852,36 @@
             "id": "wd:Q66711686"
         },
         {
-            "label": "principal software engineer",
-            "description": "",
-            "distance_to_root": 3,
+            "label": "Maxwellians",
+            "description": "19th century group of electrical engineers",
+            "distance_to_root": 2,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q55168529"
+            "id": "wd:Q22964769"
+        },
+        {
+            "label": "patent inventor",
+            "description": "person, or persons in United States patent law, who contribute to the claims of a patentable invention",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q715679"
+        },
+        {
+            "label": "language inventor",
+            "description": "profession",
+            "distance_to_root": 2,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q1206912"
+        },
+        {
+            "label": "game designer",
+            "description": "person who designs games",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3630699"
         },
         {
             "label": "record producer",
@@ -964,6 +948,22 @@
             "id": "wd:Q11283241"
         },
         {
+            "label": "graphics engineer",
+            "description": "profession",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q58905236"
+        },
+        {
+            "label": "security engineer",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q65952601"
+        },
+        {
             "label": "Inspector general of the Ponts et Chauss\u00e9es",
             "description": "French national position",
             "distance_to_root": 3,
@@ -972,12 +972,60 @@
             "id": "wd:Q50326729"
         },
         {
-            "label": "computer hardware engineer",
-            "description": "profession",
+            "label": "Professional Technologist",
+            "description": "",
             "distance_to_root": 3,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q21002273"
+            "id": "wd:Q7248040"
+        },
+        {
+            "label": "puzzle designer",
+            "description": "someone who invents riddles",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q12957007"
+        },
+        {
+            "label": "video game designer",
+            "description": "person or company responsible for design of the content and rules of a video game",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q18882335"
+        },
+        {
+            "label": "crossword compiler",
+            "description": "occupation",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q28865155"
+        },
+        {
+            "label": "role-playing game designer",
+            "description": "someone who designs role-playing games",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q54845077"
+        },
+        {
+            "label": "video game developer",
+            "description": "person responsible for developing video games",
+            "distance_to_root": 4,
+            "number_of_instances": 5,
+            "image_url": "",
+            "id": "wd:Q58287519"
+        },
+        {
+            "label": "level designer",
+            "description": "occupation",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q63852516"
         },
         {
             "label": "dialogue editor",
@@ -996,22 +1044,6 @@
             "id": "wd:Q28002508"
         },
         {
-            "label": "enterprise architect",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q17089045"
-        },
-        {
-            "label": "parachute engineer",
-            "description": "",
-            "distance_to_root": 3,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q93591280"
-        },
-        {
             "label": "webmaster",
             "description": "person responsible for maintaining one or many websites",
             "distance_to_root": 3,
@@ -1023,7 +1055,7 @@
             "label": "software developer",
             "description": "person concerned with facets of the software development process",
             "distance_to_root": 3,
-            "number_of_instances": 8,
+            "number_of_instances": 9,
             "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Margaret%20Hamilton%20-%20restoration.jpg?width=900",
             "id": "wd:Q183888"
         },
@@ -1092,60 +1124,44 @@
             "id": "wd:Q67512484"
         },
         {
-            "label": "Professional Technologist",
+            "label": "enterprise architect",
             "description": "",
             "distance_to_root": 3,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q7248040"
+            "id": "wd:Q17089045"
         },
         {
-            "label": "puzzle designer",
-            "description": "someone who invents riddles",
+            "label": "computer hardware engineer",
+            "description": "profession",
             "distance_to_root": 3,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q12957007"
+            "id": "wd:Q21002273"
         },
         {
-            "label": "video game designer",
-            "description": "person or company responsible for design of the content and rules of a video game",
-            "distance_to_root": 3,
-            "number_of_instances": 1,
-            "image_url": "",
-            "id": "wd:Q18882335"
-        },
-        {
-            "label": "crossword compiler",
-            "description": "occupation",
+            "label": "parachute engineer",
+            "description": "",
             "distance_to_root": 3,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q28865155"
+            "id": "wd:Q93591280"
         },
         {
-            "label": "role-playing game designer",
-            "description": "someone who designs role-playing games",
-            "distance_to_root": 3,
+            "label": "video game writer",
+            "description": "creator of the plot of a video game",
+            "distance_to_root": 5,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q54845077"
+            "id": "wd:Q3476620"
         },
         {
-            "label": "video game developer",
-            "description": "person responsible for developing video games",
-            "distance_to_root": 4,
-            "number_of_instances": 5,
-            "image_url": "",
-            "id": "wd:Q58287519"
-        },
-        {
-            "label": "level designer",
-            "description": "occupation",
-            "distance_to_root": 3,
+            "label": "Imagineer",
+            "description": "Japanese content company.",
+            "distance_to_root": 5,
             "number_of_instances": 0,
             "image_url": "",
-            "id": "wd:Q63852516"
+            "id": "wd:Q3781101"
         },
         {
             "label": "software maintainer",
@@ -1180,28 +1196,20 @@
             "id": "wd:Q96072517"
         },
         {
-            "label": "video game writer",
-            "description": "creator of the plot of a video game",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q3476620"
-        },
-        {
-            "label": "Imagineer",
-            "description": "Japanese content company.",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q3781101"
-        },
-        {
             "label": "narrative designer",
             "description": "role designing the narrative elements in video games",
             "distance_to_root": 4,
             "number_of_instances": 0,
             "image_url": "",
             "id": "wd:Q6966205"
+        },
+        {
+            "label": "front-end developer",
+            "description": "practitioner of front-end development",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q54568999"
         },
         {
             "label": "GNU maintainer",
@@ -1258,14 +1266,6 @@
             "number_of_instances": 0,
             "image_url": "",
             "id": "wd:Q91546356"
-        },
-        {
-            "label": "front-end developer",
-            "description": "practitioner of front-end development",
-            "distance_to_root": 5,
-            "number_of_instances": 0,
-            "image_url": "",
-            "id": "wd:Q54568999"
         },
         {
             "label": "Guix maintainer",
@@ -2026,44 +2026,8 @@
             "child": "wd:Q65952601"
         },
         {
-            "parent": "wd:Q1324245",
-            "child": "wd:Q60780847"
-        },
-        {
-            "parent": "wd:Q1324245",
-            "child": "wd:Q93591280"
-        },
-        {
             "parent": "wd:Q650012",
             "child": "wd:Q50326729"
-        },
-        {
-            "parent": "wd:Q3630699",
-            "child": "wd:Q12957007"
-        },
-        {
-            "parent": "wd:Q3630699",
-            "child": "wd:Q18882335"
-        },
-        {
-            "parent": "wd:Q3630699",
-            "child": "wd:Q28865155"
-        },
-        {
-            "parent": "wd:Q3630699",
-            "child": "wd:Q54845077"
-        },
-        {
-            "parent": "wd:Q3630699",
-            "child": "wd:Q58287519"
-        },
-        {
-            "parent": "wd:Q3630699",
-            "child": "wd:Q63852516"
-        },
-        {
-            "parent": "wd:Q688603",
-            "child": "wd:Q7248040"
         },
         {
             "parent": "wd:Q844143",
@@ -2106,6 +2070,42 @@
             "child": "wd:Q55168745"
         },
         {
+            "parent": "wd:Q1324245",
+            "child": "wd:Q60780847"
+        },
+        {
+            "parent": "wd:Q1324245",
+            "child": "wd:Q93591280"
+        },
+        {
+            "parent": "wd:Q688603",
+            "child": "wd:Q7248040"
+        },
+        {
+            "parent": "wd:Q3630699",
+            "child": "wd:Q12957007"
+        },
+        {
+            "parent": "wd:Q3630699",
+            "child": "wd:Q18882335"
+        },
+        {
+            "parent": "wd:Q3630699",
+            "child": "wd:Q28865155"
+        },
+        {
+            "parent": "wd:Q3630699",
+            "child": "wd:Q54845077"
+        },
+        {
+            "parent": "wd:Q3630699",
+            "child": "wd:Q58287519"
+        },
+        {
+            "parent": "wd:Q3630699",
+            "child": "wd:Q63852516"
+        },
+        {
             "parent": "wd:Q183945",
             "child": "wd:Q57936775"
         },
@@ -2124,6 +2124,18 @@
         {
             "parent": "wd:Q3180462",
             "child": "wd:Q28002508"
+        },
+        {
+            "parent": "wd:Q18882335",
+            "child": "wd:Q6966205"
+        },
+        {
+            "parent": "wd:Q58287519",
+            "child": "wd:Q3476620"
+        },
+        {
+            "parent": "wd:Q58287519",
+            "child": "wd:Q3781101"
         },
         {
             "parent": "wd:Q183888",
@@ -2148,18 +2160,6 @@
         {
             "parent": "wd:Q183888",
             "child": "wd:Q96072517"
-        },
-        {
-            "parent": "wd:Q18882335",
-            "child": "wd:Q6966205"
-        },
-        {
-            "parent": "wd:Q58287519",
-            "child": "wd:Q3476620"
-        },
-        {
-            "parent": "wd:Q58287519",
-            "child": "wd:Q3781101"
         },
         {
             "parent": "wd:Q1420140",

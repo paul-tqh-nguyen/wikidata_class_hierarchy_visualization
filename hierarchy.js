@@ -287,7 +287,7 @@ ${htmlTextForNode(child)}
         return distanceToCenterFactorByDepth;
     };
     
-    const dataLocation = `./${dataLocationBaseName}_data.json`;
+    const dataLocation = `./data/json/${dataLocationBaseName}_data.json`;
     d3.json(dataLocation)
 	.then(data => {
 	    const nodeData = data.nodes.map(datum => Object.assign(datum, {displayEnabled: datum.distance_to_root == 0}));
