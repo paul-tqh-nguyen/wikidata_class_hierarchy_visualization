@@ -1,0 +1,80 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Wikidata Hierarchy Explorer</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://d3js.org/d3-zoom.v1.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="./index.css">
+    <script src="hierarchy.js"></script>
+  </head>
+  <body>
+    <div id="header-row">
+      <ul>
+      	<li onclick="runAIVisualization()"><a>Artificial Intelligence</a></li>
+      	<li onclick="runCoronaryArteryDiseaseVisualization()"><a>Coronary Artery Disease</a></li>
+      	<li onclick="runCrimeVisualization()"><a>Crime</a></li>
+      	<li onclick="runEngineerVisualization()"><a>Engineer</a></li>
+      	<li onclick="runFinancialServicesVisualization()"><a>Financial Services</a></li>
+      	<li onclick="runMilitaryAircraftVisualization()"><a>Military Aircraft</a></li>
+      	<li onclick="toggleHelp()" ><a id="header-row-show-help-button"><i class="fa"> &#xf059;</i></a></li>
+      </ul>
+    </div>
+    <div id="help-display" class="hide">
+      <div id="help-display-text">
+	<h3>Wikidata Class Hierarchy Visualization</h3>
+	<p>
+	  <a target="_blank" href="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</a> is an open <a target="_blank" href="https://en.wikipedia.org/wiki/Knowledge_base">knowledge base</a> with a class hierarchy via the <a target="_blank" href="https://www.wikidata.org/wiki/Property:P279">subclass property</a>.
+	</p>
+	<p>
+	  Class hierarchies are useful as they convey taxonomical information and properties inherited by subclasses.
+	</p>
+	<p>
+	  This application focuses on conveying transitive and sibling relationships in the <a target="_blank" href="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</a> class hierarchy.
+	</p>
+	<p>
+	  The data visualized here are a microscopic slice of <a target="_blank" href="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</a>. 
+	</p>
+	<p>
+	  If you’re interested in visualizing other <a target="_blank" href="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</a> classes, the source code is available <a target="_blank" href="https://github.com/paul-tqh-nguyen/wikidata_class_hierarchy_visualization">here</a>.
+	</p>
+	<p>
+	  Feel free to <a target="_blank" href="https://paul-tqh-nguyen.github.io/about/#contact">reach out</a> for help or report problems.
+	</p>
+	<h3>Usage Instructions</h3>
+	<p>
+	  The header at the top of the page contains classes that we can browse the subclasses of. Click them to explore them.
+	</p>
+	<p>
+	  Blue dots are dots with subclasses. Click on them to expand them and explore their subclasses. Click on them again to collapse them.
+	</p>
+	<p>
+	  Yellow dots are classes with no subclasses. 
+	</p>
+	<p>
+	  Hover over the dots or links and see their information in the sidebar.
+	</p>
+	<p>
+	  Scroll to zoom, drag & drop dots, or click and drag to pan as necessary.
+	</p>
+	<p id="close-help-display" >
+	  <a onclick="toggleHelp()" id="close-help-display-anchor">Close</a>
+	</p>
+      </div>
+    </div>
+    <table>
+      <tr>
+      	<td style="width:70%;">
+	  <div id="hierarchy" class="svg-container-center">
+	    <svg id="hierarchy-svg"></svg>
+	  </div>
+	</td>
+      	<td style="width:30%;" id="text-display">
+	</td>
+      </tr>
+    </table>
+    <script>runVisualization()</script>
+  </body>
+</html>

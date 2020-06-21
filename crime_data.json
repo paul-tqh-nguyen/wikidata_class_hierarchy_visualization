@@ -1,0 +1,5537 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "label": "crime",
+            "description": "unlawful act forbidden and punishable by criminal law",
+            "distance_to_root": 0,
+            "number_of_instances": 96,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Morrison%20killing%20Warren.jpg?width=900",
+            "id": "wd:Q83267"
+        },
+        {
+            "label": "zoophilia",
+            "description": "paraphilia involving a sexual fixation on non-human animal",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard-Henri%20Avril%20%2828%29.jpg?width=900",
+            "id": "wd:Q8392"
+        },
+        {
+            "label": "fraud",
+            "description": "intentional deception made for unfair or unlawful gain or damaging or depriving a victim",
+            "distance_to_root": 1,
+            "number_of_instances": 16,
+            "image_url": "",
+            "id": "wd:Q28813"
+        },
+        {
+            "label": "computer crime",
+            "description": "any crime that involves a computer and a network",
+            "distance_to_root": 1,
+            "number_of_instances": 9,
+            "image_url": "",
+            "id": "wd:Q29137"
+        },
+        {
+            "label": "attempt",
+            "description": "occurs if a criminal has an intent to commit a crime and takes a substantial step toward completing the crime",
+            "distance_to_root": 1,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q29142"
+        },
+        {
+            "label": "blackmail",
+            "description": "crime",
+            "distance_to_root": 1,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q34284"
+        },
+        {
+            "label": "Volksverhetzung",
+            "description": "Crime that is likely to disrupt public peace.",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q43442"
+        },
+        {
+            "label": "coup d'\u00e9tat",
+            "description": "sudden deposition of a government; illegal and overt seizure of a state by the military or other elites within the state apparatus",
+            "distance_to_root": 1,
+            "number_of_instances": 290,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincenzo%20Camuccini%20-%20La%20morte%20di%20Cesare.jpg?width=900",
+            "id": "wd:Q45382"
+        },
+        {
+            "label": "black market",
+            "description": "market in which goods or services are traded illegally",
+            "distance_to_root": 1,
+            "number_of_instances": 2,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Black%20market%20in%20Shinbashi.JPG?width=900",
+            "id": "wd:Q50851"
+        },
+        {
+            "label": "copycat crime",
+            "description": "criminal act that is modelled or inspired by a previous crime that has been reported in the media or described in fiction",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q109931"
+        },
+        {
+            "label": "insubordination",
+            "description": "act of willfully disobeying one's superior",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q126602"
+        },
+        {
+            "label": "torture",
+            "description": "intentional infliction of physical or mental suffering upon a person or an animal",
+            "distance_to_root": 1,
+            "number_of_instances": 23,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Theresiana-Hochziehen.jpg?width=900",
+            "id": "wd:Q132781"
+        },
+        {
+            "label": "murder",
+            "description": "unlawful killing of a human with malice aforethought",
+            "distance_to_root": 1,
+            "number_of_instances": 1169,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jakub%20Schikaneder%20-%20Murder%20in%20the%20House.JPG?width=900",
+            "id": "wd:Q132821"
+        },
+        {
+            "label": "war crime",
+            "description": "serious violation of the laws of war",
+            "distance_to_root": 1,
+            "number_of_instances": 58,
+            "image_url": "",
+            "id": "wd:Q135010"
+        },
+        {
+            "label": "treason",
+            "description": "crime that covers some of the more extreme acts against one's sovereign or nation",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q160128"
+        },
+        {
+            "label": "stalking",
+            "description": "criminal unwanted observation",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q163942"
+        },
+        {
+            "label": "espionage",
+            "description": "clandestine acquisition of confidential information",
+            "distance_to_root": 1,
+            "number_of_instances": 10,
+            "image_url": "",
+            "id": "wd:Q165950"
+        },
+        {
+            "label": "felony",
+            "description": "serious crime",
+            "distance_to_root": 1,
+            "number_of_instances": 18,
+            "image_url": "",
+            "id": "wd:Q178844"
+        },
+        {
+            "label": "human trafficking",
+            "description": "trade of humans for the purpose of forced labor, sexual slavery, or commercial sexual exploitation for the trafficker or others",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q181784"
+        },
+        {
+            "label": "Ten Abominations",
+            "description": "list of 10 offenses under traditional Chinese law which were regarded as the most abhorrent: rebellion, sedition, treason, parricide, depravity, irreverence, lack of filial piety, discord, unrighteousness, incest",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q184589"
+        },
+        {
+            "label": "smuggling",
+            "description": "illegal movement of goods or people",
+            "distance_to_root": 1,
+            "number_of_instances": 3,
+            "image_url": "",
+            "id": "wd:Q184840"
+        },
+        {
+            "label": "bribery",
+            "description": "illicit act of giving money or gifts that alters the behavior of the recipient",
+            "distance_to_root": 1,
+            "number_of_instances": 2,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/10%20-%20hands%20shaking%20with%20euro%20bank%20notes%20inside%20handshake%20-%20royalty%20free%2C%20without%20copyright%2C%20public%20domain%20photo%20image%2001.JPG?width=900",
+            "id": "wd:Q187436"
+        },
+        {
+            "label": "sabotage",
+            "description": "deliberate action aimed at weakening another entity",
+            "distance_to_root": 1,
+            "number_of_instances": 24,
+            "image_url": "",
+            "id": "wd:Q193518"
+        },
+        {
+            "label": "blasphemy",
+            "description": "act of insulting or showing contempt or lack of reverence for a religious deity or sacred person or thing",
+            "distance_to_root": 1,
+            "number_of_instances": 1,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Martin%20van%20Maele%20-%20La%20Sorci%C3%A8re%2006.jpg?width=900",
+            "id": "wd:Q200481"
+        },
+        {
+            "label": "defenestration",
+            "description": "the act of throwing someone or something out of a window",
+            "distance_to_root": 1,
+            "number_of_instances": 4,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Defenestration-prague-1618.jpg?width=900",
+            "id": "wd:Q220277"
+        },
+        {
+            "label": "perjury",
+            "description": "intentional act of swearing a false oath or of falsifying an affirmation to tell the truth",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q310229"
+        },
+        {
+            "label": "Illegal sale of soaps",
+            "description": "most serious crime committed against the state",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q329821"
+        },
+        {
+            "label": "crime of passion",
+            "description": "violent crime which is done because of sudden strong impulse such as sudden rage",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q382265"
+        },
+        {
+            "label": "hate crime",
+            "description": "usually violent, prejudice motivated crime",
+            "distance_to_root": 1,
+            "number_of_instances": 22,
+            "image_url": "",
+            "id": "wd:Q459409"
+        },
+        {
+            "label": "obstruction of justice",
+            "description": "act of impeding investigation or courts",
+            "distance_to_root": 1,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q525302"
+        },
+        {
+            "label": "sedition",
+            "description": "conduct that is deemed by the legal authority to tend toward insurrection against the established order",
+            "distance_to_root": 1,
+            "number_of_instances": 3,
+            "image_url": "",
+            "id": "wd:Q544394"
+        },
+        {
+            "label": "incitement",
+            "description": "act of motivating another person to commit a crime",
+            "distance_to_root": 1,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q570354"
+        },
+        {
+            "label": "inchoate offense",
+            "description": "crime of preparing for or seeking to commit another crime",
+            "distance_to_root": 1,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q578241"
+        },
+        {
+            "label": "prison escape",
+            "description": "act of one or more inmates leaving prison through unofficial or illegal ways",
+            "distance_to_root": 1,
+            "number_of_instances": 36,
+            "image_url": "",
+            "id": "wd:Q598041"
+        },
+        {
+            "label": "desertion",
+            "description": "crime of abandoning a military duty or post without permission",
+            "distance_to_root": 1,
+            "number_of_instances": 3,
+            "image_url": "",
+            "id": "wd:Q633339"
+        },
+        {
+            "label": "negligent homicide",
+            "description": "homicide caused by the negligence of another",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q641449"
+        },
+        {
+            "label": "false imprisonment",
+            "description": "illegal restraint of a person in a bounded area without justification or consent",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q694752"
+        },
+        {
+            "label": "collusion",
+            "description": "agreement between two or more parties, sometimes illegal and therefore secretive",
+            "distance_to_root": 1,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q701521"
+        },
+        {
+            "label": "accessory",
+            "description": "a person who assists in the commission of a crime, but who does not actually participate in the commission of the crime as a joint principal",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q706848"
+        },
+        {
+            "label": "contempt of court",
+            "description": "offense of being disobedient to or disrespectful towards a court of law and its officers",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q708562"
+        },
+        {
+            "label": "sexual harassment",
+            "description": "Repeated unwanted sexual attention or advances",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q751722"
+        },
+        {
+            "label": "misdemeanor",
+            "description": "type of crime in Germany",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q799841"
+        },
+        {
+            "label": "Bestiality",
+            "description": "practice of sexual activity between humans and non-human animals",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q830532"
+        },
+        {
+            "label": "illegal drug trade",
+            "description": "global black market",
+            "distance_to_root": 2,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q844924"
+        },
+        {
+            "label": "property crime",
+            "description": "crime to obtain money, property, or some other benefit",
+            "distance_to_root": 1,
+            "number_of_instances": 2,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mailbox%20baseball.jpg?width=900",
+            "id": "wd:Q857984"
+        },
+        {
+            "label": "social parasitism",
+            "description": "pejorative that is leveled against a group or class which is considered to be detrimental to society",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q896988"
+        },
+        {
+            "label": "crime in Japan",
+            "description": "Ongoing crime in Japan",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q902956"
+        },
+        {
+            "label": "deception",
+            "description": "legal term of art used in the definition of statutory offences in England and Wales and Northern Ireland",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q905644"
+        },
+        {
+            "label": "frontier justice",
+            "description": "extrajudicial punishment",
+            "distance_to_root": 1,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q914841"
+        },
+        {
+            "label": "infanticide",
+            "description": "intentional killing of\u00a0infants",
+            "distance_to_root": 1,
+            "number_of_instances": 7,
+            "image_url": "",
+            "id": "wd:Q916412"
+        },
+        {
+            "label": "conspiracy",
+            "description": "secret plan or agreement for an unlawful or harmful purpose, especially with political motivation",
+            "distance_to_root": 1,
+            "number_of_instances": 16,
+            "image_url": "",
+            "id": "wd:Q930164"
+        },
+        {
+            "label": "coin debasement",
+            "description": "act of decreasing the amount of precious metal in a coin, while continuing to circulate it at face value",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Post%20Medieval%20Hoard%20of%20Coin%20Clippings%20%28FindID%20532965%29.jpg?width=900",
+            "id": "wd:Q1040751"
+        },
+        {
+            "label": "political agitation",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q1075020"
+        },
+        {
+            "label": "l\u00e8se-majest\u00e9",
+            "description": "crime of violating majesty; an offence against the dignity of a reigning sovereign or against a state",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1134057"
+        },
+        {
+            "label": "white-collar crime",
+            "description": "financially motivated nonviolent crime committed by business and government professionals",
+            "distance_to_root": 1,
+            "number_of_instances": 3,
+            "image_url": "",
+            "id": "wd:Q1137778"
+        },
+        {
+            "label": "perfect crime",
+            "description": "colloquial term",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1154986"
+        },
+        {
+            "label": "environmental crime",
+            "description": "illegal act which directly harms the environment",
+            "distance_to_root": 1,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q1156265"
+        },
+        {
+            "label": "possession of a controlled substance",
+            "description": "crime of possessing illegal drugs",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1259959"
+        },
+        {
+            "label": "thoughtcrime",
+            "description": "Illegal thoughts",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1266971"
+        },
+        {
+            "label": "racket",
+            "description": "service that is fraudulently offered to solve a problem",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1283181"
+        },
+        {
+            "label": "extortionate kidnapping",
+            "description": "kidnapping for ransom",
+            "distance_to_root": 1,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q1361457"
+        },
+        {
+            "label": "criminal conversion",
+            "description": "crime",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1361943"
+        },
+        {
+            "label": "hostage crisis",
+            "description": "act of taking and holding a hostage or hostages",
+            "distance_to_root": 1,
+            "number_of_instances": 73,
+            "image_url": "",
+            "id": "wd:Q1371150"
+        },
+        {
+            "label": "violent crime",
+            "description": "crime in which an offender uses or threatens force upon a victim",
+            "distance_to_root": 1,
+            "number_of_instances": 7,
+            "image_url": "",
+            "id": "wd:Q1520311"
+        },
+        {
+            "label": "grievous bodily harm",
+            "description": "offence under English law",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1546545"
+        },
+        {
+            "label": "capital crime",
+            "description": "crime punishable by death",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1728584"
+        },
+        {
+            "label": "battery",
+            "description": "criminal offense involving the unlawful physical acting on a threat",
+            "distance_to_root": 1,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q1796687"
+        },
+        {
+            "label": "abuse of power",
+            "description": "commission of an unlawful act in an official capacity, which affects the performance of official duties",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1975478"
+        },
+        {
+            "label": "victimless crime",
+            "description": "illegal act involving only those who have legally consented or possibly only the perpetrator",
+            "distance_to_root": 1,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q2026760"
+        },
+        {
+            "label": "political crime",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2571535"
+        },
+        {
+            "label": "criminal transmission of HIV",
+            "description": "intentional or reckless infection of a person with the human immunodeficiency virus",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2655747"
+        },
+        {
+            "label": "solicitation",
+            "description": "act of offering or attempting to purchase goods or services, often illegally",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2785824"
+        },
+        {
+            "label": "anthropophagy",
+            "description": "practice of humans eating the flesh or internal organs of other human beings",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Os%20Filhos%20de%20Pindorama.%20Cannibalism%20in%20Brazil%20in%201557.jpg?width=900",
+            "id": "wd:Q2853058"
+        },
+        {
+            "label": "federal crime in the United States",
+            "description": "actions made illegal by Congress",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2881556"
+        },
+        {
+            "label": "crime in France",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3002617"
+        },
+        {
+            "label": "crime in Brazil",
+            "description": "involves an elevated incidence of violent and non-violent crimes",
+            "distance_to_root": 1,
+            "number_of_instances": 1,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palioviatura%20pmesp.jpg?width=900",
+            "id": "wd:Q3244112"
+        },
+        {
+            "label": "endangerment",
+            "description": "crime involving conduct that is wrongful and reckless, and likely to produce death or grievous bodily harm to another person",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3316261"
+        },
+        {
+            "label": "Crime of aggression",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3496097"
+        },
+        {
+            "label": "witness tampering",
+            "description": "crime",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3502604"
+        },
+        {
+            "label": "mafia complicity",
+            "description": "complicity in mafia crimes",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3686324"
+        },
+        {
+            "label": "intimidation",
+            "description": "intentional behavior that causes a person to fear injury or harm",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3858303"
+        },
+        {
+            "label": "crime in Australia",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q4377519"
+        },
+        {
+            "label": "agitation and propaganda against the state",
+            "description": "criminal offence in Communist Albania",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4692702"
+        },
+        {
+            "label": "aiding and abetting",
+            "description": "legal doctrine",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4696786"
+        },
+        {
+            "label": "Anti-Soviet agitation",
+            "description": "criminal offence in the Soviet Union",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4774279"
+        },
+        {
+            "label": "Arson in royal dockyards",
+            "description": "capital crime in the UK until 1971",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4796599"
+        },
+        {
+            "label": "Ashfield gang rapes",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4804975"
+        },
+        {
+            "label": "inciting subversion of state power",
+            "description": "crime in the People's Republic of China",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4922149"
+        },
+        {
+            "label": "Breach of confidence",
+            "description": "defensive",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4959113"
+        },
+        {
+            "label": "death marches",
+            "description": "Forcible movements of prisoners between Nazi camps",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5023193"
+        },
+        {
+            "label": "capital murder",
+            "description": "statutory offence; any murder that makes the perpetrator eligible for the death penalty",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5035710"
+        },
+        {
+            "label": "cheating",
+            "description": "criminal offense in common law",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5088947"
+        },
+        {
+            "label": "common law offence",
+            "description": "type of crimes in Commonwealth jurisdictions",
+            "distance_to_root": 1,
+            "number_of_instances": 4,
+            "image_url": "",
+            "id": "wd:Q5153559"
+        },
+        {
+            "label": "corporate crime",
+            "description": "crimes committed either by a corporation or its representatives",
+            "distance_to_root": 1,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q5172452"
+        },
+        {
+            "label": "crime in Belgium",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5185276"
+        },
+        {
+            "label": "Crime in Canada",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5185281"
+        },
+        {
+            "label": "Crime in Denmark",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5185295"
+        },
+        {
+            "label": "crime in Germany",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5185301"
+        },
+        {
+            "label": "crime in Serbia",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5185377"
+        },
+        {
+            "label": "crime in the United Kingdom",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q5185422"
+        },
+        {
+            "label": "crime of opportunity",
+            "description": "crime that is committed without planning",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5185428"
+        },
+        {
+            "label": "depraved-heart murder",
+            "description": "wanton, reckless act that causes death",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5260820"
+        },
+        {
+            "label": "Driving without due care and attention",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5308138"
+        },
+        {
+            "label": "false accounting",
+            "description": "statutory offence in England and Wales, Northern Ireland and the Republic of Ireland",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5432674"
+        },
+        {
+            "label": "crime of belonging to an armed band (Spain)",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5801901"
+        },
+        {
+            "label": "sex crime",
+            "description": "crime of a sexual nature",
+            "distance_to_root": 1,
+            "number_of_instances": 4,
+            "image_url": "",
+            "id": "wd:Q5801919"
+        },
+        {
+            "label": "Illegal entry",
+            "description": "Illegal Crossing",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5998956"
+        },
+        {
+            "label": "illegal migration",
+            "description": "illegal immigration or emigration of a person across a country border",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5999048"
+        },
+        {
+            "label": "regulatory offence",
+            "description": "offence not requiring mens rea",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6189234"
+        },
+        {
+            "label": "jury tampering",
+            "description": "crime of unduly attempting to influence the composition and/or decisions of a jury during the course of a trial",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6315498"
+        },
+        {
+            "label": "extortion",
+            "description": "criminal offense",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6452087"
+        },
+        {
+            "label": "misprision",
+            "description": "failure to report a crime",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6875906"
+        },
+        {
+            "label": "mobile harassment",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6887129"
+        },
+        {
+            "label": "mortgage fraud",
+            "description": "an intentional misstatement, misrepresentation, or omission of information relied upon by an underwriter or lender to fund, purchase, or insure a loan secured by real property",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6914655"
+        },
+        {
+            "label": "Nazi crimes in Warmia",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6983406"
+        },
+        {
+            "label": "obstructing government administration",
+            "description": "criminal offense in certain jurisdictions of the United States",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7075546"
+        },
+        {
+            "label": "obtaining a money transfer by deception",
+            "description": "offence",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7075553"
+        },
+        {
+            "label": "occupational crime",
+            "description": "crime that is committed through opportunity created in the course of legal occupation",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7075799"
+        },
+        {
+            "label": "offence against the person",
+            "description": "type of crime in UK criminal law",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7079040"
+        },
+        {
+            "label": "Osaka, Aichi, and the Gifu continuous torture-murder event",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7105533"
+        },
+        {
+            "label": "Police impersonation",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7209588"
+        },
+        {
+            "label": "sodomy",
+            "description": "former Russian crime",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7223882"
+        },
+        {
+            "label": "providing material support for terrorism",
+            "description": "crime in the United States",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7252540"
+        },
+        {
+            "label": "seditious conspiracy",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7445334"
+        },
+        {
+            "label": "Steaming",
+            "description": "robbery performed by large group",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7605475"
+        },
+        {
+            "label": "street crime",
+            "description": "criminal offense in a public place",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7622997"
+        },
+        {
+            "label": "swatting",
+            "description": "the act of hoaxing an armed emergency response to a victim's home",
+            "distance_to_root": 1,
+            "number_of_instances": 1,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FBI%20SWAT%20team%20Watervliet%20Arsenal.jpg?width=900",
+            "id": "wd:Q7654058"
+        },
+        {
+            "label": "unlawful assembly",
+            "description": "group of people with the mutual intent of deliberate disturbance of the peace",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7897005"
+        },
+        {
+            "label": "vehicular homicide",
+            "description": "unlawful killing of another human by criminally negligent or murderous operation of a vehicle",
+            "distance_to_root": 1,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q7918620"
+        },
+        {
+            "label": "wage theft",
+            "description": "unlawful withholding of employee pay by their employer",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7959502"
+        },
+        {
+            "label": "Wilful fire raising",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q8002045"
+        },
+        {
+            "label": "Apology of terrorism",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q8202753"
+        },
+        {
+            "label": "criminal contempt",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q10265379"
+        },
+        {
+            "label": "Praemunire",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q10638321"
+        },
+        {
+            "label": "crime of separatism",
+            "description": "crime in the People's Republic of China",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q10896896"
+        },
+        {
+            "label": "animal offence",
+            "description": "criminal act by an animal",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q10901358"
+        },
+        {
+            "label": "banditry",
+            "description": "the life and practice of bandits",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q10968653"
+        },
+        {
+            "label": "robbery-murder",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q11487748"
+        },
+        {
+            "label": "unsolved crime",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q11519624"
+        },
+        {
+            "label": "criminal negligence",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q11640551"
+        },
+        {
+            "label": "international crime",
+            "description": "violation of international law",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q11869657"
+        },
+        {
+            "label": "crime in Finland",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q12185522"
+        },
+        {
+            "label": "Ragut",
+            "description": "Malaysian name for a crime",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q12701628"
+        },
+        {
+            "label": "affair",
+            "description": "nasty, dark, embarrassing or scandalous matter",
+            "distance_to_root": 1,
+            "number_of_instances": 55,
+            "image_url": "",
+            "id": "wd:Q12761956"
+        },
+        {
+            "label": "Firar",
+            "description": "Turkish term for a criminal offense",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q12809572"
+        },
+        {
+            "label": "Idionymon",
+            "description": "political crime in Greece from 1929 to 1974",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q12878065"
+        },
+        {
+            "label": "penis removal",
+            "description": "removal of the penis, usually as an act of aggression (for voluntary penis removal, see penectomy)",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q12969054"
+        },
+        {
+            "label": "revenge porn",
+            "description": "Sexually explicit images or videos of an individual publicly shared for the purpose of causing them humiliation",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q15056789"
+        },
+        {
+            "label": "archaeological looting",
+            "description": "unauthorised archaeological digging",
+            "distance_to_root": 1,
+            "number_of_instances": 1,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruins%20with%20Looters%20Trench%20-%20%28greg-willis.com%29%20-%20panoramio.jpg?width=900",
+            "id": "wd:Q15624851"
+        },
+        {
+            "label": "subversion of state power",
+            "description": "crime in the People's Republic of China",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q15903507"
+        },
+        {
+            "label": "Crime in Spain",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q16184231"
+        },
+        {
+            "label": "culpable homicide",
+            "description": "illegal homicide either with or without intent, depending on jurisdiction",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q16973098"
+        },
+        {
+            "label": "criminal syndicalism",
+            "description": "crime defined in some U.S. states",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q16988817"
+        },
+        {
+            "label": "terroristic threat",
+            "description": "threat to commit a\u00a0crime of violence\u00a0or a threat to cause bodily injury to another person and terrorization as the result of the proscribed conduct",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q17125985"
+        },
+        {
+            "label": "slashing",
+            "description": "crime intended to cause bodily harm to a victim with a knife or other type of bladed or sharp object",
+            "distance_to_root": 1,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q17142966"
+        },
+        {
+            "label": "possession of stolen goods",
+            "description": "any crime involving elements of acquiring, possessing, or trafficking in stolen property knowingly",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q17149198"
+        },
+        {
+            "label": "TWOC",
+            "description": "",
+            "distance_to_root": 1,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q17152709"
+        },
+        {
+            "label": "snuff film",
+            "description": "film genre that depicts murder for the express purpose of distribution and entertainment or financial exploitation",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q644437"
+        },
+        {
+            "label": "mass murder",
+            "description": "act of murdering a large number of people",
+            "distance_to_root": 2,
+            "number_of_instances": 314,
+            "image_url": "",
+            "id": "wd:Q750215"
+        },
+        {
+            "label": "Judicial murder",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q978293"
+        },
+        {
+            "label": "political murder",
+            "description": "murder of a person (prominent or not) for political reasons",
+            "distance_to_root": 2,
+            "number_of_instances": 73,
+            "image_url": "",
+            "id": "wd:Q1139665"
+        },
+        {
+            "label": "Colombian necktie",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1493279"
+        },
+        {
+            "label": "targeted killing",
+            "description": "form of assassination carried by governments against their perceived enemies",
+            "distance_to_root": 2,
+            "number_of_instances": 3,
+            "image_url": "",
+            "id": "wd:Q1642263"
+        },
+        {
+            "label": "murder with robbery",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1938703"
+        },
+        {
+            "label": "liquidation",
+            "description": "murder",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2228956"
+        },
+        {
+            "label": "massacre",
+            "description": "incident where some group is killed by another",
+            "distance_to_root": 3,
+            "number_of_instances": 610,
+            "image_url": "",
+            "id": "wd:Q3199915"
+        },
+        {
+            "label": "Murder\u2013suicide",
+            "description": "act in which an individual kills one or more other persons as well as oneself",
+            "distance_to_root": 2,
+            "number_of_instances": 22,
+            "image_url": "",
+            "id": "wd:Q3307578"
+        },
+        {
+            "label": "murder for body parts",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3833317"
+        },
+        {
+            "label": "murder",
+            "description": "United States legal policy on murder",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3882179"
+        },
+        {
+            "label": "assassination",
+            "description": "murder of a prominent person, often a political leader or ruler",
+            "distance_to_root": 2,
+            "number_of_instances": 51,
+            "image_url": "",
+            "id": "wd:Q3882219"
+        },
+        {
+            "label": "deliberate murder",
+            "description": "intentionally causing the death of another human being after rationally considering the timing or method of doing so",
+            "distance_to_root": 2,
+            "number_of_instances": 12,
+            "image_url": "",
+            "id": "wd:Q4676786"
+        },
+        {
+            "label": "axe murder",
+            "description": "murder in which the victim was struck and killed by an axe or hatchet",
+            "distance_to_root": 2,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q4830211"
+        },
+        {
+            "label": "double murder",
+            "description": "murder of two people",
+            "distance_to_root": 2,
+            "number_of_instances": 6,
+            "image_url": "",
+            "id": "wd:Q5300066"
+        },
+        {
+            "label": "familicide",
+            "description": "act of killing several of one's family members",
+            "distance_to_root": 2,
+            "number_of_instances": 8,
+            "image_url": "",
+            "id": "wd:Q5400895"
+        },
+        {
+            "label": "executions in Laski near Warsaw",
+            "description": "event in Second World War",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q9251627"
+        },
+        {
+            "label": "freakish murder",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q11260364"
+        },
+        {
+            "label": "murder of pregnant women",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q13431749"
+        },
+        {
+            "label": "child murder",
+            "description": "homicide of an individual who is a minor",
+            "distance_to_root": 2,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q13587273"
+        },
+        {
+            "label": "Assassination of Vietnamese-American journalists in the United States",
+            "description": "Overview Article of the Wikipedia",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q16161960"
+        },
+        {
+            "label": "serial murder",
+            "description": "series of murders",
+            "distance_to_root": 2,
+            "number_of_instances": 11,
+            "image_url": "",
+            "id": "wd:Q50378760"
+        },
+        {
+            "label": "voluntary manslaughter",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q51159220"
+        },
+        {
+            "label": "death by terrorism",
+            "description": "cause of death and legal concept in Norway",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q51844215"
+        },
+        {
+            "label": "2019 Negros Island killings",
+            "description": "killings in Negros Island, Phillippines",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q66744597"
+        },
+        {
+            "label": "obstruction of free exercise of religious beliefs resulting in death",
+            "description": "crime",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q85228984"
+        },
+        {
+            "label": "use and discharge of a firearm to commit murder during and in relation to a crime of violence",
+            "description": "crime",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q85229074"
+        },
+        {
+            "label": "cyberstalking",
+            "description": "use of the Internet or other electronic means to stalk or harass an individual, a group, or an organization",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3242086"
+        },
+        {
+            "label": "cyber stalking",
+            "description": "use of Information Technology to stalk people",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q80571249"
+        },
+        {
+            "label": "signals intelligence",
+            "description": "intelligence-gathering by interception of signals",
+            "distance_to_root": 2,
+            "number_of_instances": 4,
+            "image_url": "",
+            "id": "wd:Q836610"
+        },
+        {
+            "label": "cyber spying",
+            "description": "act of obtaining secrets and information using methods on the Internet, networks or individual computers",
+            "distance_to_root": 2,
+            "number_of_instances": 3,
+            "image_url": "",
+            "id": "wd:Q1039245"
+        },
+        {
+            "label": "industrial espionage",
+            "description": "form of espionage",
+            "distance_to_root": 2,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q1160650"
+        },
+        {
+            "label": "human intelligence",
+            "description": "intelligence gathered by means interpersonal contact",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1538117"
+        },
+        {
+            "label": "Kompromat",
+            "description": "Russian short word for \"compromising material\"",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaveladze%201%20Exhibits%20redacted.pdf?width=900",
+            "id": "wd:Q1569550"
+        },
+        {
+            "label": "Dutch espionage during World War II",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2112749"
+        },
+        {
+            "label": "military intelligence",
+            "description": "gathering and assessment of strategic, tactical, and policy information",
+            "distance_to_root": 2,
+            "number_of_instances": 7,
+            "image_url": "",
+            "id": "wd:Q4168000"
+        },
+        {
+            "label": "financial intelligence",
+            "description": "intelligence assessment of accounting and financial transactions",
+            "distance_to_root": 2,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q5449606"
+        },
+        {
+            "label": "National Communications Centre",
+            "description": "intelligence-gathering agency of the Republic of South Africa by interception of signals",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6971717"
+        },
+        {
+            "label": "nuclear espionage",
+            "description": "espionage related to the creation of nuclear weapons",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q16821366"
+        },
+        {
+            "label": "espionage crime in the People's Republic of China",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q17031450"
+        },
+        {
+            "label": "attempted murder",
+            "description": "crime of attempt in various jurisdictions",
+            "distance_to_root": 2,
+            "number_of_instances": 56,
+            "image_url": "",
+            "id": "wd:Q4818169"
+        },
+        {
+            "label": "failed terrorism plot",
+            "description": "terrorist plots that has either been foiled or uncovered by authorities or failed through mistakes",
+            "distance_to_root": 2,
+            "number_of_instances": 14,
+            "image_url": "",
+            "id": "wd:Q5429679"
+        },
+        {
+            "label": "attempted arson",
+            "description": "occurs if a criminal has an intent to commit arson and takes a substantial step toward completing the it",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q24327443"
+        },
+        {
+            "label": "fallido el golpe de estadp del 23F de 1981",
+            "description": "unsuccessful attempt to depose a government",
+            "distance_to_root": 2,
+            "number_of_instances": 101,
+            "image_url": "",
+            "id": "wd:Q25906438"
+        },
+        {
+            "label": "failed attack",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 20,
+            "image_url": "",
+            "id": "wd:Q28945444"
+        },
+        {
+            "label": "attempted kidnapping",
+            "description": "occurs if a criminal has an intent to commit a kidnapping and takes a substantial step toward completing it",
+            "distance_to_root": 2,
+            "number_of_instances": 3,
+            "image_url": "",
+            "id": "wd:Q30344536"
+        },
+        {
+            "label": "attempted rape",
+            "description": "occurs if a criminal has an intent to commit rape and takes a substantial step toward completing it",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q52237215"
+        },
+        {
+            "label": "attempted robbery",
+            "description": "occurs if a criminal has an intent to commit a robbery and takes a substantial step toward completing the it",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q93453476"
+        },
+        {
+            "label": "death march",
+            "description": "forced march of prisoners of war or other captives or deportees in which individuals are left to die along the way",
+            "distance_to_root": 2,
+            "number_of_instances": 6,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kolona%20Usta%C5%A1ev%20in%20hrva%C5%A1kih%20beguncev%20blizu%20Pliberka.jpg?width=900",
+            "id": "wd:Q326259"
+        },
+        {
+            "label": "Nazi plunder",
+            "description": "Nazi looting in WWII",
+            "distance_to_root": 2,
+            "number_of_instances": 6,
+            "image_url": "",
+            "id": "wd:Q328376"
+        },
+        {
+            "label": "Italian war crimes",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q474884"
+        },
+        {
+            "label": "no quarter",
+            "description": "refusal to show mercy to the defeated, especially by slaughtering prisoners of war",
+            "distance_to_root": 4,
+            "number_of_instances": 1,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Libertador%20Sim%C3%B3n%20Bol%C3%ADvar%2C%20Firmando%20el%20Decreto%20de%20GUERRA%20A%20MUERTE%20contra%20los%20Espa%C3%B1oles.jpg?width=900",
+            "id": "wd:Q641319"
+        },
+        {
+            "label": "Japanese war crimes",
+            "description": "Japanese war crimes of World War II",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q701321"
+        },
+        {
+            "label": "German war crimes",
+            "description": "Crimes committed by Nazis",
+            "distance_to_root": 2,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q715434"
+        },
+        {
+            "label": "United States war crimes",
+            "description": "list and descriptions of war crimes",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1184996"
+        },
+        {
+            "label": "Joint criminal enterprise",
+            "description": "concept in international criminal law",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1268118"
+        },
+        {
+            "label": "collective punishment",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1690716"
+        },
+        {
+            "label": "allied war crimes during World War II",
+            "description": "alleged or proven war crimes committed by the Allies during World War II",
+            "distance_to_root": 2,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q1787901"
+        },
+        {
+            "label": "perfidy",
+            "description": "breaking of promise of good faith in order to gain military advantage",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2007759"
+        },
+        {
+            "label": "wartime sexual violence",
+            "description": "type of war crime and atrocity",
+            "distance_to_root": 2,
+            "number_of_instances": 5,
+            "image_url": "",
+            "id": "wd:Q2408310"
+        },
+        {
+            "label": "Soviet war crimes",
+            "description": "war crimes perpetrated by the Soviet Union and its armed forces",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2514383"
+        },
+        {
+            "label": "war crimes in the Kosovo War",
+            "description": "war crimes committed during the Yugoslav civil War",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3500671"
+        },
+        {
+            "label": "British war crimes",
+            "description": "war crimes perpetrated by the United Kingdom and its armed forces",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4971469"
+        },
+        {
+            "label": "slave raid",
+            "description": "a military attack launched against a settlement with the intent of capturing and enslaving its residents",
+            "distance_to_root": 2,
+            "number_of_instances": 2,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Slave%20Raid%2C%20Africa%2C%20ca.1800-ca.1865%20%28imp-cswc-GB-237-CSWC47-LS16-029%29.jpg?width=900",
+            "id": "wd:Q7539194"
+        },
+        {
+            "label": "art looted in World War II",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q15144437"
+        },
+        {
+            "label": "sack",
+            "description": "violent wartime looting of a foreign city",
+            "distance_to_root": 4,
+            "number_of_instances": 26,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Amorium.jpg?width=900",
+            "id": "wd:Q19841484"
+        },
+        {
+            "label": "LES BIENS DES VICTIMES DES PERS\u00c9CUTIONS ANTI-JUIVES EN BELGIQUE: Spoliation R\u00e9tablissement des droits R\u00e9sultats de la Commission d\u2019\u00e9tude",
+            "description": "Belgian government report, results of a commission formed to study looting of Jewish property",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q47461958"
+        },
+        {
+            "label": "razing",
+            "description": "the systematic and total destruction of a settlement",
+            "distance_to_root": 5,
+            "number_of_instances": 1,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Razing%20Moraine%20Lodge%20%2825563072602%29.jpg?width=900",
+            "id": "wd:Q62470235"
+        },
+        {
+            "label": "Medical torture",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q257222"
+        },
+        {
+            "label": "chinese water torture",
+            "description": "alleged method of torture by dripping water onto the scalp",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chinesische%20Wasserfolter%20-%20Gedenkst%C3%A4tte%20Berlin-Hohensch%C3%B6nhausen.jpg?width=900",
+            "id": "wd:Q513072"
+        },
+        {
+            "label": "dismemberment",
+            "description": "capital punishment",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q661297"
+        },
+        {
+            "label": "breaking wheel",
+            "description": "torture device used for capital punishment",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/17XX%20Richtrad%20anagoria.JPG?width=900",
+            "id": "wd:Q692003"
+        },
+        {
+            "label": "basanos",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q809774"
+        },
+        {
+            "label": "slow slicing",
+            "description": "torture and execution used in China abolished in 1905",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lingchi%20%28cropped%29.jpg?width=900",
+            "id": "wd:Q1049098"
+        },
+        {
+            "label": "flaying",
+            "description": "method of slow and painful execution in which skin is removed from the body",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fr%20Camilo%20Martirio%20de%20San%20bartolom%C3%A9%20Museo%20del%20Prado.jpg?width=900",
+            "id": "wd:Q1145315"
+        },
+        {
+            "label": "Water torture",
+            "description": "Wikimedia disambiguation page",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1415850"
+        },
+        {
+            "label": "Strappado",
+            "description": "type of torture",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Strappado%20by%20Jacques%20Callot%20%28cropped%29.jpg?width=900",
+            "id": "wd:Q1545625"
+        },
+        {
+            "label": "force-feeding",
+            "description": "practice of feeding a human or other animal against their will",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2296926"
+        },
+        {
+            "label": "water cure",
+            "description": "form of torture",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2604851"
+        },
+        {
+            "label": "psychological torture",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4117084"
+        },
+        {
+            "label": "music in psychological operations",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4385380"
+        },
+        {
+            "label": "Denailing",
+            "description": "method of torture",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5256564"
+        },
+        {
+            "label": "parrilla",
+            "description": "method of torture",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7139793"
+        },
+        {
+            "label": "Pharmacological torture",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7180791"
+        },
+        {
+            "label": "Rat torture",
+            "description": "torture involving rats",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7295415"
+        },
+        {
+            "label": "Stress position",
+            "description": "Position that puts the human body in a great amount of pain",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7623449"
+        },
+        {
+            "label": "torture murder",
+            "description": "murder where death was preceded by the torture of the victim, often involving a harsher sentence in many jurisdictions",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7827372"
+        },
+        {
+            "label": "Torture by proxy",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q20433366"
+        },
+        {
+            "label": "water torture",
+            "description": "use of water to torture someone",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q28351510"
+        },
+        {
+            "label": "pizzo",
+            "description": "benefit received from someone under coersion",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2541324"
+        },
+        {
+            "label": "emotional blackmail",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5373782"
+        },
+        {
+            "label": "internet fraud",
+            "description": "a type of fraud or deception which makes use of the Internet to defraud victims",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1668020"
+        },
+        {
+            "label": "hacking",
+            "description": "solving of technical work that requires deep understanding, especially of a computer system",
+            "distance_to_root": 2,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q2144405"
+        },
+        {
+            "label": "computer crime in Canada",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5157536"
+        },
+        {
+            "label": "email hacking",
+            "description": "unauthorized access to, or manipulation of, an email account or email correspondence",
+            "distance_to_root": 2,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q5368817"
+        },
+        {
+            "label": "scam baiting",
+            "description": "internet vigilantism tactic",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7429858"
+        },
+        {
+            "label": "technical support scam",
+            "description": "type of fraud and confidence trick",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q16738649"
+        },
+        {
+            "label": "arms trafficking",
+            "description": "illegal trafficking or smuggling of contraband weapons or ammunition",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2431020"
+        },
+        {
+            "label": "Turkish coup d'\u00e9tat",
+            "description": "Wikimedia disambiguation page",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1935121"
+        },
+        {
+            "label": "self-coup",
+            "description": "When a nation's leader unlawfully assumes extraordinary powers not granted under normal circumstances.",
+            "distance_to_root": 2,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q4460509"
+        },
+        {
+            "label": "white coup",
+            "description": "coup d'\u00e9tat by partially or fully legal means",
+            "distance_to_root": 2,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q10290435"
+        },
+        {
+            "label": "military coup",
+            "description": "coup d'\u00e9tat establishing a military dictatorship",
+            "distance_to_root": 2,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q10290447"
+        },
+        {
+            "label": "copycat suicide",
+            "description": "emulation of another suicide",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1047483"
+        },
+        {
+            "label": "credit card fraud",
+            "description": "an inclusive term for fraud committed using a payment card, such as a credit card or debit card",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q83873"
+        },
+        {
+            "label": "escroquerie",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q137893"
+        },
+        {
+            "label": "Ponzi scheme",
+            "description": "form of fraud that lures investors and pays profits to earlier investors with funds from more recent investors",
+            "distance_to_root": 2,
+            "number_of_instances": 15,
+            "image_url": "",
+            "id": "wd:Q219407"
+        },
+        {
+            "label": "Doctor shopping",
+            "description": "a practice of visiting multiple physicians to obtain either multiple prescriptions for otherwise illegal drugs, or the medical opinion that one wants to hear",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q256592"
+        },
+        {
+            "label": "phone fraud",
+            "description": "illegitimate way of obtaining money by using phone-related telecommunications products or services",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q380278"
+        },
+        {
+            "label": "identity theft",
+            "description": "deliberate use of someone else's identity, usually as a method to gain a financial advantage or obtain credit and other benefits in the other person's name, and perhaps to the other person's disadvantage or loss",
+            "distance_to_root": 2,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q471880"
+        },
+        {
+            "label": "electoral fraud",
+            "description": "illegal interference with the process of an election",
+            "distance_to_root": 2,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q692209"
+        },
+        {
+            "label": "missing trader fraud",
+            "description": "theft of Value Added Tax (VAT) from a government by organised crime gangs",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q830017"
+        },
+        {
+            "label": "advance-fee scam",
+            "description": "Type of fraud where the victim unknowingly engages in one way trade with the perpetrator",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q830193"
+        },
+        {
+            "label": "wine fraud",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q834899"
+        },
+        {
+            "label": "insurance fraud",
+            "description": "any act committed to defraud an insurance process",
+            "distance_to_root": 2,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q838081"
+        },
+        {
+            "label": "diploma mill",
+            "description": "company or organization that manufactures fake diplomas for a fee",
+            "distance_to_root": 2,
+            "number_of_instances": 5,
+            "image_url": "",
+            "id": "wd:Q905983"
+        },
+        {
+            "label": "computer fraud",
+            "description": "the act of using a computer to take or alter electronic data, or to gain unlawful use of a computer or system",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1122388"
+        },
+        {
+            "label": "click fraud",
+            "description": "type of fraud that occurs on the Internet in pay per click online advertising",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1147347"
+        },
+        {
+            "label": "paternity fraud",
+            "description": "Deliberate misidentification of a man as the biological father of a child",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1279549"
+        },
+        {
+            "label": "Odometer fraud",
+            "description": "illegal practice of rolling back odometer mileage on vehicles",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1649915"
+        },
+        {
+            "label": "heraldric fraud",
+            "description": "false claim of having right to a coat of arms",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1719080"
+        },
+        {
+            "label": "creative accounting",
+            "description": "euphemism referring to accounting practices with questionable ethics, often associated with financial or securities fraud",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2308363"
+        },
+        {
+            "label": "diamond fraud",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2470625"
+        },
+        {
+            "label": "bankruptcy fraud",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2473321"
+        },
+        {
+            "label": "market abuse",
+            "description": "circumstances where financial market investors have been unreasonably disadvantaged by insider dealing or market manipulation",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2822122"
+        },
+        {
+            "label": "false self-employment",
+            "description": "situation in which somebody registered as self-employed or a temp is de facto an employee carrying out a professional activity under the authority and subordination of another company",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3067612"
+        },
+        {
+            "label": "tunneling",
+            "description": "financial fraud",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3509042"
+        },
+        {
+            "label": "rogueware",
+            "description": "a form of malicious software and Internet fraud",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3752489"
+        },
+        {
+            "label": "accounting scandal",
+            "description": "fraud involving complex methods for misusing or misdirecting funds, overstating revenues, understating expenses, overstating the value of corporate assets, or underreporting the existence of liabilities",
+            "distance_to_root": 2,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q4215744"
+        },
+        {
+            "label": "securities fraud",
+            "description": "deceptive practice in the stock or commodities markets that induces investors to make purchase or sale decisions on the basis of false information",
+            "distance_to_root": 2,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q4570975"
+        },
+        {
+            "label": "charity fraud",
+            "description": "act of using deception to get money from people who believe they are making donations to charities",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4843420"
+        },
+        {
+            "label": "wangiri",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4992408"
+        },
+        {
+            "label": "Fantasy genealogy",
+            "description": "any kind of fabricated pedigrees",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5434347"
+        },
+        {
+            "label": "fraudulent concealment",
+            "description": "withholding information in order to defraud",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5493924"
+        },
+        {
+            "label": "confidence abuse",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q5655527"
+        },
+        {
+            "label": "Cramming",
+            "description": "a form of fraud in which small charges are added to a bill without the subscriber's consent, approval, authorization or disclosure",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5790542"
+        },
+        {
+            "label": "mail and wire fraud",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6735709"
+        },
+        {
+            "label": "confidence trick",
+            "description": "attempt to defraud a person or group after first gaining their confidence, used in the classical sense of trust; exploites characteristics of the human psyche, such as credulity, na\u00efvet\u00e9, compassion, vanity, irresponsibility, and greed",
+            "distance_to_root": 2,
+            "number_of_instances": 18,
+            "image_url": "",
+            "id": "wd:Q7023752"
+        },
+        {
+            "label": "obtaining property by deception",
+            "description": "criminal offence",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7075554"
+        },
+        {
+            "label": "religious fraud",
+            "description": "civil or criminal fraud carried out in the name of a religion or within a religion",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7311358"
+        },
+        {
+            "label": "return fraud",
+            "description": "act of defrauding a retail store via the return process",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7317165"
+        },
+        {
+            "label": "salting",
+            "description": "adding gold or silver to an ore sample to change the value of the ore with intent to deceive potential buyers of a mine",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7406131"
+        },
+        {
+            "label": "telemarketing fraud",
+            "description": "type of fraud",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7696336"
+        },
+        {
+            "label": "Tobashi scheme",
+            "description": "financial fraud through creative accounting where a client's losses are hidden",
+            "distance_to_root": 3,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q7811552"
+        },
+        {
+            "label": "unconscious fraud",
+            "description": "fraud committed by somebody who does not consciously realise that they are deceiving others",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7882915"
+        },
+        {
+            "label": "welfare fraud",
+            "description": "act of illegally using state welfare systems",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7980959"
+        },
+        {
+            "label": "journalistic fraud",
+            "description": "journalist, reporter or a television presenter who passes false information to the public as true, even though being aware of it to be false",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q10285711"
+        },
+        {
+            "label": "Bait-and-switch",
+            "description": "a form of fraud used in retail sales but also employed in other contexts",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q13417167"
+        },
+        {
+            "label": "cheque fraud",
+            "description": "a category of criminal acts that involve making the unlawful use of cheques in order to illegally acquire or borrow funds that do not actually exist within the account balance",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q13586711"
+        },
+        {
+            "label": "email fraud",
+            "description": "intentional deception made for personal gain or to damage another individual through email",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q16251652"
+        },
+        {
+            "label": "passport fraud",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q16925235"
+        },
+        {
+            "label": "intrinsic fraud",
+            "description": "intentionally false representation that goes to the heart of what a given lawsuit is about",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q17131641"
+        },
+        {
+            "label": "procedural fraud",
+            "description": "modifying the evidence related to crime, including modifying the crime scene, the objects related to the crime or even the state of the people involved, in order to induce the magistrate or the expert to error",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q18479385"
+        },
+        {
+            "label": "documentary fraud",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q25431340"
+        },
+        {
+            "label": "creditor fraud",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q25447302"
+        },
+        {
+            "label": "Fraudulent directory solicitations",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q28407966"
+        },
+        {
+            "label": "food fraud",
+            "description": "intentional adulteration of food with cheaper ingredients for economic gain",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q39516045"
+        },
+        {
+            "label": "Brushing (e-commerce)",
+            "description": "deceitful technique sometimes used in e-commerce to boost a seller's ratings by creating fake orders",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q55606057"
+        },
+        {
+            "label": "Business Email Compromise",
+            "description": "email based commercial fraud to deceive victims into sending money or sensitive information",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q60764090"
+        },
+        {
+            "label": "social fraud",
+            "description": "fraud seeking to evade social taxes",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q62055976"
+        },
+        {
+            "label": "laundering",
+            "description": "process of misrepresenting an item's origins to conceal that it was obtained illicitly",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q71847667"
+        },
+        {
+            "label": "fraudulent conveyance",
+            "description": "attempt to avoid debt by transferring money to another person or company",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q73451793"
+        },
+        {
+            "label": "Andor Tiszay",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q73452779"
+        },
+        {
+            "label": "lottery fraud",
+            "description": "claiming a lottery prize by deception or forgery",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Justismuseet.%20Counterfeit%20money%20etc.%20in%20Norway.%20Forged%20lottery%20ticket.%20Forfalsket%20lodd%20i%20Pengelotteriet%201936.%20Norwegian%20National%20Museum%20of%20Justice%2C%20Trondheim%202019-04-10%20DSC03256.jpg?width=900",
+            "id": "wd:Q73749192"
+        },
+        {
+            "label": "fraudulent online store",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q77195507"
+        },
+        {
+            "label": "collaborationism",
+            "description": "cooperation with the enemy against one's country of citizenship in wartime",
+            "distance_to_root": 2,
+            "number_of_instances": 12,
+            "image_url": "",
+            "id": "wd:Q156744"
+        },
+        {
+            "label": "Treason in Japan",
+            "description": "",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q57552238"
+        },
+        {
+            "label": "formicophilia",
+            "description": "form of zoophilia",
+            "distance_to_root": 2,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1276313"
+        },
+        {
+            "label": "Israeli targeted killings",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q135162"
+        },
+        {
+            "label": "insider trading",
+            "description": "trading of a public company's stock or other securities by individuals with access to nonpublic information about the company",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q854623"
+        },
+        {
+            "label": "Misclassification of employees as independent contractors",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1444528"
+        },
+        {
+            "label": "smuggling of firearms into Mexico",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7546628"
+        },
+        {
+            "label": "windowdressing",
+            "description": "practice of making a financial portfolio or corporate balance sheet seem while being appraised by a potential investor to have better returns than it truly had over most of the time it existed",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2583762"
+        },
+        {
+            "label": "Clickjacking",
+            "description": "malicious technique of tricking a Web user",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q163231"
+        },
+        {
+            "label": "quackery",
+            "description": "fraudulent or inept medical practice, promoted professionally or publicly",
+            "distance_to_root": 4,
+            "number_of_instances": 3,
+            "image_url": "",
+            "id": "wd:Q1468920"
+        },
+        {
+            "label": "extraterrestrial real estate",
+            "description": "claims of land ownership on extraterrestrial objects by certain organizations and individuals not recognized by any authority",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1549399"
+        },
+        {
+            "label": "romance scam",
+            "description": "a confidence trick involving feigning romantic intentions towards a victim, gaining their affection, and then using that goodwill to commit fraud",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1964861"
+        },
+        {
+            "label": "Misappropriation",
+            "description": "misuse of name",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q3824105"
+        },
+        {
+            "label": "art student scam",
+            "description": "A scam",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4797279"
+        },
+        {
+            "label": "black money scam",
+            "description": "type of confidence trick; variation of what is known as advance fee fraud",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4922388"
+        },
+        {
+            "label": "Malvertisement",
+            "description": "a blend word describing the use of online advertisement or advertising to spread malware",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Malvertising.svg?width=900",
+            "id": "wd:Q6745100"
+        },
+        {
+            "label": "Spanish Prisoner",
+            "description": "form of confidence trick originating in the late 16th century",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7573278"
+        },
+        {
+            "label": "Unfair business practices",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q11791804"
+        },
+        {
+            "label": "SIM swap scam",
+            "description": "a type of account takeover fraud that generally targets a weakness in two-factor authentication,  with the second factor being a text message or call placed to a mobile telephone",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q55632208"
+        },
+        {
+            "label": "tech support scam",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q83630749"
+        },
+        {
+            "label": "Cryptocurrency scam",
+            "description": "A fraudulent cryptocurrency ICO .",
+            "distance_to_root": 3,
+            "number_of_instances": 2,
+            "image_url": "",
+            "id": "wd:Q96460525"
+        },
+        {
+            "label": "war crimes of the Wehrmacht",
+            "description": "crimes carried out by the German armed forces during World War II",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polish%20hostages%20preparing%20by%20Nazi%20Germans%20for%20mass%20execution%201940.jpg?width=900",
+            "id": "wd:Q680121"
+        },
+        {
+            "label": "German war crimes against Soviet civilians",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3002635"
+        },
+        {
+            "label": "German war crimes during the Battle of Moscow",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5551877"
+        },
+        {
+            "label": "LOVEINT",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q15073372"
+        },
+        {
+            "label": "waterboarding",
+            "description": "drowning simulating torture method",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Waterboarding-Demonstration-30-05-2008-Island-a.jpg?width=900",
+            "id": "wd:Q2552748"
+        },
+        {
+            "label": "money laundering",
+            "description": "process of transforming profits of crime and corruption into ostensibly legitimate assets",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q151900"
+        },
+        {
+            "label": "child laundering",
+            "description": "scheme whereby intercountry adoptions are effected by illegal and fraudulent means",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2985081"
+        },
+        {
+            "label": "War Crimes of the Red Army",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q834416"
+        },
+        {
+            "label": "high-yield investment program",
+            "description": "Investment scam",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1102146"
+        },
+        {
+            "label": "1992 Venezuelan coup d'\u00e9tat attempts",
+            "description": "Venezuelan coup attempts of 1992",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q8868"
+        },
+        {
+            "label": "genocide",
+            "description": "systematic destruction of all or a significant part of a racial, ethnic, religious or national group",
+            "distance_to_root": 3,
+            "number_of_instances": 38,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Srebrenica%20massacre%20memorial%20gravestones%202009%201.jpg?width=900",
+            "id": "wd:Q41397"
+        },
+        {
+            "label": "pogrom",
+            "description": "violent riot aimed at massacre or persecution of an ethnic or religious group",
+            "distance_to_root": 3,
+            "number_of_instances": 50,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/VICTIMS%20OF%20IASI%20POGROM.jpg?width=900",
+            "id": "wd:Q177716"
+        },
+        {
+            "label": "mass killings under Communist regimes",
+            "description": "organized communist killing of large numbers of non-combatants",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q2235125"
+        },
+        {
+            "label": "politicide",
+            "description": "deliberate physical destruction or elimination of a group whose members share the main characteristic of belonging to a political movement",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2369404"
+        },
+        {
+            "label": "assassination campaign",
+            "description": "series of assassinations carried out to achieve a larger political goal",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4808499"
+        },
+        {
+            "label": "mass shooting",
+            "description": "incident involving multiple victims of gun violence and typically where some victims are killed",
+            "distance_to_root": 3,
+            "number_of_instances": 172,
+            "image_url": "",
+            "id": "wd:Q21480300"
+        },
+        {
+            "label": "spree killing",
+            "description": "killing at two or more locations with almost no time break between murders",
+            "distance_to_root": 3,
+            "number_of_instances": 3,
+            "image_url": "",
+            "id": "wd:Q66975460"
+        },
+        {
+            "label": "phishing",
+            "description": "act of attempting to acquire (sensitive) information by posing as a trustworthy entity",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Phish.jpg?width=900",
+            "id": "wd:Q135005"
+        },
+        {
+            "label": "DNS hijacking",
+            "description": "practice of subverting the resolution of Domain Name System queries",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1154669"
+        },
+        {
+            "label": "Counterfeit medicines online",
+            "description": "substandard, spurious, falsified, falsely-labelled and counterfeit medical products marketed via Internet",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5176967"
+        },
+        {
+            "label": "rogue security software",
+            "description": "type of malware",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q2429834"
+        },
+        {
+            "label": "war crimes in Manchukuo",
+            "description": "war crimes committed during the rule of the Empire of Japan in northeast China",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7968599"
+        },
+        {
+            "label": "second-degree murder",
+            "description": "category of murder in United States laws",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q96049557"
+        },
+        {
+            "label": "Ultra",
+            "description": "Designation adopted by British for military intelligence from broken enemy codes",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/EnigmaMachine%20Warzawa.jpg?width=900",
+            "id": "wd:Q825712"
+        },
+        {
+            "label": "communications intelligence",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1406999"
+        },
+        {
+            "label": "electronic signals intelligence",
+            "description": "non-communications signals intelligence gathering",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q17542926"
+        },
+        {
+            "label": "Illegal drug trade in Colombia",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3034076"
+        },
+        {
+            "label": "illegal drug trade in Venezuela",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5998942"
+        },
+        {
+            "label": "narcotrafico",
+            "description": "Spanish term for illegal drug trade",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6965698"
+        },
+        {
+            "label": "county lines drug trafficking",
+            "description": "trafficking of drugs into British rural areas, often involving child slavery",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q60746521"
+        },
+        {
+            "label": "ethnic cleansing",
+            "description": "systematic removal of a certain ethnic or religious group",
+            "distance_to_root": 4,
+            "number_of_instances": 15,
+            "image_url": "",
+            "id": "wd:Q154278"
+        },
+        {
+            "label": "genocidal massacre",
+            "description": "incidents with a genocidal component but which are committed on a smaller scale when compared to genocides",
+            "distance_to_root": 4,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q5533440"
+        },
+        {
+            "label": "school massacre",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 4,
+            "image_url": "",
+            "id": "wd:Q21175615"
+        },
+        {
+            "label": "camfecting",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5026509"
+        },
+        {
+            "label": "DIY biology",
+            "description": "biotechnological social movement",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BackyardAqauponics%40BAU.jpg?width=900",
+            "id": "wd:Q5205179"
+        },
+        {
+            "label": "phone hacking",
+            "description": "Malicious Hacking & White Hacking",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7187193"
+        },
+        {
+            "label": "ethical hacking",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q56669895"
+        },
+        {
+            "label": "embezzlement",
+            "description": "theft of assets entrusted to another person by the person that the assets were entrusted to",
+            "distance_to_root": 3,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q157833"
+        },
+        {
+            "label": "rip deal",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2533601"
+        },
+        {
+            "label": "wardrobing",
+            "description": "fraud practice of purchasing an item, using it, and then returning it to the store for a refund",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7969199"
+        },
+        {
+            "label": "Microcap stock fraud",
+            "description": "a form of securities fraud involving stocks of microcap companies",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1224413"
+        },
+        {
+            "label": "benefit fraud in the United Kingdom",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q833674"
+        },
+        {
+            "label": "disability fraud",
+            "description": "receipt of payment(s) intended for the disabled from a government agency or private insurance company by one who should not be receiving them",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5281194"
+        },
+        {
+            "label": "contract killing",
+            "description": "form of murder, homicide",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q17197559"
+        },
+        {
+            "label": "mock execution",
+            "description": "form of psychological torture",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1754722"
+        },
+        {
+            "label": "obstruction of free exercise of religious beliefs involving an attempt to kill and use of a dangerous weapon and resulting in bodily injury",
+            "description": "hate crime",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q63758372"
+        },
+        {
+            "label": "hate crimes involving an attempt to kill",
+            "description": "hate crime",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q63758405"
+        },
+        {
+            "label": "obstruction of free exercise of religious beliefs involving an attempt to kill and use of a dangerous weapon, and resulting in bodily injury to public safety officers",
+            "description": "crime",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q63758427"
+        },
+        {
+            "label": "obstruction of free exercise of religious beliefs involving an attempt to kill and use of a dangerous weapon and resulting in bodily injury",
+            "description": "crime",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q85229357"
+        },
+        {
+            "label": "obstruction of free exercise of religious beliefs involving an attempt to kill and use of a dangerous weapon, and resulting in bodily injury to a public safety officer",
+            "description": "crime",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q85230011"
+        },
+        {
+            "label": "assassination attempt",
+            "description": "occurs if a criminal has an intent to commit a assassination and takes a substantial step toward completing the it",
+            "distance_to_root": 3,
+            "number_of_instances": 11,
+            "image_url": "",
+            "id": "wd:Q88178910"
+        },
+        {
+            "label": "cooping",
+            "description": "election fraud in which people are kidnapped and coerced to vote",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3690014"
+        },
+        {
+            "label": "carousel voting",
+            "description": "fraudulent voting by the same people at a series of locations",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4216308"
+        },
+        {
+            "label": "Bulgarian train",
+            "description": "vote rigging in which a pre-filled ballot is cast and the blank ballot stolen to be used in the next vote",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q12905370"
+        },
+        {
+            "label": "voter impersonation in the United States",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q25245416"
+        },
+        {
+            "label": "Family voting",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q56632154"
+        },
+        {
+            "label": "collaboration with the Axis Powers during World War II",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1342294"
+        },
+        {
+            "label": "vishing",
+            "description": "form of criminal phone fraud, using social engineering over the telephone system to gain access to private personal and financial information for the purpose of financial reward",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q172380"
+        },
+        {
+            "label": "false answer supervision",
+            "description": "overbilling of telephone calls by faking call time that did not occur, particularly on VoIP calls",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1394885"
+        },
+        {
+            "label": "health care fraud",
+            "description": "defrauding of an insurer or government health care program for false or unnecessary health care costs",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5690836"
+        },
+        {
+            "label": "health insurance fraud",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q24869073"
+        },
+        {
+            "label": "magnicide",
+            "description": "assassination of a major political figure",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q9026907"
+        },
+        {
+            "label": "assassination",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q51159756"
+        },
+        {
+            "label": "skimming",
+            "description": "illegal acquisition and copying of payment card details",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q11703939"
+        },
+        {
+            "label": "honest services fraud",
+            "description": "crime in the United States",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5893287"
+        },
+        {
+            "label": "geospatial intelligence",
+            "description": "exploitation and analysis of geospatial imagery and information",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2944004"
+        },
+        {
+            "label": "deliberate  poisoning",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q51159762"
+        },
+        {
+            "label": "clothing scam company",
+            "description": "",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5135576"
+        },
+        {
+            "label": "check kiting",
+            "description": "using check float to cover other checks",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2232246"
+        },
+        {
+            "label": "Serial murders in Essonne",
+            "description": "series of murders in France",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q18763761"
+        },
+        {
+            "label": "Reichsleiter Rosenberg Taskforce",
+            "description": "WWII Art looting organization active in France",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q673751"
+        },
+        {
+            "label": "List of Property Removed from France during the War, 1939-1945",
+            "description": "information about looted property, published in eight volumes",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q47459317"
+        },
+        {
+            "label": "Leblouh",
+            "description": "force-feeding of women in Mauritania",
+            "distance_to_root": 3,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q4492615"
+        },
+        {
+            "label": "ethnocide",
+            "description": "Extermination of a national culture as a part of genocide.",
+            "distance_to_root": 4,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q1371470"
+        },
+        {
+            "label": "identity cleansing",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3442035"
+        },
+        {
+            "label": "genocide of indigenous peoples",
+            "description": "genocide of native inhabitants of a region",
+            "distance_to_root": 4,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q5533462"
+        },
+        {
+            "label": "religious cleansing",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7311339"
+        },
+        {
+            "label": "social cleansing",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q13582471"
+        },
+        {
+            "label": "slow genocide",
+            "description": "genocide at a slower scale in a longer time frame",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q16889816"
+        },
+        {
+            "label": "utilitarian genocide",
+            "description": "form of genocide categorized and defined in 1975 by genocide scholar Vahakn Dadrian",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q17029088"
+        },
+        {
+            "label": "malingering",
+            "description": "faking illness for financial or similar personal gain",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q488231"
+        },
+        {
+            "label": "drug fraud",
+            "description": "type of fraud in which drugs, legal or illegal, are cut or altered in such a way that either diminishes their value or causes adverse health consequences",
+            "distance_to_root": 4,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q3332645"
+        },
+        {
+            "label": "pharmaceutical fraud",
+            "description": "activities that result in false claims to insurers or state programs for financial gain to a pharmaceutical company",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7180750"
+        },
+        {
+            "label": "regicide",
+            "description": "intentional killing of a monarch",
+            "distance_to_root": 4,
+            "number_of_instances": 3,
+            "image_url": "",
+            "id": "wd:Q1475448"
+        },
+        {
+            "label": "structuring",
+            "description": "redesigning of a large transaction as multiple small transactions to avoid scrutiny",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q381442"
+        },
+        {
+            "label": "handling stolen goods",
+            "description": "statutory offence in England and Wales and Northern Ireland",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q708433"
+        },
+        {
+            "label": "gold laundering",
+            "description": "melting and recasting of gold to hide its origin",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q17018082"
+        },
+        {
+            "label": "Defalcation",
+            "description": "misappropriation of funds by an entrusted  person",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5251066"
+        },
+        {
+            "label": "skimming",
+            "description": "illegal transfer of funds from casinos to outside personnel without official documentation",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7535284"
+        },
+        {
+            "label": "patent medicine",
+            "description": "product that is promoted and sold as a medical cure, which may not have any medical value",
+            "distance_to_root": 5,
+            "number_of_instances": 5,
+            "image_url": "",
+            "id": "wd:Q3480271"
+        },
+        {
+            "label": "radioactive quackery",
+            "description": "",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7281229"
+        },
+        {
+            "label": "Cheating at the Paralympic Games",
+            "description": "Scandals affected the Paralympic Games",
+            "distance_to_root": 6,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5088951"
+        },
+        {
+            "label": "Medicare fraud",
+            "description": "claiming of Medicare health care reimbursement to which the claimant is not entitled",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q6806650"
+        },
+        {
+            "label": "electronic warfare support measures",
+            "description": "electronic warfare activity and equipment to reconnoiter radiated energy sources",
+            "distance_to_root": 4,
+            "number_of_instances": 1,
+            "image_url": "",
+            "id": "wd:Q1327258"
+        },
+        {
+            "label": "school shooting",
+            "description": "occurrence in which gun violence takes place at an educational institution",
+            "distance_to_root": 5,
+            "number_of_instances": 51,
+            "image_url": "",
+            "id": "wd:Q473853"
+        },
+        {
+            "label": "Belarusian collaborationism with the Axis powers",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q263836"
+        },
+        {
+            "label": "WWII Axis collaboration in France",
+            "description": "policy stance",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q444116"
+        },
+        {
+            "label": "Luxembourgish collaboration with Nazi Germany",
+            "description": "",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q15059656"
+        },
+        {
+            "label": "pump and dump",
+            "description": "a form of securities fraud that involves artificially inflating the price of an owned microcap stock through false and misleading positive statements, in order to sell the cheaply purchased stock at a higher price",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3268220"
+        },
+        {
+            "label": "marriage swindler",
+            "description": "romance scammer",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q26271791"
+        },
+        {
+            "label": "Drive-by Pharming",
+            "description": "router exploitation in a vehicle",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q1259334"
+        },
+        {
+            "label": "Whaling",
+            "description": "phishing",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q93572932"
+        },
+        {
+            "label": "mass shooting in the United States",
+            "description": "incidents involving multiple victims of firearm-related violence",
+            "distance_to_root": 4,
+            "number_of_instances": 3,
+            "image_url": "",
+            "id": "wd:Q42915628"
+        },
+        {
+            "label": "Anti-Jewish pogroms in the Russian Empire",
+            "description": "Antisemitic riots in Imperial Russia",
+            "distance_to_root": 4,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q247735"
+        },
+        {
+            "label": "self-inflicted wound",
+            "description": "act of harming oneself where there are no underlying psychological problems",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q2267847"
+        },
+        {
+            "label": "diplomatic illness",
+            "description": "",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q5279929"
+        },
+        {
+            "label": "Tamara",
+            "description": "Czechoslovak electronic support measures system",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q3696227"
+        },
+        {
+            "label": "Ramona",
+            "description": "electronic support measures system",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q7289941"
+        },
+        {
+            "label": "Milice",
+            "description": "",
+            "distance_to_root": 5,
+            "number_of_instances": 0,
+            "image_url": "",
+            "id": "wd:Q579564"
+        }
+    ],
+    "links": [
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q8392"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q28813"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q29137"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q29142"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q34284"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q43442"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q45382"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q50851"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q109931"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q126602"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q132781"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q132821"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q135010"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q160128"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q163942"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q165950"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q178844"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q181784"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q184589"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q184840"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q187436"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q193518"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q200481"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q220277"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q310229"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q329821"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q382265"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q459409"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q525302"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q544394"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q570354"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q578241"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q598041"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q633339"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q641449"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q694752"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q701521"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q706848"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q708562"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q751722"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q799841"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q830532"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q844924"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q857984"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q896988"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q902956"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q905644"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q914841"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q916412"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q930164"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q1040751"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q1075020"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q1134057"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q1137778"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q1154986"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q1156265"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q1259959"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q1266971"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q1283181"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q1361457"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q1361943"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q1371150"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q1520311"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q1546545"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q1728584"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q1796687"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q1975478"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q2026760"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q2571535"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q2655747"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q2785824"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q2853058"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q2881556"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q3002617"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q3244112"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q3316261"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q3496097"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q3502604"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q3686324"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q3858303"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q4377519"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q4692702"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q4696786"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q4774279"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q4796599"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q4804975"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q4922149"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q4959113"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5023193"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5035710"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5088947"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5153559"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5172452"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5185276"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5185281"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5185295"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5185301"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5185377"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5185422"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5185428"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5260820"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5308138"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5432674"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5801901"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5801919"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5998956"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q5999048"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q6189234"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q6315498"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q6452087"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q6875906"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q6887129"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q6914655"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q6983406"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q7075546"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q7075553"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q7075799"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q7079040"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q7105533"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q7209588"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q7223882"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q7252540"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q7445334"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q7605475"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q7622997"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q7654058"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q7897005"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q7918620"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q7959502"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q8002045"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q8202753"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q10265379"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q10638321"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q10896896"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q10901358"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q10968653"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q11487748"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q11519624"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q11640551"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q11869657"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q12185522"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q12701628"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q12761956"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q12809572"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q12878065"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q12969054"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q15056789"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q15624851"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q15903507"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q16184231"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q16973098"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q16988817"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q17125985"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q17142966"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q17149198"
+        },
+        {
+            "parent": "wd:Q83267",
+            "child": "wd:Q17152709"
+        },
+        {
+            "parent": "wd:Q8392",
+            "child": "wd:Q830532"
+        },
+        {
+            "parent": "wd:Q8392",
+            "child": "wd:Q1276313"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q83873"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q137893"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q219407"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q256592"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q380278"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q471880"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q692209"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q830017"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q830193"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q834899"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q838081"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q905983"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q1122388"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q1147347"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q1279549"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q1649915"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q1668020"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q1719080"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q2308363"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q2470625"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q2473321"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q2822122"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q3067612"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q3509042"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q3752489"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q4215744"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q4570975"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q4843420"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q4992408"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q5434347"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q5493924"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q5655527"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q5790542"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q6735709"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q6914655"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q7023752"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q7075554"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q7311358"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q7317165"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q7406131"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q7696336"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q7811552"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q7882915"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q7980959"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q10285711"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q13417167"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q13586711"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q16251652"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q16925235"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q17131641"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q18479385"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q25431340"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q25447302"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q28407966"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q39516045"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q55606057"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q60764090"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q62055976"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q71847667"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q73451793"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q73452779"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q73749192"
+        },
+        {
+            "parent": "wd:Q28813",
+            "child": "wd:Q77195507"
+        },
+        {
+            "parent": "wd:Q29137",
+            "child": "wd:Q1668020"
+        },
+        {
+            "parent": "wd:Q29137",
+            "child": "wd:Q2144405"
+        },
+        {
+            "parent": "wd:Q29137",
+            "child": "wd:Q5157536"
+        },
+        {
+            "parent": "wd:Q29137",
+            "child": "wd:Q5368817"
+        },
+        {
+            "parent": "wd:Q29137",
+            "child": "wd:Q7429858"
+        },
+        {
+            "parent": "wd:Q29137",
+            "child": "wd:Q16738649"
+        },
+        {
+            "parent": "wd:Q29142",
+            "child": "wd:Q4818169"
+        },
+        {
+            "parent": "wd:Q29142",
+            "child": "wd:Q5429679"
+        },
+        {
+            "parent": "wd:Q29142",
+            "child": "wd:Q24327443"
+        },
+        {
+            "parent": "wd:Q29142",
+            "child": "wd:Q25906438"
+        },
+        {
+            "parent": "wd:Q29142",
+            "child": "wd:Q28945444"
+        },
+        {
+            "parent": "wd:Q29142",
+            "child": "wd:Q30344536"
+        },
+        {
+            "parent": "wd:Q29142",
+            "child": "wd:Q52237215"
+        },
+        {
+            "parent": "wd:Q29142",
+            "child": "wd:Q93453476"
+        },
+        {
+            "parent": "wd:Q34284",
+            "child": "wd:Q1569550"
+        },
+        {
+            "parent": "wd:Q34284",
+            "child": "wd:Q2541324"
+        },
+        {
+            "parent": "wd:Q34284",
+            "child": "wd:Q5373782"
+        },
+        {
+            "parent": "wd:Q45382",
+            "child": "wd:Q1935121"
+        },
+        {
+            "parent": "wd:Q45382",
+            "child": "wd:Q4460509"
+        },
+        {
+            "parent": "wd:Q45382",
+            "child": "wd:Q10290435"
+        },
+        {
+            "parent": "wd:Q45382",
+            "child": "wd:Q10290447"
+        },
+        {
+            "parent": "wd:Q50851",
+            "child": "wd:Q844924"
+        },
+        {
+            "parent": "wd:Q50851",
+            "child": "wd:Q2431020"
+        },
+        {
+            "parent": "wd:Q109931",
+            "child": "wd:Q1047483"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q257222"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q513072"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q661297"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q692003"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q809774"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q1049098"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q1145315"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q1415850"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q1545625"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q2296926"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q2604851"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q4117084"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q4385380"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q5256564"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q7139793"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q7180791"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q7295415"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q7623449"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q7827372"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q20433366"
+        },
+        {
+            "parent": "wd:Q132781",
+            "child": "wd:Q28351510"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q644437"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q750215"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q978293"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q1139665"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q1493279"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q1642263"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q1938703"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q2228956"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q3199915"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q3307578"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q3833317"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q3882179"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q3882219"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q4676786"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q4830211"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q5035710"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q5300066"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q5400895"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q7105533"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q9251627"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q11260364"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q13431749"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q13587273"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q16161960"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q50378760"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q51159220"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q51844215"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q66744597"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q85228984"
+        },
+        {
+            "parent": "wd:Q132821",
+            "child": "wd:Q85229074"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q326259"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q328376"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q474884"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q641319"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q701321"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q715434"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q1184996"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q1268118"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q1690716"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q1787901"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q2007759"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q2408310"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q2514383"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q3500671"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q4971469"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q7539194"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q15144437"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q19841484"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q47461958"
+        },
+        {
+            "parent": "wd:Q135010",
+            "child": "wd:Q62470235"
+        },
+        {
+            "parent": "wd:Q160128",
+            "child": "wd:Q156744"
+        },
+        {
+            "parent": "wd:Q160128",
+            "child": "wd:Q329821"
+        },
+        {
+            "parent": "wd:Q160128",
+            "child": "wd:Q57552238"
+        },
+        {
+            "parent": "wd:Q163942",
+            "child": "wd:Q3242086"
+        },
+        {
+            "parent": "wd:Q163942",
+            "child": "wd:Q80571249"
+        },
+        {
+            "parent": "wd:Q165950",
+            "child": "wd:Q836610"
+        },
+        {
+            "parent": "wd:Q165950",
+            "child": "wd:Q1039245"
+        },
+        {
+            "parent": "wd:Q165950",
+            "child": "wd:Q1160650"
+        },
+        {
+            "parent": "wd:Q165950",
+            "child": "wd:Q1538117"
+        },
+        {
+            "parent": "wd:Q165950",
+            "child": "wd:Q1569550"
+        },
+        {
+            "parent": "wd:Q165950",
+            "child": "wd:Q2112749"
+        },
+        {
+            "parent": "wd:Q165950",
+            "child": "wd:Q4168000"
+        },
+        {
+            "parent": "wd:Q165950",
+            "child": "wd:Q5449606"
+        },
+        {
+            "parent": "wd:Q165950",
+            "child": "wd:Q6971717"
+        },
+        {
+            "parent": "wd:Q165950",
+            "child": "wd:Q16821366"
+        },
+        {
+            "parent": "wd:Q165950",
+            "child": "wd:Q17031450"
+        },
+        {
+            "parent": "wd:Q844924",
+            "child": "wd:Q3034076"
+        },
+        {
+            "parent": "wd:Q844924",
+            "child": "wd:Q5998942"
+        },
+        {
+            "parent": "wd:Q844924",
+            "child": "wd:Q6965698"
+        },
+        {
+            "parent": "wd:Q844924",
+            "child": "wd:Q60746521"
+        },
+        {
+            "parent": "wd:Q750215",
+            "child": "wd:Q41397"
+        },
+        {
+            "parent": "wd:Q750215",
+            "child": "wd:Q177716"
+        },
+        {
+            "parent": "wd:Q750215",
+            "child": "wd:Q2235125"
+        },
+        {
+            "parent": "wd:Q750215",
+            "child": "wd:Q2369404"
+        },
+        {
+            "parent": "wd:Q750215",
+            "child": "wd:Q3199915"
+        },
+        {
+            "parent": "wd:Q750215",
+            "child": "wd:Q4808499"
+        },
+        {
+            "parent": "wd:Q750215",
+            "child": "wd:Q21480300"
+        },
+        {
+            "parent": "wd:Q750215",
+            "child": "wd:Q66975460"
+        },
+        {
+            "parent": "wd:Q1642263",
+            "child": "wd:Q135162"
+        },
+        {
+            "parent": "wd:Q3199915",
+            "child": "wd:Q154278"
+        },
+        {
+            "parent": "wd:Q3199915",
+            "child": "wd:Q641319"
+        },
+        {
+            "parent": "wd:Q3199915",
+            "child": "wd:Q5533440"
+        },
+        {
+            "parent": "wd:Q3199915",
+            "child": "wd:Q19841484"
+        },
+        {
+            "parent": "wd:Q3199915",
+            "child": "wd:Q21175615"
+        },
+        {
+            "parent": "wd:Q3882179",
+            "child": "wd:Q96049557"
+        },
+        {
+            "parent": "wd:Q3882219",
+            "child": "wd:Q9026907"
+        },
+        {
+            "parent": "wd:Q3882219",
+            "child": "wd:Q51159756"
+        },
+        {
+            "parent": "wd:Q3882219",
+            "child": "wd:Q88178910"
+        },
+        {
+            "parent": "wd:Q4676786",
+            "child": "wd:Q17197559"
+        },
+        {
+            "parent": "wd:Q50378760",
+            "child": "wd:Q18763761"
+        },
+        {
+            "parent": "wd:Q51159220",
+            "child": "wd:Q51159756"
+        },
+        {
+            "parent": "wd:Q51159220",
+            "child": "wd:Q51159762"
+        },
+        {
+            "parent": "wd:Q3242086",
+            "child": "wd:Q15073372"
+        },
+        {
+            "parent": "wd:Q836610",
+            "child": "wd:Q825712"
+        },
+        {
+            "parent": "wd:Q836610",
+            "child": "wd:Q1406999"
+        },
+        {
+            "parent": "wd:Q836610",
+            "child": "wd:Q17542926"
+        },
+        {
+            "parent": "wd:Q4168000",
+            "child": "wd:Q2944004"
+        },
+        {
+            "parent": "wd:Q4818169",
+            "child": "wd:Q63758372"
+        },
+        {
+            "parent": "wd:Q4818169",
+            "child": "wd:Q63758405"
+        },
+        {
+            "parent": "wd:Q4818169",
+            "child": "wd:Q63758427"
+        },
+        {
+            "parent": "wd:Q4818169",
+            "child": "wd:Q85229357"
+        },
+        {
+            "parent": "wd:Q4818169",
+            "child": "wd:Q85230011"
+        },
+        {
+            "parent": "wd:Q4818169",
+            "child": "wd:Q88178910"
+        },
+        {
+            "parent": "wd:Q25906438",
+            "child": "wd:Q8868"
+        },
+        {
+            "parent": "wd:Q328376",
+            "child": "wd:Q673751"
+        },
+        {
+            "parent": "wd:Q328376",
+            "child": "wd:Q47461958"
+        },
+        {
+            "parent": "wd:Q641319",
+            "child": "wd:Q62470235"
+        },
+        {
+            "parent": "wd:Q701321",
+            "child": "wd:Q7968599"
+        },
+        {
+            "parent": "wd:Q715434",
+            "child": "wd:Q680121"
+        },
+        {
+            "parent": "wd:Q715434",
+            "child": "wd:Q3002635"
+        },
+        {
+            "parent": "wd:Q715434",
+            "child": "wd:Q5551877"
+        },
+        {
+            "parent": "wd:Q1690716",
+            "child": "wd:Q62470235"
+        },
+        {
+            "parent": "wd:Q2514383",
+            "child": "wd:Q834416"
+        },
+        {
+            "parent": "wd:Q15144437",
+            "child": "wd:Q673751"
+        },
+        {
+            "parent": "wd:Q15144437",
+            "child": "wd:Q47459317"
+        },
+        {
+            "parent": "wd:Q2296926",
+            "child": "wd:Q4492615"
+        },
+        {
+            "parent": "wd:Q2604851",
+            "child": "wd:Q2552748"
+        },
+        {
+            "parent": "wd:Q4117084",
+            "child": "wd:Q1754722"
+        },
+        {
+            "parent": "wd:Q1668020",
+            "child": "wd:Q135005"
+        },
+        {
+            "parent": "wd:Q1668020",
+            "child": "wd:Q1154669"
+        },
+        {
+            "parent": "wd:Q1668020",
+            "child": "wd:Q5176967"
+        },
+        {
+            "parent": "wd:Q2144405",
+            "child": "wd:Q5026509"
+        },
+        {
+            "parent": "wd:Q2144405",
+            "child": "wd:Q5205179"
+        },
+        {
+            "parent": "wd:Q2144405",
+            "child": "wd:Q7187193"
+        },
+        {
+            "parent": "wd:Q2144405",
+            "child": "wd:Q56669895"
+        },
+        {
+            "parent": "wd:Q2431020",
+            "child": "wd:Q7546628"
+        },
+        {
+            "parent": "wd:Q83873",
+            "child": "wd:Q11703939"
+        },
+        {
+            "parent": "wd:Q219407",
+            "child": "wd:Q1102146"
+        },
+        {
+            "parent": "wd:Q380278",
+            "child": "wd:Q172380"
+        },
+        {
+            "parent": "wd:Q380278",
+            "child": "wd:Q1394885"
+        },
+        {
+            "parent": "wd:Q380278",
+            "child": "wd:Q83630749"
+        },
+        {
+            "parent": "wd:Q692209",
+            "child": "wd:Q3690014"
+        },
+        {
+            "parent": "wd:Q692209",
+            "child": "wd:Q4216308"
+        },
+        {
+            "parent": "wd:Q692209",
+            "child": "wd:Q12905370"
+        },
+        {
+            "parent": "wd:Q692209",
+            "child": "wd:Q25245416"
+        },
+        {
+            "parent": "wd:Q692209",
+            "child": "wd:Q56632154"
+        },
+        {
+            "parent": "wd:Q838081",
+            "child": "wd:Q5690836"
+        },
+        {
+            "parent": "wd:Q838081",
+            "child": "wd:Q24869073"
+        },
+        {
+            "parent": "wd:Q2822122",
+            "child": "wd:Q854623"
+        },
+        {
+            "parent": "wd:Q3067612",
+            "child": "wd:Q1444528"
+        },
+        {
+            "parent": "wd:Q3752489",
+            "child": "wd:Q2429834"
+        },
+        {
+            "parent": "wd:Q4215744",
+            "child": "wd:Q7811552"
+        },
+        {
+            "parent": "wd:Q4570975",
+            "child": "wd:Q1224413"
+        },
+        {
+            "parent": "wd:Q4843420",
+            "child": "wd:Q5135576"
+        },
+        {
+            "parent": "wd:Q5493924",
+            "child": "wd:Q2583762"
+        },
+        {
+            "parent": "wd:Q5655527",
+            "child": "wd:Q157833"
+        },
+        {
+            "parent": "wd:Q5655527",
+            "child": "wd:Q2533601"
+        },
+        {
+            "parent": "wd:Q6735709",
+            "child": "wd:Q5893287"
+        },
+        {
+            "parent": "wd:Q7023752",
+            "child": "wd:Q163231"
+        },
+        {
+            "parent": "wd:Q7023752",
+            "child": "wd:Q830193"
+        },
+        {
+            "parent": "wd:Q7023752",
+            "child": "wd:Q1468920"
+        },
+        {
+            "parent": "wd:Q7023752",
+            "child": "wd:Q1549399"
+        },
+        {
+            "parent": "wd:Q7023752",
+            "child": "wd:Q1964861"
+        },
+        {
+            "parent": "wd:Q7023752",
+            "child": "wd:Q3824105"
+        },
+        {
+            "parent": "wd:Q7023752",
+            "child": "wd:Q4797279"
+        },
+        {
+            "parent": "wd:Q7023752",
+            "child": "wd:Q4922388"
+        },
+        {
+            "parent": "wd:Q7023752",
+            "child": "wd:Q4992408"
+        },
+        {
+            "parent": "wd:Q7023752",
+            "child": "wd:Q6745100"
+        },
+        {
+            "parent": "wd:Q7023752",
+            "child": "wd:Q7573278"
+        },
+        {
+            "parent": "wd:Q7023752",
+            "child": "wd:Q11791804"
+        },
+        {
+            "parent": "wd:Q7023752",
+            "child": "wd:Q55632208"
+        },
+        {
+            "parent": "wd:Q7023752",
+            "child": "wd:Q83630749"
+        },
+        {
+            "parent": "wd:Q7023752",
+            "child": "wd:Q96460525"
+        },
+        {
+            "parent": "wd:Q7317165",
+            "child": "wd:Q7969199"
+        },
+        {
+            "parent": "wd:Q7980959",
+            "child": "wd:Q833674"
+        },
+        {
+            "parent": "wd:Q7980959",
+            "child": "wd:Q5281194"
+        },
+        {
+            "parent": "wd:Q13586711",
+            "child": "wd:Q2232246"
+        },
+        {
+            "parent": "wd:Q71847667",
+            "child": "wd:Q151900"
+        },
+        {
+            "parent": "wd:Q71847667",
+            "child": "wd:Q2985081"
+        },
+        {
+            "parent": "wd:Q156744",
+            "child": "wd:Q1342294"
+        },
+        {
+            "parent": "wd:Q1468920",
+            "child": "wd:Q3480271"
+        },
+        {
+            "parent": "wd:Q1468920",
+            "child": "wd:Q7281229"
+        },
+        {
+            "parent": "wd:Q1964861",
+            "child": "wd:Q26271791"
+        },
+        {
+            "parent": "wd:Q83630749",
+            "child": "wd:Q16738649"
+        },
+        {
+            "parent": "wd:Q151900",
+            "child": "wd:Q381442"
+        },
+        {
+            "parent": "wd:Q151900",
+            "child": "wd:Q708433"
+        },
+        {
+            "parent": "wd:Q151900",
+            "child": "wd:Q17018082"
+        },
+        {
+            "parent": "wd:Q41397",
+            "child": "wd:Q1371470"
+        },
+        {
+            "parent": "wd:Q41397",
+            "child": "wd:Q3442035"
+        },
+        {
+            "parent": "wd:Q41397",
+            "child": "wd:Q5533462"
+        },
+        {
+            "parent": "wd:Q41397",
+            "child": "wd:Q7311339"
+        },
+        {
+            "parent": "wd:Q41397",
+            "child": "wd:Q13582471"
+        },
+        {
+            "parent": "wd:Q41397",
+            "child": "wd:Q16889816"
+        },
+        {
+            "parent": "wd:Q41397",
+            "child": "wd:Q17029088"
+        },
+        {
+            "parent": "wd:Q177716",
+            "child": "wd:Q247735"
+        },
+        {
+            "parent": "wd:Q21480300",
+            "child": "wd:Q473853"
+        },
+        {
+            "parent": "wd:Q21480300",
+            "child": "wd:Q42915628"
+        },
+        {
+            "parent": "wd:Q135005",
+            "child": "wd:Q1259334"
+        },
+        {
+            "parent": "wd:Q135005",
+            "child": "wd:Q93572932"
+        },
+        {
+            "parent": "wd:Q17542926",
+            "child": "wd:Q1327258"
+        },
+        {
+            "parent": "wd:Q21175615",
+            "child": "wd:Q473853"
+        },
+        {
+            "parent": "wd:Q7187193",
+            "child": "wd:Q55632208"
+        },
+        {
+            "parent": "wd:Q157833",
+            "child": "wd:Q5251066"
+        },
+        {
+            "parent": "wd:Q157833",
+            "child": "wd:Q7535284"
+        },
+        {
+            "parent": "wd:Q1224413",
+            "child": "wd:Q3268220"
+        },
+        {
+            "parent": "wd:Q5281194",
+            "child": "wd:Q5088951"
+        },
+        {
+            "parent": "wd:Q1342294",
+            "child": "wd:Q263836"
+        },
+        {
+            "parent": "wd:Q1342294",
+            "child": "wd:Q444116"
+        },
+        {
+            "parent": "wd:Q1342294",
+            "child": "wd:Q15059656"
+        },
+        {
+            "parent": "wd:Q5690836",
+            "child": "wd:Q488231"
+        },
+        {
+            "parent": "wd:Q5690836",
+            "child": "wd:Q1468920"
+        },
+        {
+            "parent": "wd:Q5690836",
+            "child": "wd:Q3332645"
+        },
+        {
+            "parent": "wd:Q5690836",
+            "child": "wd:Q7180750"
+        },
+        {
+            "parent": "wd:Q5690836",
+            "child": "wd:Q24869073"
+        },
+        {
+            "parent": "wd:Q24869073",
+            "child": "wd:Q6806650"
+        },
+        {
+            "parent": "wd:Q9026907",
+            "child": "wd:Q1475448"
+        },
+        {
+            "parent": "wd:Q488231",
+            "child": "wd:Q2267847"
+        },
+        {
+            "parent": "wd:Q488231",
+            "child": "wd:Q5279929"
+        },
+        {
+            "parent": "wd:Q488231",
+            "child": "wd:Q5281194"
+        },
+        {
+            "parent": "wd:Q1327258",
+            "child": "wd:Q3696227"
+        },
+        {
+            "parent": "wd:Q1327258",
+            "child": "wd:Q7289941"
+        },
+        {
+            "parent": "wd:Q444116",
+            "child": "wd:Q579564"
+        }
+    ]
+}

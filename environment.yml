@@ -1,0 +1,10 @@
+name: hierarchy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - psutil
+  - networkx
+  - pip=20.0.2=py37_3
+  - pip:
+    - pyppeteer
