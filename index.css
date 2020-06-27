@@ -36,15 +36,15 @@ body {
 
 h3 {
     text-align: center;
-    color: #bf9d2e;
-}
-
-p {
-    color: #bf9d2e;
+    color: black;
 }
 
 a {
-    color: #e8bf38
+    color: #0055ff;
+}
+
+p {
+    color: black;
 }
 
 ul {
@@ -68,10 +68,17 @@ ul {
     left: 10vw;
     padding-left: 10px;
     padding-right: 10px;
-    background-color: #352270;
-    border: 5px solid black;
+    background-color: #7c52ff;
+    border: 2px solid #3f18b8;
     border-radius: 100px;
     overflow-y: auto;
+}
+#help-display h3 {
+    color: #fcc200
+}
+
+#help-display a {
+    color: #b6f500;
 }
 
 #help-display.hide {
@@ -90,7 +97,7 @@ ul {
 #help-display p {
     margin-top: 1em;
     margin-bottom: 1em;
-    color: #e8bf38;
+    color: #fcc200;
     text-align: center;
 }
 
@@ -101,7 +108,7 @@ ul {
 
 #close-help-display-anchor {
     cursor: pointer;
-    border: 5px solid black;
+    border: 2px solid #b6f500;
     border-radius: 25px;
     padding: 10px;
 }
@@ -116,7 +123,7 @@ table {
     width: 100vw;
     padding-left: 2vw;
     padding-right: 2vw;
-    background: linear-gradient(130deg, #503b94 0%, #530D8C 50%, #503b94 100%);
+    background: linear-gradient(130deg, #dbb3ff 0%, #ffadf7 50%, #dbb3ff 100%);
 }
 
 #text-display {
@@ -133,13 +140,13 @@ table {
     padding-right: 5vw;
 }
 
-#text-display p a {;
-		   padding-left: 2vw;
-		   padding-right: 5vw;
-		  }
+#text-display p a {
+    padding-left: 2vw;
+    padding-right: 5vw;
+}
 
 img {
-    border: 5px solid #352270;
+    border: 5px solid #7c52ff;
     border-radius: 50px;
 }
 
@@ -158,7 +165,7 @@ img {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    background-color: #352270;
+    background-color: #7c52ff;
 }
 
 #header-row li {
@@ -174,7 +181,7 @@ img {
     padding-left: 3vw;
     padding-right: 3vw;
     font-size: 1vw;
-    color: #D4AF37;
+    color: #beff00;
     transition: all 0.3s;
 }
 
@@ -188,7 +195,7 @@ img {
 }
 
 #header-row li:hover {
-    background-color: #281940;
+    background-color: #352270;
 }
 
 #header-row-show-help-button i {
@@ -210,7 +217,7 @@ img {
 }
 
 #hierarchy {
-    border: 5px solid #352270;
+    border: 5px solid #7c52ff;
     height: 88vh;
     width: 100%;
 }
@@ -225,13 +232,13 @@ img {
 }
 
 .node-expandable {
-    stroke: #D4AF37;
-    fill: #190cab;
+    stroke: black;
+    fill: #e330ff;
 }
 
 .node-leaf {
     stroke: black;
-    fill: #D4AF37;
+    fill: #0062ff;
 }
 
 .node:hover {
@@ -256,7 +263,7 @@ img {
 }
 
 .indirect-edge {
-    stroke: #ff00bb;
+    stroke: #009c0d;
     stroke-width: 4;
     stroke-opacity: 0.25;
     transition: all 0.2s;
